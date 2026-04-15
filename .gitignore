@@ -79,3 +79,7 @@ Thumbs.db
 /frontend/public/data-wanikani/vocab/*.json
 /frontend/public/data-wanikani/kanji_vi/*.json
 /frontend/public/data-wanikani/vocab_vi/*.json
+
+#Other
+CLAUDE.md
+AGENTS.md
