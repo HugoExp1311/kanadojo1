@@ -1,0 +1,4268 @@
+{
+  "ground": {
+    "name": "ground",
+    "character": "一",
+    "description": "This radical consists of a single, horizontal stroke. What's the biggest, single, horizontal stroke? That's the ground. Look at the ground, look at this radical, now look at the ground again. Kind of the same, right?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "two": {
+    "name": "two",
+    "character": "二",
+    "description": "One line plus another line equals two lines. This radical represents the number two. Pretty simple, right? Can you guess what three looks like? I bet you can...",
+    "vietnamese": {
+      "name": "Nhị",
+      "kanji": "二"
+    }
+  },
+  "nine": {
+    "name": "nine",
+    "character": "九",
+    "description": "If you look at this radical in just the right way, you'll notice that it kind of looks like the letters \"n\" and \"i\" (the \"i\" comes from the little flippy-up stroke on the right side). What do the letters \"n\" and \"i\" start spelling? Why, the word nine.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "seven": {
+    "name": "seven",
+    "character": "七",
+    "description": "What does this radical look like? Hmm, nothing much. What about if you turn it upside down? Now does it look like a 7 with a line through it? Close enough to help you to remember that this radical is seven, right? Just remember, when you see this radical, flip it over and see what number it looks like. If you can do that, you can remember the meaning!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "person": {
+    "name": "person",
+    "character": "人",
+    "description": "This is a person. They're standing with their arms down at their sides and their legs spread out, which kind of makes them look like a torso with a pair of legs. Think of 人 as highlighting the bipedal nature of people. Walking on two legs? Probably a person.",
+    "vietnamese": {
+      "name": "Nhân",
+      "kanji": "人"
+    }
+  },
+  "enter": {
+    "name": "enter",
+    "character": "入",
+    "description": "Watch out! This isn't the person radical, it's something else. What's the difference? The right side is longer than the left. This radical also has that extra part sticking out at the top. See it? It kind of looks like a person lowering their head to go inside a tent or something. That's why this radical is enter.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fins": {
+    "name": "fins",
+    "character": "ハ",
+    "description": "These look like fins. What's a pair of disembodied fins doing here?! Some fish must have left them here by accident. Bet they're really missing these fins right about now.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "power": {
+    "name": "power",
+    "character": "力",
+    "description": "Imagine a guy flexing his arm downward to show off his steroid-pumped arm. It's huge. It's so full of power. RARRRWWWRRR!!",
+    "vietnamese": {
+      "name": "Lực",
+      "kanji": "力"
+    }
+  },
+  "cross": {
+    "name": "cross",
+    "character": "十",
+    "description": "This radical looks like a cross. I mean, just look at it. Two bars going through each other = a cross!",
+    "vietnamese": {
+      "name": "Thập",
+      "kanji": "十"
+    }
+  },
+  "toe": {
+    "name": "toe",
+    "character": "ト",
+    "description": "This radical kind of looks like a toe. See the one weird toe coming off the side of it? This also looks like the katakana character ト (to), which sounds like the word \"toe.\" So whenever you see ト, just think toe.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mouth": {
+    "name": "mouth",
+    "character": "口",
+    "description": "A big, gaping, square hole represents someone opening their giant mouth to tell you something stupid.",
+    "vietnamese": {
+      "name": "Khẩu",
+      "kanji": "口"
+    }
+  },
+  "big": {
+    "name": "big",
+    "character": "大",
+    "description": "This radical looks just like a stick figure—more specifically, a really big guy with his arms stretched out nice and big. When you see this radical, just think big, because this guy is really BIG!",
+    "vietnamese": {
+      "name": "Đại",
+      "kanji": "大"
+    }
+  },
+  "woman": {
+    "name": "woman",
+    "character": "女",
+    "description": "This radical looks like a woman curtsying. Another way to think of it could be as two stacked Xs, since women generally have XX chromosomes.",
+    "vietnamese": {
+      "name": "Nữ",
+      "kanji": "女"
+    }
+  },
+  "mountain": {
+    "name": "mountain",
+    "character": "山",
+    "description": "This is a mountain. See the big peak in the middle and the smaller ones on either side? This totally looks like a mountain.",
+    "vietnamese": {
+      "name": "Sơn",
+      "kanji": "山"
+    }
+  },
+  "river": {
+    "name": "river",
+    "character": "川",
+    "description": "This radical already looks like a river. See how the lines represent the flow of the river? There's even a slight bend in this river. So when you see this radical, you should think \"river.\"",
+    "vietnamese": {
+      "name": "Xuyên",
+      "kanji": "川"
+    }
+  },
+  "construction": {
+    "name": "construction",
+    "character": "工",
+    "description": "You know those big steel girders that are used for the frame of big buildings? This is like the end of one of those, and has a very distinct shape, just like this radical. These girders are used in construction, which is why this radical means construction. Funny thing is, you use these girders to put together buildings just like you're going to use this radical to put together kanji!",
+    "vietnamese": {
+      "name": "Công",
+      "kanji": "工"
+    }
+  },
+  "sword": {
+    "name": "sword",
+    "character": "刀",
+    "description": "This is the sword radical. The ノ part is the curvy sword, while the rest is a samurai bowing deeply, like 90 degrees, as he holds that sword — probably before a sword fight. By the way, don't confuse this with the power radical (力). See the difference? In the sword radical (刀), the ノ doesn't pierce through the bowing samurai. (Lucky for him.)",
+    "vietnamese": {
+      "name": "Đao",
+      "kanji": "刀"
+    }
+  },
+  "dirt": {
+    "name": "dirt",
+    "character": "土",
+    "description": "At first this looks like a cross in the ground, but it's actually something growing in the dirt. It's a little sprout, already rocking three leaves. And it's all thanks to that dirt! When you see this radical, think about how amazing it is that things just, like, grow in the dirt.",
+    "vietnamese": {
+      "name": "Thổ",
+      "kanji": "土"
+    }
+  },
+  "thousand": {
+    "name": "thousand",
+    "character": "千",
+    "description": "You have a slide supported by a big cross, which makes it so strong it can hold a lot of people at once. How many? A THOUSAND! Imagine a thousand people going down this slide. You can hear a voice trying to count them as they go: \"ONE! TWO! THREE HUNDRED! FIVE HUNDRED!\" and so on. Finally the last person slides down and the voice calls out: \"A THOUSAND!\" You think it's over, but just as that group finishes, in come another thousand…",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "evening": {
+    "name": "evening",
+    "character": "夕",
+    "description": "This is the top half of a moon peeking out as it begins to rise. When does that happen? In the evening! Don't confuse this with the moon radical 月. 夕 is for the evening, when the moon's still low enough to be partly covered (by a mountain, for example).",
+    "vietnamese": {
+      "name": "Tịch",
+      "kanji": "夕"
+    }
+  },
+  "child": {
+    "name": "child",
+    "character": "子",
+    "description": "This is the radical for child. Aww, see how they're wearing a cap and have their little arms stretched out? You can almost hear them saying \"pick me up!\" A very child-like child.",
+    "vietnamese": {
+      "name": "Tử",
+      "kanji": "子"
+    }
+  },
+  "small": {
+    "name": "small",
+    "character": "小",
+    "description": "You see two fins around a barb, but when you look closer, you realize those fins are actually two tiny fish. Think how small these fins (and fish) would have to be to look so much smaller than an already small barb. Talk about small fry… Yeah, that's why this is the radical for small.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "street": {
+    "name": "street",
+    "character": "丁",
+    "description": "Imagine viewing this one from above — looks like a couple of streets, right? Maybe a three-way intersection at the top there? Well, that's why this is the radical for street.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "barb": {
+    "name": "barb",
+    "character": "亅",
+    "description": "This radical is shaped like a barb. Kind of like the barb you'd see on a barbed fishing hook. Imagine that thing getting stuck in your arm or something. Not exactly pleasant. Say out loud, \"Oh dang, I got a barb stuck in me!\" Alright, relax, it's only a little barb.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stool": {
+    "name": "stool",
+    "character": "又",
+    "description": "This looks just like a folding stool, am I right?",
+    "vietnamese": {
+      "name": "Hựu",
+      "kanji": "又"
+    }
+  },
+  "drop": {
+    "name": "drop",
+    "character": "丶",
+    "description": "This little radical is a drop, maybe of water or some other liquid. Notice how it's only one drop? Sometimes radicals and kanji will have more than one drop in them, but don't let that throw you off.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "slide": {
+    "name": "slide",
+    "character": "丿",
+    "description": "Close your eyes and imagine you're a kid again. Now open them and... look! It's a slide! Imagine little you sliding down this slide over and over, having a great time. Imagination + emotion makes for good memorization!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "middle": {
+    "name": "middle",
+    "character": "中",
+    "description": "This is a stick going through the middle of a mouth. What kind of mouth? Mouth of a cylinder, mouth of a box, a human mouth — whatever kind you want to imagine, as long as the stick is going through the middle of it, since this is the radical for \"middle.\"",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "five": {
+    "name": "five",
+    "character": "五",
+    "description": "If you use your imagination, this radical actually looks like the number \"5.\" You just have to remove the vertical line in the bottom left, plus a few extra ends that stick out here and there. Once you do that, you have an easy way to remember that this radical means five.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lid": {
+    "name": "lid",
+    "character": "亠",
+    "description": "This looks like something you'd put on a kettle or a pot, right? It even has a little handle to make sure you don't burn yourself. This is some kind of lid.",
+    "vietnamese": {
+      "name": "Đầu",
+      "kanji": "亠"
+    }
+  },
+  "head": {
+    "name": "head",
+    "character": "冂",
+    "description": "This is the outline of a head. A really square head, admittedly, but try to imagine it facing to the right. The left side is the back of the head, and the barb-like part on the right shows the curve of the chin. See the head?",
+    "vietnamese": {
+      "name": "Quynh",
+      "kanji": "冂"
+    }
+  },
+  "heaven": {
+    "name": "heaven",
+    "character": "天",
+    "description": "Remember the guy from the big radical? This is him again, but this time he's so big his head is touching heaven. He's looking up and has his arms stretched open toward heaven, and his big hair is poking into those heavenly clouds.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hand": {
+    "name": "hand",
+    "character": "手",
+    "description": "This is the hand radical. If you look at the palm of your right hand, the lines in it probably kinda look like the lines in 手. Sure it's not a perfect match, and everyone's got different hands, but basically this radical looks like the lines in your hand.",
+    "vietnamese": {
+      "name": "Thủ",
+      "kanji": "手"
+    }
+  },
+  "writing": {
+    "name": "writing",
+    "character": "文",
+    "description": "This looks like a stool with a lid on it, but it's actually a desk for writing. Do you see it? You can even see the pen sticking up in the middle. Think of all the beautiful writing that's been produced here. Letters, novels, essays — any kind of writing you can think of.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sun": {
+    "name": "sun",
+    "character": "日",
+    "description": "Since there are no circles in Japanese characters, sometimes rectangles or squares have to make do. In this case, this big rectangle is the sun. The middle line is a cloud, moving across the sun. Picture it, but don't actually look at the sun and burn your eyes!",
+    "vietnamese": {
+      "name": "Nhật",
+      "kanji": "日"
+    }
+  },
+  "moon": {
+    "name": "moon",
+    "character": "月",
+    "description": "This is the moon radical. See how it looks like a crescent moon with a couple of little clouds floating by? Try not to mix this up with the evening radical 夕 — you can see the whole crescent moon this time, so obviously this should be the radical for moon!",
+    "vietnamese": {
+      "name": "Nguyệt/Nhục",
+      "kanji": "月"
+    }
+  },
+  "tree": {
+    "name": "tree",
+    "character": "木",
+    "description": "Do you see the tree in here? It has branches, and then it has the foliage coming down diagonally from it, spreading out like a tree would. That's why this radical is a tree.",
+    "vietnamese": {
+      "name": "Mộc",
+      "kanji": "木"
+    }
+  },
+  "water": {
+    "name": "water",
+    "character": "水",
+    "description": "This is the radical for water. It's the water radical because it kind of looks like water coming out of a faucet and splashing everywhere. See how it flows off in different directions too? Very water-like! As water-like as a radical can be, anyway…",
+    "vietnamese": {
+      "name": "Thủy",
+      "kanji": "水"
+    }
+  },
+  "fire": {
+    "name": "fire",
+    "character": "火",
+    "description": "This is the radical for fire. It's got three little flames on top and even a couple logs underneath.",
+    "vietnamese": {
+      "name": "Hỏa",
+      "kanji": "火"
+    }
+  },
+  "dog": {
+    "name": "dog",
+    "character": "犬",
+    "description": "Remember the big guy who helped you with that big radical? Now you've got his big DOG! You know it's a dog because he's lying down, legs all spread out, with his favorite bone right beside his head.",
+    "vietnamese": {
+      "name": "Khuyển",
+      "kanji": "犬"
+    }
+  },
+  "king": {
+    "name": "king",
+    "character": "王",
+    "description": "This is the king radical. Picture this king sitting on his solid, squarish throne. The top stroke is the high back of the throne. The cross in the middle is his body, with his arms spread out on the arm rests. The bottom stroke is the ground. See him sitting there now, looking all dignified. Talk about a kingly king.",
+    "vietnamese": {
+      "name": "Vương",
+      "kanji": "王"
+    }
+  },
+  "narwhal": {
+    "name": "narwhal",
+    "character": "ナ",
+    "description": "This radical looks like a narwhal. See the tail at the bottom, and the majestic narwhal horn poking out at the top? It also looks like the katakana character ナ (na), so you can remember it that way too. Na-na-na-narwhal! Just be careful not to confuse this with the treasure radical (メ). The sideways line for that one is at more of a downward angle, like an \"X.\" But the sideways line for narwhal is horizontal (ナ).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "legs": {
+    "name": "legs",
+    "character": "儿",
+    "description": "This radical already looks like a pair of legs. There's even feet on these legs. That's how you know these are legs and not fins (or something else).",
+    "vietnamese": {
+      "name": "Nhân đi",
+      "kanji": "儿"
+    }
+  },
+  "book": {
+    "name": "book",
+    "character": "本",
+    "description": "What's something useful you can get out of a tree? A book! Just cut that book right out of the tree trunk. If you think about it, every tree contains unlimited book potential. It's just a shame they have to be cut down to make the books…",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stop": {
+    "name": "stop",
+    "character": "止",
+    "description": "There's a stick and a giant toe stuck in the ground. Imagine walking along and seeing these things in your path. What would you do? Most likely come to a complete stop. You know, because of the toe. I guess a normal stop sign wasn't good enough, so they also put up this big toe to really get people to stop.",
+    "vietnamese": {
+      "name": "Chỉ",
+      "kanji": "止"
+    }
+  },
+  "rice-paddy": {
+    "name": "rice-paddy",
+    "character": null,
+    "description": "In Japan rice paddies are made up of square fields with irrigation lines going between them. See the four rice paddies with water flowing between and around them? That's why this radical is rice paddy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bow": {
+    "name": "bow",
+    "character": "弓",
+    "description": "This radical looks like a fancy composite bow people would use to shoot at targets and definitely not any normal living animals. See how the middle part is being pulled back? Imagine holding this bow and firing it at a target shaped like a giant alligator-crab monster.",
+    "vietnamese": {
+      "name": "Cung",
+      "kanji": "弓"
+    }
+  },
+  "door": {
+    "name": "door",
+    "character": "戸",
+    "description": "This one looks like a flag, but don't be fooled — it's got a line over the top of it, kind of like a door frame. That makes this a little door. Specifically a swinging door, with the vertical line on the left being its door hinge. Kind of a weird door, it's true, but you can see it, right?",
+    "vietnamese": {
+      "name": "Hộ",
+      "kanji": "戸"
+    }
+  },
+  "leaf": {
+    "name": "leaf",
+    "character": "丆",
+    "description": "There's a leaf on top and a stem going down out of it, making this the leaf radical. It's a pretty wide and flat leaf, so if it helps you can imagine it as a lily pad leaf.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "prison": {
+    "name": "prison",
+    "character": "勹",
+    "description": "This looks like an enclosure of sorts — that's why it's a prison. Imagine a tiny prisoner curled up inside, staring off into space, completely convinced they're trapped forever. Ironically this prison is actually wide open. They're just so consumed with self-pity that they haven't realized they've been free to leave all along.",
+    "vietnamese": {
+      "name": "Bao",
+      "kanji": "勹"
+    }
+  },
+  "stand": {
+    "name": "stand",
+    "character": "立",
+    "description": "This looks like someone in a standing position with legs planted firmly on the ground, spreading their arms out in a T-pose to maintain balance. So that makes this the radical for stand.",
+    "vietnamese": {
+      "name": "Lập",
+      "kanji": "立"
+    }
+  },
+  "cow": {
+    "name": "cow",
+    "character": "牛",
+    "description": "This is the cow radical. It kind of looks like the long face of a cow, right? You can think of that top horizontal line as its horns. Seeing it yet? It's got a little tuft of hair on its head, and some kind of accessory on the horn to your left, so this is a very stylish cow.",
+    "vietnamese": {
+      "name": "Ngưu",
+      "kanji": "牛"
+    }
+  },
+  "heart": {
+    "name": "heart",
+    "character": "心",
+    "description": "Take a good look at this one. It kind of looks like a heart. Not the heart emoji kind, but a real-deal beating heart. Basically, there's a lump in the middle (the heart), and three lines that make up the arteries. Okay, so it's not the most anatomically correct heart, but just look at those floppy arteries going in and out, doing their thing and keeping you alive. What's not to love?",
+    "vietnamese": {
+      "name": "Tâm",
+      "kanji": "心"
+    }
+  },
+  "white": {
+    "name": "white",
+    "character": "白",
+    "description": "Add a drop of the sun to something and it will turn it white. The sun is really strong, so even a single drop will burn anything white. Why do you think so many beaches are white? Even the drops of sunblock you use to stop the sun's rays is white. So when you think of sun drops, think white.",
+    "vietnamese": {
+      "name": "Bạch",
+      "kanji": "白"
+    }
+  },
+  "eye": {
+    "name": "eye",
+    "character": "目",
+    "description": "See the iris in the middle of the eyeball? Remember that there are no round things in kanji, so square things take their place. That makes this a pretty realistic, square eye. You just have to squint with your real eyes a bit.",
+    "vietnamese": {
+      "name": "Mục",
+      "kanji": "目"
+    }
+  },
+  "origin": {
+    "name": "origin",
+    "character": "元",
+    "description": "You have two lines with legs below them. And what is that bit above the legs? Well, it's where you came from — your origin. Yep, between two legs is where you originated, no matter how you look at it.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "private": {
+    "name": "private",
+    "character": "ム",
+    "description": "This is a little triangle that's almost completely closed off. When you want to be alone, you hide in a place where you can be in private. That's why this is the private radical. You're closing yourself off to the rest of the world, with just a little peephole.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "father": {
+    "name": "father",
+    "character": "父",
+    "description": "This is the father radical, since you can see a very fatherly face in it — two droopy eyes at the top, a big nose in the middle, and a mustache flaring out at the bottom. Sort of a generic older gentleman father-type face, isn't it?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fur": {
+    "name": "fur",
+    "character": "毛",
+    "description": "Do you remember the hair radical? This is like that, except now the hair is attached to a tail. Animals don't usually have hair though. Instead, they have fur.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "winter": {
+    "name": "winter",
+    "character": "夂",
+    "description": "This is the radical for winter. It looks like a skier going downhill (to the left), with their skis out in front and their poles out behind them. And when do people ski? In winter!",
+    "vietnamese": {
+      "name": "Truy",
+      "kanji": "夂"
+    }
+  },
+  "fingers": {
+    "name": "fingers",
+    "character": "扌",
+    "description": "This looks like a long index finger bent at the bottom, with several other stubby fingers growing out of it on either side. That makes it the fingers radical. A bit creepy, but imagine how easily you could grip something or scratch your back with fingery fingers like these. Pretty nice, right?",
+    "vietnamese": {
+      "name": "Thủ",
+      "kanji": "扌"
+    }
+  },
+  "spoon": {
+    "name": "spoon",
+    "character": "匕",
+    "description": "This radical looks like a spoon! Well, a spoon that's been bent a lot by an angry person or a psychic. Go grab a spoon and try to bend it into this shape. Then hold on to it so you'll never forget that this is the spoon radical!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "old": {
+    "name": "old",
+    "character": "古",
+    "description": "Put a cross over the mouth of a container full of all the old things you no longer need. They've all served their purpose but have gotten old, so it's now time to let them rest in peace under the cross. Goodbye, old things!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "triceratops": {
+    "name": "triceratops",
+    "character": "⺌",
+    "description": "The three horns represent the triceratops, one of the most awesome dinosaurs ever.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "now": {
+    "name": "now",
+    "character": "今",
+    "description": "This is the radical for now. It's a bit tough to see, but it kind of looks like a fancy clock. The 𠆢 is the top part hanging over the clock. The ラ shows a triangular clock face with a little cuckoo on top, peeking out to tell you this means now — right now!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "dry": {
+    "name": "dry",
+    "character": "干",
+    "description": "This looks like a clothesline pole you would dry clothes on. It's got two very straight horizontal poles, for maximum drying efficiency. If you were gonna dry your clothes, you'd dry them on this thing.",
+    "vietnamese": {
+      "name": "Can",
+      "kanji": "干"
+    }
+  },
+  "task": {
+    "name": "task",
+    "character": "用",
+    "description": "This looks like a little whiteboard to keep track of your tasks for the day. It's got three little legs on the bottom. And see those blank squares? They're sticky notes you can write your tasks on. Work tasks, school tasks, WaniKani reviews… So what are your tasks for today? Imagine putting them in those little squares.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "canopy": {
+    "name": "canopy",
+    "character": "广",
+    "description": "This is a canopy. See the cloth draping down and the little point at the middle holding it up? You could sit under here and enjoy a bright summer day without getting any sun!",
+    "vietnamese": {
+      "name": "Nghiễm",
+      "kanji": "广"
+    }
+  },
+  "towel": {
+    "name": "towel",
+    "character": "巾",
+    "description": "There's something draped over that stick. It's a towel! It's the kind of towel you clean with, so it's sort of old and crusty, which is why it holds its square shape even when it's hanging on the stick like that.",
+    "vietnamese": {
+      "name": "Cân",
+      "kanji": "巾"
+    }
+  },
+  "arrow": {
+    "name": "arrow",
+    "character": "矢",
+    "description": "This is a gun on top of a big person. The gun is big too, obviously. Why is this big guy's gun so big? Because it shoots arrows! Bullets are pretty small, so the guns that shoot them can be any size. But you need a big gun if you want to shoot a big arrow, right? That's why this is the radical for arrow.",
+    "vietnamese": {
+      "name": "Thỉ",
+      "kanji": "矢"
+    }
+  },
+  "world": {
+    "name": "world",
+    "character": "世",
+    "description": "Use your imagination to draw a circle outside this shape. The grids from the radical start to look like longitude and latitude lines on a globe, don't they? That's why this is the world.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "master": {
+    "name": "master",
+    "character": "主",
+    "description": "The king is hovering a drop of water over his head. He's acquired the ability to manipulate water at will, making him the master of all water! If you think about how all life depends on water, that really makes him the master of everything…",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "leader": {
+    "name": "leader",
+    "character": "ｲ",
+    "description": "This radical technically means person (like 人), but we're going to shift the meaning a little bit. It's kind of like the person radical, but it's taller and skinnier, standing above the others and raising its fist to lead them. That's why this is a leader, not a regular person.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "direction": {
+    "name": "direction",
+    "character": "方",
+    "description": "This radical looks like a dude running off to the right. He's heading in a very distinct direction. Which direction was it again?",
+    "vietnamese": {
+      "name": "Phương",
+      "kanji": "方"
+    }
+  },
+  "alligator": {
+    "name": "alligator",
+    "character": "也",
+    "description": "See the mouth and long, fang-like teeth of this alligator, which is facing to the right? You wouldn't want to get your hand stuck in there, that's for sure.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stick": {
+    "name": "stick",
+    "character": "丨",
+    "description": "This is a stick, sticking straight up. It even looks like a stick.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stone": {
+    "name": "stone",
+    "character": "石",
+    "description": "A leaf growing out of a… mouth?? Look again and see the mouth is actually made of stone. The leaf here was just growing out of a crack on the side. Makes this stone mouth sculpture look kinda elegant, if you ask me. And obviously leaves don't grow on mouths, so whenever you see a leaf on a mouth, remember it's gotta be stone.",
+    "vietnamese": {
+      "name": "Thạch",
+      "kanji": "石"
+    }
+  },
+  "ceremony": {
+    "name": "ceremony",
+    "character": "弋",
+    "description": "This radical looks like a person with a long dress running behind them. That's because they're all dressed up to go to a ceremony. You usually have to wear a long dress (or something formal) if you're going to a big ceremony, right? So when you see this radical, think of all the different ceremonies you might have to go to in your life and what you'll need to wear.",
+    "vietnamese": {
+      "name": "Dặc",
+      "kanji": "弋"
+    }
+  },
+  "horns": {
+    "name": "horns",
+    "character": "丷",
+    "description": "Can you see the horns? You could put these horns on anything. Donkeys, people, monkeys, and so on. That's exactly what we'll be doing when we learn kanji that have horns too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "forehead": {
+    "name": "forehead",
+    "character": "冖",
+    "description": "Sure, this forehead is a bit square, but that's because it's the top part of the head (冂) radical. This is just the forehead part of that! You can even imagine this as the forehead of Frankenstein's monster, since his forehead was pretty square too.",
+    "vietnamese": {
+      "name": "Mịch",
+      "kanji": "冖"
+    }
+  },
+  "branch": {
+    "name": "branch",
+    "character": "支",
+    "description": "There's a cross branching off of this stool. Since it's branching out, we'll just call this the branch radical. I guess the tree this stool was made of is coming back to life in the form of a branch.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "plate": {
+    "name": "plate",
+    "character": "皿",
+    "description": "This is a few plates drying on a rack. They're stacked together in a line. Imagine reaching out and grabbing one of those plates for yourself. And you only need one, so let's call this radical plate.",
+    "vietnamese": {
+      "name": "Mãnh",
+      "kanji": "皿"
+    }
+  },
+  "umbrella": {
+    "name": "umbrella",
+    "character": "乚",
+    "description": "This radical looks like an umbrella, specifically just the handle part. A good old curvy umbrella handle, so you can hang that umbrella on your arm when it stops raining.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spirit": {
+    "name": "spirit",
+    "character": "ネ",
+    "description": "This radical looks like some sort of spirit. It faces to the left with a big hood over its head, and creepy arms slanting downward at the sides. Can you picture it?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "roof": {
+    "name": "roof",
+    "character": "宀",
+    "description": "This is a roof ー a flat roof with a little chimney sticking out. How cute!",
+    "vietnamese": {
+      "name": "Miên",
+      "kanji": "宀"
+    }
+  },
+  "gun": {
+    "name": "gun",
+    "character": "𠂉",
+    "description": "This looks a lot like a gun pointing to the right. You have a handle on the left, and the barrel pointing to the right. Imagine it hanging in a case on the wall in a museum.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "energy": {
+    "name": "energy",
+    "character": "气",
+    "description": "This is the radical for energy. If you imagine a train under this radical, then the lines would be steam bursting out of it, flowing back from the front of the train (on the left) as it goes chugging along. Steam was the best way to generate energy back in the day, you know? That's why this is the radical for energy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "thread": {
+    "name": "thread",
+    "character": "糸",
+    "description": "In some poop you find something small. You lean in, carefully pull it out, and realize it's a thread. What's that doing there? Well, it came from a cat, and cats love to eat thread when you aren't looking. And floss and hoodie strings and mouse tails… But this time, just thread.",
+    "vietnamese": {
+      "name": "Mịch",
+      "kanji": "糸"
+    }
+  },
+  "insect": {
+    "name": "insect",
+    "character": "虫",
+    "description": "This looks like the middle radical on top of a sideways leaf. What can you often find sitting on the middle of a leaf? An insect. Insects looove sitting right in the middle of leaves. That's why this is the insect radical.",
+    "vietnamese": {
+      "name": "Trùng",
+      "kanji": "虫"
+    }
+  },
+  "bamboo": {
+    "name": "bamboo",
+    "character": "竹",
+    "description": "See how tall the stalks are with little bushy things at the top? It kind of looks like bamboo, if you use your imagination.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "treasure": {
+    "name": "treasure",
+    "character": "メ",
+    "description": "This radical is treasure because \"X marks the spot,\" as they say. Doesn't it look like the X on a pirate treasure map? You want to go find that treasure now, right?!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "measurement": {
+    "name": "measurement",
+    "character": "寸",
+    "description": "Have you ever used one of those triangular rulers? This looks just like one of those, because this is the measurement radical. Just think of all the angles you could measure with this thing!",
+    "vietnamese": {
+      "name": "Thốn",
+      "kanji": "寸"
+    }
+  },
+  "see": {
+    "name": "see",
+    "character": "見",
+    "description": "This eye has legs, since you have to let your eyes run over something in order to see it. That's why those eyes need legs — to see. They're wandering eyes, they want to see the world!!",
+    "vietnamese": {
+      "name": "Kiến",
+      "kanji": "見"
+    }
+  },
+  "flowers": {
+    "name": "flowers",
+    "character": "艹",
+    "description": "See the little things sticking out of the ground? Those little things are pretty little flowers.",
+    "vietnamese": {
+      "name": "Thảo",
+      "kanji": "艹"
+    }
+  },
+  "ear": {
+    "name": "ear",
+    "character": "耳",
+    "description": "This is the ear radical, since it looks like an ear. As much as a radical can, anyway. Those two middle lines are the ridges that guide the sound into your ear, and the lines that stick out to the right are where the ear attaches to your head.",
+    "vietnamese": {
+      "name": "Nhĩ",
+      "kanji": "耳"
+    }
+  },
+  "foot": {
+    "name": "foot",
+    "character": "足",
+    "description": "This is the foot radical. See the person doing a flying dragon kick to the right? What do they hit the target with? Obviously their foot. Imagine that foot coming straight at your face. At that point, your only hope is that it's clean. Nobody wants a foot to the face, especially not a filthy foot.",
+    "vietnamese": {
+      "name": "Túc",
+      "kanji": "足"
+    }
+  },
+  "shellfish": {
+    "name": "shellfish",
+    "character": "貝",
+    "description": "This radical looks like a shellfish. What looks like the eye radical is its long spiral shell. The bottom part that looks like fins is its little legs poking out, helping the shellfish move around.",
+    "vietnamese": {
+      "name": "Bối",
+      "kanji": "貝"
+    }
+  },
+  "red": {
+    "name": "red",
+    "character": "赤",
+    "description": "A pile of dirt fell on you and now your legs and (scuba) fins are sticking out from under it, turning red. You know, because you've been stuck in the sun so long. Everything's all sunburned and red. Can scuba fins get a sunburn? Yeah, when it's red hot outside. That's why this means \"red.\"",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "not": {
+    "name": "not",
+    "character": "不",
+    "description": "This looks like a regular arrow, but it's not. Let's call it the \"not arrow.\" It can not move forward, because it's been stopped by some kind of line above it. Every arrow wants to fly, but this one is not going anywhere. Look at it, being all negated like that. Well, that's just what this radical does. It nots things.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "car": {
+    "name": "car",
+    "character": "車",
+    "description": "Doesn't this look like a top-down view of the frame of a car? There are the axles at the top and bottom, and the body in the middle between them. That's why this is the car radical.",
+    "vietnamese": {
+      "name": "Xa",
+      "kanji": "車"
+    }
+  },
+  "samurai": {
+    "name": "samurai",
+    "character": "士",
+    "description": "The samurai radical looks a lot like the dirt radical. The difference is this one has a longer top horizontal line, which is for those broad warrior shoulders. The bottom line is also shorter, since it's the little cushion the samurai is sitting on. Samurai didn't just fight, you know. They sat on cushions and wrote poems and stuff too. This is a very sensitive samurai.",
+    "vietnamese": {
+      "name": "Sĩ",
+      "kanji": "士"
+    }
+  },
+  "meet": {
+    "name": "meet",
+    "character": "会",
+    "description": "Under the hat there are two people meeting in private. Look at them huddled up in there. They must have a reason to want to meet in such a private place, but that's not for you to judge. Maybe next time you have to meet with someone you'll hide under a hat with them too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mustache": {
+    "name": "mustache",
+    "character": "冋",
+    "description": "See the mustache going around the mouth? Man, I wish I could grow a sweet mustache like this. (Sure, the mustache looks a lot like the head radical here, but just imagine it as a mustache this time!)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "window": {
+    "name": "window",
+    "character": "毋",
+    "description": "See the criss-cross in the almost-square shape? That's the frames of a big window you can look out of. It's not perfectly shaped like a rice field, it's more artistic. That's why this is a window and 田 is not.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "pi": {
+    "name": "pi",
+    "character": "兀",
+    "description": "Obviously, this looks just like the good ol' 3.14 something-something all people are supposed to learn about. It's the math symbol that has to do with circles... pi!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wolverine": {
+    "name": "wolverine",
+    "character": "ヨ",
+    "description": "You know Wolverine from the X-Men? He has three claws that come out of his hand whenever he needs to fight, not at all unlike the radical you see here.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "rice": {
+    "name": "rice",
+    "character": "米",
+    "description": "This is the radical for rice. Specifically raw rice, like the grain that grows out of the ground when rice is raw and fresh. When rice is particularly ripe, it'll kind of look like this at the top of the stalks. See the long leaves and the little rice tufts at the top? That's why this radical is \"rice.\"",
+    "vietnamese": {
+      "name": "Mễ",
+      "kanji": "米"
+    }
+  },
+  "feathers": {
+    "name": "feathers",
+    "character": "羽",
+    "description": "This radical already looks like a pair of rectangular feathers, right? I guess those short lines in each feather are like the filaments of the feathers.",
+    "vietnamese": {
+      "name": "Vũ",
+      "kanji": "羽"
+    }
+  },
+  "tsunami": {
+    "name": "tsunami",
+    "character": "氵",
+    "description": "A single drop (丶) is just water. But as soon as there are three, rising higher and higher, you know what's coming. A tsunami! Think of those drops as wave crests. Three whole tsunami waves, stacking up? That's a big tsunami.",
+    "vietnamese": {
+      "name": "Thủy",
+      "kanji": "氵"
+    }
+  },
+  "beggar": {
+    "name": "beggar",
+    "character": "写",
+    "description": "Doesn't this look like someone on their knees, holding their clasped hands out and begging for something (forgiveness, their life, a promotion, etc.)? That's why this radical is known as the beggar.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "meat": {
+    "name": "meat",
+    "character": "肉",
+    "description": "This is the radical for meat. What's meat-like about this? Think of a nice square slab of meat with some beautiful 人-shaped marbling lines in it. Seeing it now? Mmm, meat.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "self": {
+    "name": "self",
+    "character": "自",
+    "description": "Remember the eye radical? Imagine that's your eye now, and there's a drop of paint falling into it, making your eye color unique. Now it's what makes you you. It's what makes you your self.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "coffin": {
+    "name": "coffin",
+    "character": "耂",
+    "description": "See the slide going into the dirt? What appears to be a slide here is actually a coffin, sliding into the dirt to be buried.",
+    "vietnamese": {
+      "name": "Lão",
+      "kanji": "耂"
+    }
+  },
+  "key": {
+    "name": "key",
+    "character": "乍",
+    "description": "This is a very oddly shaped key, but it's a key nonetheless.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lip-ring": {
+    "name": "lip-ring",
+    "character": null,
+    "description": "This looks like something hooked around the corner of a mouth — it's a lip ring! Use your imagination, because it's either a giant lip ring or a very small mouth. It's angular because kanji prefer straight lines, but try to picture it as the kind of studded, angular lip ring your trendy friend wore in high school.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "ice": {
+    "name": "ice",
+    "character": "冫",
+    "description": "Remember the radical for drop (of liquid)? Looks like it's shattered into two pieces here, which means it must be ice now. You know, since a drop could only break in two after turning into ice.",
+    "vietnamese": {
+      "name": "Băng",
+      "kanji": "冫"
+    }
+  },
+  "west": {
+    "name": "west",
+    "character": "西",
+    "description": "You have the legs of a bird with wings outspread, landing in the mouth of her nest to rest. And when does she go back to rest? When the sun sets in the west! Imagine all the birds flying home as the sun sets. That's why this radical means west.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "color": {
+    "name": "color",
+    "character": "色",
+    "description": "In prison, dreaming in bed is the only way to see color. Picture a dark, dank cell with four gray walls. Now imagine the colorful dreamscapes your bed would take you to every night. What a contrast! That's why a prison bed = color.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "go": {
+    "name": "go",
+    "character": "行",
+    "description": "You have the radicals for loiter, two, and barb. Someone who uses two barbs on you while you're loitering really wants you to GO!! GO on, stop loitering outside of my convenience store, ya dang kids!",
+    "vietnamese": {
+      "name": "Hành",
+      "kanji": "行"
+    }
+  },
+  "flag": {
+    "name": "flag",
+    "character": "尸",
+    "description": "See the flag in this radical? There's a pole with a flag on the end of it, blowing in the wind. Basically, this radical looks just like a flag.",
+    "vietnamese": {
+      "name": "Thi",
+      "kanji": "尸"
+    }
+  },
+  "hair": {
+    "name": "hair",
+    "character": "彡",
+    "description": "These three streaks look like the flowing locks of someone's hair. Pretty easy to see and remember that this is the hair radical, right?",
+    "vietnamese": {
+      "name": "Sam",
+      "kanji": "彡"
+    }
+  },
+  "lantern": {
+    "name": "lantern",
+    "character": "开",
+    "description": "Think of an old-style lantern. It's in a box-shaped holder lined with rice paper and sits on four legs (you can only see two from this angle though). You can imagine people using these before electricity, right? That's why this radical is a lantern.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hat": {
+    "name": "hat",
+    "character": "𠆢",
+    "description": "Do you know those rice paddy hats? The ones shaped just like this radical? That's why this radical is a hat.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "run": {
+    "name": "run",
+    "character": "走",
+    "description": "See the person running (to the right)? That's why this is the radical for run. Just don't confuse this with foot (足). The head in this one has streaks around it because the person is running so fast.",
+    "vietnamese": {
+      "name": "Tẩu",
+      "kanji": "走"
+    }
+  },
+  "say": {
+    "name": "say",
+    "character": "言",
+    "description": "There are a bunch of lines coming out of a mouth. Think of them as speech lines in a little speech bubble. Those lines represent the things you say.",
+    "vietnamese": {
+      "name": "Ngôn",
+      "kanji": "言"
+    }
+  },
+  "scooter": {
+    "name": "scooter",
+    "character": "⻌",
+    "description": "This radical is a scooter. See the handlebars and the little light? And there's a platform at the bottom you can stand or sit on (if it's one of those nice motorized scooters).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "village": {
+    "name": "village",
+    "character": "里",
+    "description": "A rice paddy and some dirt — dirt roads, in fact, because this is a village. Small villages like this are mostly rice paddies and dirt (roads), you know? You could even think of this as a bird's-eye view of a village.",
+    "vietnamese": {
+      "name": "Lý",
+      "kanji": "里"
+    }
+  },
+  "axe": {
+    "name": "axe",
+    "character": "斤",
+    "description": "This is the radical for axe, since it looks like one. The two horizontal strokes are the head, the long left line is the whole edge of its blade, and the vertical line in the middle is its short handle. Kind of a strange axe, I admit, but an axe is an axe.",
+    "vietnamese": {
+      "name": "Cân",
+      "kanji": "斤"
+    }
+  },
+  "viking": {
+    "name": "viking",
+    "character": "龸",
+    "description": "On the top part of the head (冂) radical, there is a horn radical with one extra spike in the middle. This is a horned helmet with one extra spike. Who were famous for having horned helmets like that? The Vikings! That's why this radical is called Viking.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lack": {
+    "name": "lack",
+    "character": "欠",
+    "description": "A (modified) prison radical containing a person radical. What does a person experience in prison? Lack. Prison is all about lack — lack of freedom, lack of the comforts of home, lack of privacy, lack of conversation. Yep, the life of a person in prison is defined by lack.",
+    "vietnamese": {
+      "name": "Khiếm",
+      "kanji": "欠"
+    }
+  },
+  "gold": {
+    "name": "gold",
+    "character": "金",
+    "description": "Underneath that hat are two bars of gold, but under those there are some spikes. This is some kind of trap for people who try to take your gold. And why else would you make a trap? Everyone wants to protect their gold.",
+    "vietnamese": {
+      "name": "Kim",
+      "kanji": "金"
+    }
+  },
+  "blue": {
+    "name": "blue",
+    "character": "青",
+    "description": "You have life on top of the moon (ignore that life is missing its little slide on the left side). What would life on the moon look like? Well, first of all, they have no air, so they probably look pretty blue from asphyxiation. When you meet them, it turns out you're right. They're a civilization of blue people. Imagine them all living up there, being blue and Smurfy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sheep": {
+    "name": "sheep",
+    "character": "羊",
+    "description": "This is a very fluffy sheep. See the two horns poking up and all its wool poking out to the side? It's so fluffy that you can hardly see its tiny little legs. What a cute sheep!",
+    "vietnamese": {
+      "name": "Dương",
+      "kanji": "羊"
+    }
+  },
+  "yakuza": {
+    "name": "yakuza",
+    "character": "歹",
+    "description": "This radical looks like a yakuza. See him facing left, with that threatening jawline and big pompadour hairstyle? Maybe imagine a couple scars on his face too. You know, real yakuza-like.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "city": {
+    "name": "city",
+    "character": "市",
+    "description": "This radical is the same as the kanji. It means city.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "blood": {
+    "name": "blood",
+    "character": "血",
+    "description": "You see a little drop of something on your plate. Oh no… it's BLOOD!!! Yep, you're bleeding. Now you have to wash that plate again — just as soon as the bleeding stops. Don't worry, your platelets should stop the bleeding soon. Haha, get it? PLATE-lets? Like blood platelets? Japanese blood jokes.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "jet": {
+    "name": "jet",
+    "character": "未",
+    "description": "This is like one of those jets that have the little nose-wings going on too. Imagine you're looking at the jet from the top down, this is what it would look like. It's also why this is the jet radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "life": {
+    "name": "life",
+    "character": "生",
+    "description": "Remember the sprout from the dirt radical? This looks like that, but wait a minute… there's some extra growth now! This thing is so full of life! It's even got a big, slide-shaped leaf growing on the top left. That's why it's the life radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lion": {
+    "name": "lion",
+    "character": "L",
+    "description": "This L-shaped radical is the lion radical, because \"L\" is for \"Lion.\" It also looks like a lion's mouth being opened really, really wide. Imagine a lion opening its mouth to yawn. It looks like this radical!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "long": {
+    "name": "long",
+    "character": "長",
+    "description": "When a stick figure has hair that drags on the ground and gets kicked all the time, you know that hair's gotta be long. Why is it so looooong?!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "rain": {
+    "name": "rain",
+    "character": "雨",
+    "description": "The towel is getting soaked with drops of liquid. That's because it's raining. Get your towels and other clothes inside before they get soaked through from this rain!",
+    "vietnamese": {
+      "name": "Vũ",
+      "kanji": "雨"
+    }
+  },
+  "twenty": {
+    "name": "twenty",
+    "character": "廾",
+    "description": "You have 十 plus 十 (never mind that the left one is kinda curvy)... What do you get when you add these two kanji together? You get twenty.",
+    "vietnamese": {
+      "name": "Củng",
+      "kanji": "廾"
+    }
+  },
+  "poop": {
+    "name": "poop",
+    "character": "幺",
+    "description": "For better or worse, this looks enough like the poop emoji (💩) to make this the poop radical. Try to remember it for its distinct outline. If it helps you can also note the private radical on the bottom of this one, since you should probably be in private when you poop…",
+    "vietnamese": {
+      "name": "Yêu",
+      "kanji": "幺"
+    }
+  },
+  "box": {
+    "name": "box",
+    "character": "凵",
+    "description": "This box is open. There could be any number of things inside, but for now all you need to know is the meaning of this radical, which is box.",
+    "vietnamese": {
+      "name": "Khảm",
+      "kanji": "凵"
+    }
+  },
+  "boil": {
+    "name": "boil",
+    "character": "灬",
+    "description": "This radical looks like the fire from the burner of a stove. That's because this is the boil radical. You need to boil a bunch of water over some flames.",
+    "vietnamese": {
+      "name": "Hỏa",
+      "kanji": "灬"
+    }
+  },
+  "tongue": {
+    "name": "tongue",
+    "character": "舌",
+    "description": "This is the tongue radical. See that sturdy slide holding a thousand people above a mouth? An open mouth can't support that much weight, but a strong tongue can — it's the muscle of the mouth, after all.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "loiter": {
+    "name": "loiter",
+    "character": "彳",
+    "description": "The leader (ｲ) radical has a little something extra on top of him — he's got a casual cap on because it's his day off. And what does he like to do on his day off? He likes to loiter. Look at him just loitering around. What a loiterer.",
+    "vietnamese": {
+      "name": "Xích",
+      "kanji": "彳"
+    }
+  },
+  "ladle": {
+    "name": "ladle",
+    "character": "斗",
+    "description": "There's a ladle scooping up two drops of liquid. See the handle and the scoop part of the ladle? Imagine ladling some water into your mouth. Mmm.",
+    "vietnamese": {
+      "name": "Đẩu",
+      "kanji": "斗"
+    }
+  },
+  "grain": {
+    "name": "grain",
+    "character": "禾",
+    "description": "This is a tree with a drooping slide shape on top. What causes the top of plants to sag? The grains. Imagine seeing how the heads of wheat or rice droop when they're ready for harvest. It will look like this radical. Look at all that ripe grain!",
+    "vietnamese": {
+      "name": "Hòa",
+      "kanji": "禾"
+    }
+  },
+  "clan": {
+    "name": "clan",
+    "character": "氏",
+    "description": "Under a cliff, you spot a cross, slightly tilted. The cross is there to mark a famous clan that once ruled the lands below the cliff. It's a pretty unique cross, so whenever you see it there under the cliff, you'll know it honors the clan who lived there.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "angel": {
+    "name": "angel",
+    "character": "ホ",
+    "description": "First of all, there's a cross making up the middle, which automatically makes this a religion-based radical. That cross is the frame of someone's body and the things coming off of it are wings. This is an angel.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fortune": {
+    "name": "fortune",
+    "character": "占",
+    "description": "Someone has a toe in their mouth. They are a fortune teller telling your fortune. But for her to do it, she has to take one of your toes and taste it. This better be a good fortune for you to let someone put your foot in their mouth.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "eat": {
+    "name": "eat",
+    "character": "食",
+    "description": "You put on your hat and go outside to kick something white. It's a big white goose and you killed it with your kick. That's because you're going to cook and eat it. Yum!",
+    "vietnamese": {
+      "name": "Thực",
+      "kanji": "食"
+    }
+  },
+  "neck": {
+    "name": "neck",
+    "character": "首",
+    "description": "This is the radical for neck. Look, you can see all the vertebrae stacked up, and the little ligaments that connect it to the base of the skull! That's why this is the radical for neck.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "husband": {
+    "name": "husband",
+    "character": "夫",
+    "description": "The radicals ground and big make up this radical. There's a big guy on the ground... who is that big guy? Embarrassingly, it's your husband. Feel the shame that he got knocked down on the ground. By what? Who? How? (It doesn't matter.)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "pig": {
+    "name": "pig",
+    "character": "豕",
+    "description": "Here we have the ground radical, with something underneath it. What likes lying in the ground, covered in mud? A pig! Use your imagination and see if you can find the head near the top, the piggy tail at the bottom right, and the little piglets on the left, nestling up to this mama pig.",
+    "vietnamese": {
+      "name": "Thỉ",
+      "kanji": "豕"
+    }
+  },
+  "knife": {
+    "name": "knife",
+    "character": "刂",
+    "description": "This is a knife. See the sharp edge on the left and the tapered tip on top? And there's a little handle at the bottom for the... well, the handle. Be careful you don't cut yourself on this knife!",
+    "vietnamese": {
+      "name": "Đao",
+      "kanji": "刂"
+    }
+  },
+  "mama": {
+    "name": "mama",
+    "character": "マ",
+    "description": "This radical is just like the katakana character \"ma\" (マ). So let's keep things simple and make the radical mama. It even looks like a mama leaning over and gently tapping her baby to help them fall asleep.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "temple": {
+    "name": "temple",
+    "character": "寺",
+    "description": "This radical looks kind of like a temple, don't you think? With all the layers and stuff? Just picture the top part as a roof, and the drop-looking bit at the bottom as a giant temple bell, with a monk standing beside it and ringing it with a large wooden beam. You see this kinda thing every day at a temple.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "teacher": {
+    "name": "teacher",
+    "character": "孝",
+    "description": "Who's in the coffin next to that child? It's his teacher. Teachers are pretty much dead around 3 p.m. every day, and it's the kids in their class who wear them down. It ain't easy being a teacher, you know.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "oneself": {
+    "name": "oneself",
+    "character": "己",
+    "description": "This kinda looks like a head with an arm under it pointing up at itself. That's why this radical means oneself. One points to oneself when one wants to… indicate oneself…",
+    "vietnamese": {
+      "name": "Kỷ",
+      "kanji": "己"
+    }
+  },
+  "top-hat": {
+    "name": "top-hat",
+    "character": null,
+    "description": "This radical looks just like a top hat. That's why it's top hat!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "circumference": {
+    "name": "circumference",
+    "character": "周",
+    "description": "You take your head and pack clay dirt around it to just above your mouth. You need the circumference of your head for your helmet maker, and sending them a clay dirt mold of your head will just do the trick. That way they'll know your head's exact circumference!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fish": {
+    "name": "fish",
+    "character": "魚",
+    "description": "This is a fish. Kind of a funny-looking fish, with a weird head on top, a squat scaly body, and a tail fanning out underneath it. See the fish? Yeah, you see it.",
+    "vietnamese": {
+      "name": "Ngư",
+      "kanji": "魚"
+    }
+  },
+  "bird": {
+    "name": "bird",
+    "character": "鳥",
+    "description": "See the cool wing on the bottom? See the head with the neat feather coming out of the top? This is a bird. Tweet tweet!",
+    "vietnamese": {
+      "name": "Điểu",
+      "kanji": "鳥"
+    }
+  },
+  "black": {
+    "name": "black",
+    "character": "黒",
+    "description": "If you boil a village, everything will turn black. Just imagine all those roads melting and coating everything in black tar. Picture it! It looks like Pompeii. (Oof, too soon?)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cage": {
+    "name": "cage",
+    "character": "匚",
+    "description": "This radical is a cage because it's covered on all sides but one (the one open side is where the cage door or gate is). There's nothing inside this cage because there's no gate, and whatever was inside has gotten out. I hope it wasn't rabid...",
+    "vietnamese": {
+      "name": "Phương",
+      "kanji": "匚"
+    }
+  },
+  "yellow": {
+    "name": "yellow",
+    "character": "黄",
+    "description": "Flowers that grow out of the ground of a rice paddy after you bury fins there will grow yellow. Why? Because yellow is the color of a fish's soul, so planting flowers over their fins will turn them into a nice, pretty yellow.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "boat": {
+    "name": "boat",
+    "character": "舟",
+    "description": "This looks like a boat coming toward you in the water. See the sail billowing on top and the reflection on the water? Yep, that's a boat. The boatiest boat that ever boated.",
+    "vietnamese": {
+      "name": "Chu",
+      "kanji": "舟"
+    }
+  },
+  "cape": {
+    "name": "cape",
+    "character": "𠃌",
+    "description": "This is a cape, like the kind a superhero would wear. Use your imagination to picture a hero facing left, with a cape tied around their neck and hanging down their back. With that cape on, they're ready to save the world!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hook": {
+    "name": "hook",
+    "character": "ユ",
+    "description": "This looks like a hook, like the kind a pirate would wear. The flat line shows where the hand was cut off, and the hook is right above, ready to take its place. Yarrrr.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "weapon": {
+    "name": "weapon",
+    "character": "殳",
+    "description": "Stick a table on top of a stool and you end up with a very dangerous weapon. Imagine hitting someone with this thing! Or, even better, imagine making someone sit on it. They'd be crushed mentally and emotionally and whatnot. Now that's a scary weapon.",
+    "vietnamese": {
+      "name": "Thù",
+      "kanji": "殳"
+    }
+  },
+  "hole": {
+    "name": "hole",
+    "character": "穴",
+    "description": "You have a roof on top of what looks like a volcano. What's the roof covering? It's definitely covering the hole at the top. I guess someone thought if they built a roof on the hole, none of the lava could come out. But isn't there a hole in the chimney? Guess their theory had some holes in it… Oh no, now lava is coming through the hole. RUN!!! RUN!!!!!!!!",
+    "vietnamese": {
+      "name": "Huyệt",
+      "kanji": "穴"
+    }
+  },
+  "horse": {
+    "name": "horse",
+    "character": "馬",
+    "description": "This radical looks like a horse. See the long, thick neck with the mane flowing to the right? What might look like a wing is actually the horse's four legs and its tail hanging down.",
+    "vietnamese": {
+      "name": "Mã",
+      "kanji": "馬"
+    }
+  },
+  "easy": {
+    "name": "easy",
+    "character": "易",
+    "description": "Flying to the sun with wings is easy! Or so Icarus thinks. Someone should probably tell him…",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "suit": {
+    "name": "suit",
+    "character": "合",
+    "description": "This is the radical for suit, like when something suits you. You find a hat on the ground, and when you pick it up, there's a mouth underneath. \"It suits you! It suits you!\" the mouth says. You try the hat on, and yup — it really suits! It's weird getting fashion advice from a random mouth, but hey, it wasn't wrong.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "net": {
+    "name": "net",
+    "character": "罒",
+    "description": "This is a net, spread out over the water. Imagine all the fish you can catch in this net!",
+    "vietnamese": {
+      "name": "Võng",
+      "kanji": "罒"
+    }
+  },
+  "sickle": {
+    "name": "sickle",
+    "character": "釆",
+    "description": "Most of this radical is just the rice radical, but the top part is something coming to cut the rice from its stalk. That, my friend, is the sickle. See how the rice is still there? That's because it's in motion. The sickle is literally doing the cutting RIGHT NOW! (And don't confuse this with the grain 禾 radical!)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "gate": {
+    "name": "gate",
+    "character": "門",
+    "description": "This radical already looks like a gate, right? A high gate with pillars on either side and two small gate doors, way up at the top for some reason. Worst gate ever in terms of security, but definitely still a gate.",
+    "vietnamese": {
+      "name": "Môn",
+      "kanji": "門"
+    }
+  },
+  "cloud": {
+    "name": "cloud",
+    "character": "云",
+    "description": "This is the radical for cloud. See how the cloud is puffy on the bottom but has two lines up top? That's because a plane flew through it.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "history": {
+    "name": "history",
+    "character": "史",
+    "description": "This is the history radical. You can see a textbook and a couple crossed swords. Because that's basically how history works — fight battles, record the results, and do it all over again. History!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "brush": {
+    "name": "brush",
+    "character": "聿",
+    "description": "This radical kind of looks like a brush. The top part is a hand holding the brush handle, and the bottom part is the bristly tip.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "machine": {
+    "name": "machine",
+    "character": "台",
+    "description": "This radical is the same as the kanji. It means machine.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cleat": {
+    "name": "cleat",
+    "character": "⺤",
+    "description": "There's the bottom of a shoe with spikes coming out of it. Only one kind of shoe is like this, and that's a cleat. You know, like those studded shoes athletes wear. Soccer cleats, baseball cleats, running cleats… You knew they were called cleats, right?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "correct": {
+    "name": "correct",
+    "character": "正",
+    "description": "You're lost, but you've come across a signpost that says \"correct\" in all directions. \"Correct,\" \"correct,\" \"correct,\" it says. No matter which way you go, it's the correct way! What a relief!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spring": {
+    "name": "spring",
+    "character": "𡗗",
+    "description": "This is the spring radical, because it looks like a new plant shoot has pushed its way up through layers of dirt, snow, and ice to announce the coming of spring. Spring is the season (and the radical) full of new, growing life!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stamp": {
+    "name": "stamp",
+    "character": "卩",
+    "description": "This is the stamp radical — the inking kind, not the postage kind. Why? Because it looks like a stamp stick! The top parts are thicker on one side so you can get a good grip. It even looks like the letter P — which just happens to be the last letter in \"stamp\"!",
+    "vietnamese": {
+      "name": "Tiết",
+      "kanji": "卩"
+    }
+  },
+  "eternity": {
+    "name": "eternity",
+    "character": "永",
+    "description": "A drop of water will last for an eternity. Especially if you drop it into an endless stream that never stops flowing. You can see these streams converging from all directions here, flowing for eternity.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wing": {
+    "name": "wing",
+    "character": "勿",
+    "description": "See the wing? It's kind of like a bat wing with webbing. Either way, it's just a wing.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "kick": {
+    "name": "kick",
+    "character": "蹴",
+    "description": "This looks like a stick-figure foot on the left kicking at something, which makes it the radical for kick. See the shin and foot swinging up for the kick? You can think of that part on the right as the edge of a ball that's about to be kicked.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "yurt": {
+    "name": "yurt",
+    "character": "囗",
+    "description": "There's a canopy with a grid-like frame near the top. It's a yurt with a window! Yurts are those dome-shaped huts nomads use. Once you've set up a canopy with a window frame, you've basically built one. Imagine gazing out that window, kicking back in your yurt. Yurt sweet yurt!",
+    "vietnamese": {
+      "name": "Vi",
+      "kanji": "囗"
+    }
+  },
+  "jammed-in": {
+    "name": "jammed-in",
+    "character": null,
+    "description": "This radical looks like a hat with some legs under it. If all you can see is legs, the person wearing the hat must really be jammed in there. Have you ever tried to cram yourself into a hat so hard it covers your body? Yeah, didn't think so. But imagine how jammed in to that hat you'd be if you did.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tent": {
+    "name": "tent",
+    "character": "癶",
+    "description": "Kind of a strange tent, I'll admit, but one that will protect you from things trying to get in (that's why it has all the spikes). It's the best you can do, considering you're in a cloth tent.",
+    "vietnamese": {
+      "name": "Bát",
+      "kanji": "癶"
+    }
+  },
+  "clown": {
+    "name": "clown",
+    "character": "咅",
+    "description": "A clown face, with the funny hat at the top, the silly eyes in the middle, and the big laughing mouth at the bottom. This thing is pretty cute, unlike a lot of clowns…",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "building": {
+    "name": "building",
+    "character": "阝",
+    "description": "This radical looks like a curvy letter B. What does B stand for? Building! This radical often shows up in kanji related to gatherings or to places where people come together… like buildings.",
+    "vietnamese": {
+      "name": "Phụ/Ấp",
+      "kanji": "阝"
+    }
+  },
+  "helicopter": {
+    "name": "helicopter",
+    "character": "覀",
+    "description": "This radical looks like a helicopter coming straight at you, doesn't it? You can't see the tail part because it's behind the bigger front cab of the helicopter. But you can see the front windows and the big spinning blade on top.",
+    "vietnamese": {
+      "name": "Á",
+      "kanji": "覀"
+    }
+  },
+  "heavy": {
+    "name": "heavy",
+    "character": "重",
+    "description": "This is the heavy radical. See the square fist in the center, grasping the handle of a dumbbell that has two heavy plates on the top and bottom? The radical just looks like it would be heavy, you know?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "gladiator": {
+    "name": "gladiator",
+    "character": "龹",
+    "description": "Someone shoved horns onto your husband and said he has to fight for them now. They turned him into a gladiator! Now your husband has to fight for their amusement. Are you not entertained?!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bundle": {
+    "name": "bundle",
+    "character": "束",
+    "description": "This looks like a tree with something tied around its middle, holding it tight. If you untied that middle part you'd realize it's actually a bunch of little trees (aka twigs and sticks) tied in a bundle!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "anti": {
+    "name": "anti",
+    "character": "反",
+    "description": "This radical is the same as the kanji. It means anti.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "kiss": {
+    "name": "kiss",
+    "character": "各",
+    "description": "In winter, your mouth longs for a kiss. You know, because your lips get cold and you want someone to warm them up. How do you think that whole mistletoe thing got started? Cold winter mouths, longing for a kiss. So just imagine the top part of this radical as some winter mistletoe (or holly leaves, since that's probably easier), and the bottom part as a kissy mouth.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spikes": {
+    "name": "spikes",
+    "character": "业",
+    "description": "On the ground there are a bunch of spikes coming out. You wouldn't want to step on those now, would you?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "chinese": {
+    "name": "chinese",
+    "character": "𦰩",
+    "description": "This is the Chinese radical. Why? Because it looks like a traditional Chinese pagoda! One of those towers with a bunch of tiered roofs, you know? Sure, lots of Asian countries have pagodas, but let's be honest — the Chinese probably came up with them first.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sell": {
+    "name": "sell",
+    "character": "売",
+    "description": "This radical is the same as the kanji. It means sell.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "music": {
+    "name": "music",
+    "character": "曲",
+    "description": "This radical is the same as the kanji. It means music! 曲 even looks like a musical score with two notes in the middle. Huh? Real sheet music has more lines, you say? Hey, it's a radical — we're saving ink, not performing Beethoven here.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "landslide": {
+    "name": "landslide",
+    "character": "辰",
+    "description": "If you kick a cliff twice you'll start a landslide! Oh no!",
+    "vietnamese": {
+      "name": "Thần",
+      "kanji": "辰"
+    }
+  },
+  "fault": {
+    "name": "fault",
+    "character": "失",
+    "description": "This radical is the same as the kanji. It means fault.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "beans": {
+    "name": "beans",
+    "character": "豆",
+    "description": "This radical has a bean (the square in the middle) between the ground and some roots. That bean is going to turn into a plant someday. What will that plant produce? Great big beans, like the ones from Jack and the Beanstalk.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "geoduck": {
+    "name": "geoduck",
+    "character": "頁",
+    "description": "A leaf-shaped protrusion coming out of a shellfish. What is it? The mysterious geoduck! The geoduck is a giant clam so big that most of it grows outside its shell. If you've never seen a geoduck, look it up now. You'll never be able to unsee it.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tombstone": {
+    "name": "tombstone",
+    "character": "圣",
+    "description": "There is a stool sticking out of the dirt. You walk up and realize it has writing on it. It's actually a tombstone. You can sit on it and remember the people who are below the dirt now.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "dynamite": {
+    "name": "dynamite",
+    "character": "丙",
+    "description": "Doesn't this radical look like one of those old-fashioned dynamite plunger things that gets pushed to set the fuse? That makes this dynamite!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "alcohol": {
+    "name": "alcohol",
+    "character": "酉",
+    "description": "This looks like the west radical with a little something extra under it… And if you ask for \"a little something extra\" in the Wild West, you're going to get a big ol' decanter of bourbon, moonshine, or some other kind of very strong alcohol — which happens to be exactly what this radical looks like! That extra line at the bottom is just the little bit of alcohol still left in the bottle.",
+    "vietnamese": {
+      "name": "Dậu",
+      "kanji": "酉"
+    }
+  },
+  "cliff": {
+    "name": "cliff",
+    "character": "厂",
+    "description": "See the cliff? It's facing to the left. What do you think this cliff is jutting out over? Maybe an ocean, or a valley? Cliffs love to jut out over things like that.",
+    "vietnamese": {
+      "name": "Hán",
+      "kanji": "厂"
+    }
+  },
+  "drunkard": {
+    "name": "drunkard",
+    "character": "戈",
+    "description": "This is a ceremony radical with a slide radical. Why would a ceremony need a slide? For drunkards, of course! People love to drink at ceremonies, and when they've had too much, those drunkards like to go down slides. If your ceremony has a slide, the drunkards will be happy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "blackjack": {
+    "name": "blackjack",
+    "character": "龷",
+    "description": "You have the radical twenty and the kanji one. Put those together and you get 21. What's another name for 21? That's blackjack.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sick": {
+    "name": "sick",
+    "character": "疒",
+    "description": "This is the canopy radical with ice running down the back. If you hang out in a cold canopy like this you'll definitely get sick. Imagine being sick and alone inside a cold canopy. Brrrr, oh no... ACHOO!",
+    "vietnamese": {
+      "name": "Nạch",
+      "kanji": "疒"
+    }
+  },
+  "turkey": {
+    "name": "turkey",
+    "character": "隹",
+    "description": "This is the turkey radical. It kinda looks like a turkey facing to the left, with big tail feathers fanning out behind it. See it? You can practically hear this thing gobble!",
+    "vietnamese": {
+      "name": "Chuy",
+      "kanji": "隹"
+    }
+  },
+  "orders": {
+    "name": "orders",
+    "character": "令",
+    "description": "This radical means orders, because it looks like Napoleon with his big bicorne hat, giving orders. You move, or his orders move you.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "few": {
+    "name": "few",
+    "character": "少",
+    "description": "This radical is the same as the kanji. It means few.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "trash": {
+    "name": "trash",
+    "character": "𠫓",
+    "description": "There's a lid on top of something you're trying to keep private. It's your trash. You wouldn't want people going through your private trash, which is why we put lids on our trash cans. It's also illegal to look through someone's trash, so make sure you never do that.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "skin": {
+    "name": "skin",
+    "character": "皮",
+    "description": "This radical is the same as the kanji. It means skin.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bear": {
+    "name": "bear",
+    "character": "㠯",
+    "description": "This is the radical for bear, because it looks like the letter B — B for bear! You know this one is \"bear\" and not \"building\" because it's all boxy, like a stocky, chunky bear who's all fat and ready to hibernate.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "humble": {
+    "name": "humble",
+    "character": "申",
+    "description": "This radical is the same as the kanji you learned earlier, but the meaning is a little different. It's not just for saying things humbly, it's for being humble in general. When you see this radical, think about being humble.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "escalator": {
+    "name": "escalator",
+    "character": "及",
+    "description": "Remember the stairs (乃) radical? This is a lot like that, but it has another stroke to motorize it. The extra bit makes the stairs move by themselves — that's why this is an escalator!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "older-brother": {
+    "name": "older-brother",
+    "character": null,
+    "description": "This radical is the same as the kanji. It means older brother.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "simple": {
+    "name": "simple",
+    "character": "単",
+    "description": "This the radical for simple. Why? Because it looks like a simple little stick figure drawing! Just a big head on top with a few hairs, and a stick figure body. What could be more simple?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "root": {
+    "name": "root",
+    "character": "艮",
+    "description": "Imagine a root vegetable, like a turnip or something. See the twisted bulb at the top, with long, stringy root tendrils dangling under it? That's why this is the root radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "yoga": {
+    "name": "yoga",
+    "character": "廴",
+    "description": "This looks like someone sitting with their back straight and a leg stretched out behind them. What kind of pose is this? Probably the kind you do in yoga. Sit on a yoga mat and make your body look like this radical. Nice, you're really doing yoga now.",
+    "vietnamese": {
+      "name": "Dẫn",
+      "kanji": "廴"
+    }
+  },
+  "excuse": {
+    "name": "excuse",
+    "character": "免",
+    "description": "This radical consists of some legs carrying the sun out of prison. Those legs are yours. When the police stop you, though, what's your excuse? Come up with one and say it out loud, starting with, \"My excuse is...\"",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tofu": {
+    "name": "tofu",
+    "character": "口",
+    "description": "See the T and F that make up this radical? Those letters stand for tofu, our favorite bean curd blocks.",
+    "vietnamese": {
+      "name": "Khẩu",
+      "kanji": "口"
+    }
+  },
+  "jackhammer": {
+    "name": "jackhammer",
+    "character": "示",
+    "description": "Do you see the handles on the top and the barb on the bottom? It's a jackhammer. How can you tell? The two diagonal lines on the side show the motion of the jackhammer going up and down really fast, doing what jackhammers do. BBBHHRZHHHHRHHRZHZHHZH JUJUJUJUJU.",
+    "vietnamese": {
+      "name": "Thị",
+      "kanji": "示"
+    }
+  },
+  "asia": {
+    "name": "asia",
+    "character": "亜",
+    "description": "This looks like the helicopter radical with something extra under it. It's carrying some kind of cargo. Where's it headed? To Asia. You only know it's going to Asia because the cargo has a big TO ASIA label on it. (Go ahead and imagine it now.)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "request": {
+    "name": "request",
+    "character": "求",
+    "description": "This radical is the same as the kanji. It means request.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "compare": {
+    "name": "compare",
+    "character": "比",
+    "description": "This radical is made up of two slightly different versions of the spoon radical. Look closely at these two spoons. Compare their differences, like the different angles in the bends of the spoons. It's like one of those \"spot the difference\" games where you compare two similar pictures. But this time it's with spoons.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "together": {
+    "name": "together",
+    "character": "共",
+    "description": "This radical is the same as the kanji. It means together. And see how it kind of looks like two people happily sitting together arm-in-arm? These two clearly enjoy doing stuff together. They're together so much they're practically joined at the hip.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hundred": {
+    "name": "hundred",
+    "character": "百",
+    "description": "This radical is the same as the kanji. It means hundred.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "east": {
+    "name": "east",
+    "character": "東",
+    "description": "Behind that tree the sun is rising in the east. The sun always rises in the east, so if you head that way, past the tree, you'll be going east too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "younger-brother": {
+    "name": "younger-brother",
+    "character": null,
+    "description": "This radical is the same as the kanji. It means younger brother.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sound": {
+    "name": "sound",
+    "character": "音",
+    "description": "This radical is the same as the kanji. It means sound. You can even see someone standing at a kind of square table here. It's a DJ at the turntables! Imagine them spinning records and scratching out all kinds of cool sounds.",
+    "vietnamese": {
+      "name": "Âm",
+      "kanji": "音"
+    }
+  },
+  "idea": {
+    "name": "idea",
+    "character": "意",
+    "description": "This radical is the same as the kanji. It means idea.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "table": {
+    "name": "table",
+    "character": "几",
+    "description": "What happens when you put a flat surface on top of a pair of legs? You get a table.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "womb": {
+    "name": "womb",
+    "character": "坴",
+    "description": "Legs appear between two lumps of dirt. This is the earth's version of a womb. Imagine a tiny baby growing under the ground and then sprouting out, legs first, into the world. Imagine being inside this dirt womb. It's warm and damp. You feel safe.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fruit": {
+    "name": "fruit",
+    "character": "果",
+    "description": "There's a rice paddy on top of a tree… Figuratively, because trees don't bear rice, they bear fruit! Use your imagination, and those four little boxes on top of the tree kind of look like big, ripe fruits — just waiting to be picked.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bookshelf": {
+    "name": "bookshelf",
+    "character": "冊",
+    "description": "This looks like a bunch of books on a shelf. It's a bookshelf!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "original": {
+    "name": "original",
+    "character": "原",
+    "description": "See that cliff with the white and small bits in it? That's an original cliff — we call it that because the white and small bits are actually the bones and fossils of our planet's original inhabitants, buried in the cliffside. (And this one's got a massive sign that says \"ORIGINAL,\" because everything's gotta be a tourist spot these days… sigh.)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "good": {
+    "name": "good",
+    "character": "良",
+    "description": "This radical is the same as the kanji. It means good.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "elephant": {
+    "name": "elephant",
+    "character": "象",
+    "description": "This is an elephant — or at least, a wannabe elephant. Look closely. It's actually a family of pigs, and the mama is wearing an elephant mask on her head for some reason. See the big ears and trunk on top? She wants to be an elephant so badly that she dressed up like one.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "body": {
+    "name": "body",
+    "character": "身",
+    "description": "The radical is the same as the kanji, so it means body.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "well": {
+    "name": "well",
+    "character": "井",
+    "description": "This is the radical for well — the kind you use to draw up water. Picture an old-timey stone well with wooden posts holding up a crank for reeling up your bucket! Pretty well built, huh?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "circle": {
+    "name": "circle",
+    "character": "丸",
+    "description": "This radical is the same as the kanji. It means circle.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "part": {
+    "name": "part",
+    "character": "分",
+    "description": "This radical is the same as the kanji. It means part.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "man": {
+    "name": "man",
+    "character": "男",
+    "description": "A rice paddy needs power, and that power comes from a man. Picture a rice paddy full of thick, wet mud. It's no easy field to work in, but this powerful man will bend over to rake and hoe tirelessly to make sure it thrives. What a man!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "soul": {
+    "name": "soul",
+    "character": "忄",
+    "description": "You spot a wispy shape flanked by ethereal orbs of flame. Don't be scared — this is just a friendly little soul on its way to get reincarnated into a new body.",
+    "vietnamese": {
+      "name": "Tâm",
+      "kanji": "忄"
+    }
+  },
+  "animal": {
+    "name": "animal",
+    "character": "犭",
+    "description": "This radical swings like a monkey, howls like a wolf, and pounces like a leopard. You can almost hear the jungle chorus… This is the radical for animal!",
+    "vietnamese": {
+      "name": "Khuyển",
+      "kanji": "犭"
+    }
+  },
+  "pope": {
+    "name": "pope",
+    "character": "父",
+    "description": "This is the pope radical. Why? Because it looks like a pope hat! This one's got a big old cross on top, and it can only be worn by the pope.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "face": {
+    "name": "face",
+    "character": "面",
+    "description": "You have a leaf, a mouth, and an eye. Those are all things you'll find on a face! Wait, you don't have a leaf growing out of your face? Huh... well just imagine you have a normal human face with a leaf on there somewhere, ya weirdo.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "center": {
+    "name": "center",
+    "character": "央",
+    "description": "Remember the guy from the big radical? Here he's bending his arms at the elbow to fasten some kind of belt, right across the center of his body. It's one of those belts that just goes across your waist, which is actually perfect for such a big guy, since he really needs to secure his center (of gravity).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "valley": {
+    "name": "valley",
+    "character": "谷",
+    "description": "This radical is the same as the kanji. It means valley.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "squid": {
+    "name": "squid",
+    "character": "㑒",
+    "description": "See the squid shape here? There's its pointy head, its eyes, and its tentacles (two, anyway). Pretty squid-like if you ask me!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "snake": {
+    "name": "snake",
+    "character": "巳",
+    "description": "This is the snake radical. See the head at the top with its long skinny body stretching down from it?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "nothing": {
+    "name": "nothing",
+    "character": "無",
+    "description": "There are a bunch of cages boiling. But you look inside the cages and there... there's nothing. You boiled whatever was in there down to nothing!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "drum": {
+    "name": "drum",
+    "character": "鼓",
+    "description": "This radical is made up of samurai and beans. Samurai used to put beans in drums so they could tap and shake them to make noise. Can you imagine shaking and tapping this drum radical?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "walk": {
+    "name": "walk",
+    "character": "歩",
+    "description": "This radical is the same as the kanji. It means walk.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tiger": {
+    "name": "tiger",
+    "character": "虍",
+    "description": "You lost seven toes on a cliff, but you consider yourself lucky considering you got them taken off by the cliff tiger that lives in the area. Imagine a tiger taking your seven toes as you hang off the edge of a cliff, if it helps. Exciting! (And also painful!)",
+    "vietnamese": {
+      "name": "Hô",
+      "kanji": "虍"
+    }
+  },
+  "festival": {
+    "name": "festival",
+    "character": "祭",
+    "description": "This radical is the same as the kanji. It means festival.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bar": {
+    "name": "bar",
+    "character": "㦮",
+    "description": "It's the drunkard from before, but this time she's leaning on some kind of horizontal surface. Knowing her, it's probably the counter of a bar. Hopefully she's not causing too much trouble for the bar staff with her drunken antics.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "long-ago": {
+    "name": "long-ago",
+    "character": null,
+    "description": "This radical is the same as the kanji. It means long ago.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "previous": {
+    "name": "previous",
+    "character": "先",
+    "description": "This radical is the same as the kanji. It means previous.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "treasure-chest": {
+    "name": "treasure-chest",
+    "character": null,
+    "description": "There's a treasure radical inside this box. What holds treasures? A treasure chest.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "paragraph": {
+    "name": "paragraph",
+    "character": "句",
+    "description": "In prison, your mouth is not allowed to talk freely. Get a piece of paper to use in place of your mouth and start writing your thoughts out in paragraph form!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "attach": {
+    "name": "attach",
+    "character": "付",
+    "description": "This radical is the same as the kanji. It means attach.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "good-luck": {
+    "name": "good-luck",
+    "character": null,
+    "description": "This is the samurai radical on top of the mouth radical. If you get to hear what a samurai says, you'll have really good luck. Samurai are pretty hard to find nowadays, which is probably why my luck has been so bad...",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "right": {
+    "name": "right",
+    "character": "右",
+    "description": "This radical is the same as the kanji. It means right.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "director": {
+    "name": "director",
+    "character": "司",
+    "description": "This radical is the same as the kanji. It means director.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "reason": {
+    "name": "reason",
+    "character": "由",
+    "description": "This radical is the same as the kanji. It means reason.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "explosion": {
+    "name": "explosion",
+    "character": null,
+    "description": "See the energy bursting outward? That's an explosion. Boom!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fly": {
+    "name": "fly",
+    "character": "飛",
+    "description": "This radical is pretty complicated, but not much looks like this radical, so you're in luck. This looks like a giant flying fortress of some kind. See the propellers on the back as it moves to the left? Just imagine something like this flying through the air. That's why this radical is fly, because it is flying.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "grass": {
+    "name": "grass",
+    "character": "𭕄",
+    "description": "Don't confuse this with triceratops. Grass is closer together, and a little bushier, like this. It's also more random and squished down in parts. If you see a bush of lines like this, it's probably going to be grass.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mole": {
+    "name": "mole",
+    "character": "至",
+    "description": "There's trash on some dirt that seems to be... moving? If you lift up that trash you'll find a mole in the dirt! Moles like to dig around underground and look for stuff to grab (like trash). They're the raccoons of the ground.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mohawk": {
+    "name": "mohawk",
+    "character": "啇",
+    "description": "You have something old on your head that's standing up. What is this thing? An awesome mohawk. You've had it so long it's looking pretty old... but still awesome.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "righteousness": {
+    "name": "righteousness",
+    "character": "義",
+    "description": "The horns on the king give him an ego. Which in turn gives him a sense of righteousness. He shouldn't act all righteous like that, but I suppose it's what kings do. If you had horns and a big ego, you'd probably think you were the epitome of righteousness too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "simultaneous": {
+    "name": "simultaneous",
+    "character": "斉",
+    "description": "If you're writing while looking at the moon, you can bet someone else is doing it too. People have a habit of looking at the moon simultaneously.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "half": {
+    "name": "half",
+    "character": "半",
+    "description": "This radical is the same as the kanji. It means half.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "number": {
+    "name": "number",
+    "character": "番",
+    "description": "This radical is the same as the kanji, but \"number in a series\" is too long. Let's shorten it to number.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "angle": {
+    "name": "angle",
+    "character": "角",
+    "description": "When you're in prison, your only task is to count every angle in your cell. You count the angles of the walls and ceiling over and over again to pass the time. How many angles could there be in a room with four walls? Picture it and try to count those angles now.",
+    "vietnamese": {
+      "name": "Giác",
+      "kanji": "角"
+    }
+  },
+  "feeling": {
+    "name": "feeling",
+    "character": "感",
+    "description": "This radical is the same as the kanji. It means feeling.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "crab": {
+    "name": "crab",
+    "character": "其",
+    "description": "This looks like the shellfish radical, but a little different. It's the mighty crab! See the eyes and raised pincers at the top, the segmented belly in the middle, and the legs bunched up at the bottom? It takes some imagination, but this spiky shellfish definitely looks like a crab.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "someone": {
+    "name": "someone",
+    "character": "者",
+    "description": "You find a coffin on the sun. It's burnt to a crisp from the heat, but there's definitely someone in there. You wonder who this mysterious someone might have been. Whoever they were, they got a fancy sun burial, so they really must've been someone (or shall we say, sun-one?).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "criminal": {
+    "name": "criminal",
+    "character": "非",
+    "description": "You think you see some legs behind those bars. Who gets put behind bars? Only criminals. This criminal is pretty tall, since you only see his legs behind there.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "early": {
+    "name": "early",
+    "character": "早",
+    "description": "This radical is the same as the kanji. It means early.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "creeper": {
+    "name": "creeper",
+    "character": null,
+    "description": "Someone's lying on the ground with his mouth open hoping to swallow up passers-by. This guy's a weirdo — a real creeper.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "beforehand": {
+    "name": "beforehand",
+    "character": "予",
+    "description": "This radical is the same as the kanji. It means beforehand.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "death": {
+    "name": "death",
+    "character": "亡",
+    "description": "There's a lid on a lion. And you're stuck under the lid with the lion, which means you will surely meet your death. Or if you don't want to die, think of the poor lion. If you leave a lion under a lid for too long, death will come for it too. Either way, somebody's gonna die today.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "scarecrow": {
+    "name": "scarecrow",
+    "character": "畐",
+    "description": "A creeper in a rice paddy? That's just a scarecrow!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "shrimp": {
+    "name": "shrimp",
+    "character": "尺",
+    "description": "This radical has a little head, a curved abdomen, and some long, spindly antennae sticking out from its nose. There's no mistaking it — this little guy is a shrimp!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "products": {
+    "name": "products",
+    "character": "品",
+    "description": "You see three squares stacked neatly together. On closer inspection, you realize these are boxed products waiting to be shipped out.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "coat-rack": {
+    "name": "coat-rack",
+    "character": null,
+    "description": "See all the arms sticking out of this radical? Those are for hanging lots of coats and things on, because this is a coat rack. Kind of a weird coat rack, but definitely a coat rack.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "public": {
+    "name": "public",
+    "character": "公",
+    "description": "This radical is the same as the kanji. It means public.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "pool": {
+    "name": "pool",
+    "character": "勺",
+    "description": "What do you call a prison for drops of water? A pool! The water may not like being in there, but the rest of us sure appreciate it on a hot summer day.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "past": {
+    "name": "past",
+    "character": "去",
+    "description": "This radical is the same as the kanji. It means past.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "saw": {
+    "name": "saw",
+    "character": "巩",
+    "description": "You're constructing a table. On the table is a drop of blood, which is your blood. This is from cutting yourself on the saw that you're using to make the table. Imagine yourself cutting yourself with the saw by accident. Ouch!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "zombie": {
+    "name": "zombie",
+    "character": "袁",
+    "description": "This radical has a figure reaching out both hands at you with some dirt on his head. This is a zombie, and he must have just recently dug himself out of the grave by the looks of it.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spicy": {
+    "name": "spicy",
+    "character": "辛",
+    "description": "This is the spicy radical. See how it's wide at the top, with a little stem sticking up, and narrow at the bottom? Just like a chili pepper. It's so spicy it can't even handle its own heat!",
+    "vietnamese": {
+      "name": "Tân",
+      "kanji": "辛"
+    }
+  },
+  "comfort": {
+    "name": "comfort",
+    "character": "楽",
+    "description": "This radical is the same as the kanji. It means comfort.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "poem": {
+    "name": "poem",
+    "character": "苟",
+    "description": "The flowery paragraph isn't just regular writing. It's flowery, which makes it a poem.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mask": {
+    "name": "mask",
+    "character": "曽",
+    "description": "This looks kind of like a mask, right? It has horns, it has crazy eyes, and it has a big mouth. Nobody would actually look like this, which is why this is just a mask.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "gambler": {
+    "name": "gambler",
+    "character": "尭",
+    "description": "The gambler holds a cross as he plays blackjack. He stands on his two legs expectantly, hoping he hits the big one. He just put all his money down. If he doesn't win this one the gambler loses everything, including the two legs he's standing on.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "guard": {
+    "name": "guard",
+    "character": "兑",
+    "description": "This radical is made up of horns and older brother. But those aren't really horns, they're a part of your older brother's new guard uniform. He's a guard now, of a bank or a museum. You don't know which, but you know he stands around a lot in his uniform now.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "happiness": {
+    "name": "happiness",
+    "character": "幸",
+    "description": "This radical is the same as the kanji. It means happiness. Don't get it confused with the spicy radical 辛, they're very similar!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "noon": {
+    "name": "noon",
+    "character": "午",
+    "description": "This radical is the same as the kanji. It means noon.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "conflict": {
+    "name": "conflict",
+    "character": "争",
+    "description": "This radical is the same as the kanji. It means conflict.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "flood": {
+    "name": "flood",
+    "character": "巛",
+    "description": "The three lines that make up the river radical are being pulled to one direction. It's a giant force of water going to the left. It's a flood! RUN!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "black-hole": {
+    "name": "black-hole",
+    "character": null,
+    "description": "When you shoot your gun at the sun, it becomes winter. The shot you fired sent the sun into a crazy chain reaction, making it implode in on itself and become a black hole. Imagine this happening and imagine the shock you'd feel. You shot the sun. You caused this infinite winter (and soon black hole death).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mona-lisa": {
+    "name": "mona-lisa",
+    "character": null,
+    "description": "This radical looks like a combination of the brush radical (聿) and the beauty kanji (美). So what's something beautiful you can paint with a brush? The most famous is probably the Mona Lisa.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spear": {
+    "name": "spear",
+    "character": "矛",
+    "description": "Your mama is carrying some kind of elaborate weapon. You look closely and see that it's a spear. The pointy end is to the right, and there are some decorations hanging off it. It's a very fancy spear, and you wonder where your mama got it.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "next": {
+    "name": "next",
+    "character": "次",
+    "description": "This radical is the same as the kanji. It means next.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "blade": {
+    "name": "blade",
+    "character": "刃",
+    "description": "You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of blade to cut someone. Sword, knife, whatever, as long as it's a blade.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "peace": {
+    "name": "peace",
+    "character": "平",
+    "description": "This radical is the same as the kanji. It means peace.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bathtub": {
+    "name": "bathtub",
+    "character": "呂",
+    "description": "See the dude sitting inside the box? His head is sticking out the top. That's a bathtub he's sitting in.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cheap": {
+    "name": "cheap",
+    "character": "安",
+    "description": "This radical is the same as the kanji. It means cheap.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "icicle": {
+    "name": "icicle",
+    "character": "冫",
+    "description": "This ice is in the shape of a stick. It's an icicle!",
+    "vietnamese": {
+      "name": "Băng",
+      "kanji": "冫"
+    }
+  },
+  "dollar": {
+    "name": "dollar",
+    "character": "弗",
+    "description": "This is a squiggle with two lines through it. Hmmm doesn't that seem familiar? It should, because it's the dollar symbol: $. Well, close enough. Just look at this and think, ah yes, a totally normal American dollar.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "allocate": {
+    "name": "allocate",
+    "character": "充",
+    "description": "You have some legs and you need to put them in the trash. But you'll get caught if you put them in one trash can. Quick, cut them up and allocate them to different trash cans around the city. Then you'll never get caught.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "football": {
+    "name": "football",
+    "character": "爰",
+    "description": "Your friend is on the ground and you step on him with your cleat. There is no friendship here. This is a true sport you're playing. This is football.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "ability": {
+    "name": "ability",
+    "character": "能",
+    "description": "This radical is the same as the kanji. It means ability.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "restaurant": {
+    "name": "restaurant",
+    "character": "亭",
+    "description": "You see a lid on the street with a drawing of a forehead and a mouth on it. Hmm strange. You pick the lid up and reveal... a secret, underground restaurant! The mouth + forehead combo was secret street restaurant code for, \"There's good eats down in this here restaurant hole!\"",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "leather": {
+    "name": "leather",
+    "character": "革",
+    "description": "When I look at this radical, I see the body and (mainly) head of a bull. What are bulls made of? They're made of leather.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "vines": {
+    "name": "vines",
+    "character": "艹",
+    "description": "This radical is made up of two vines hanging down and a branch linking them together. Imagine swinging on these Tarzan style. AaaaAA aAA AAAaaaa!",
+    "vietnamese": {
+      "name": "Thảo",
+      "kanji": "艹"
+    }
+  },
+  "demon": {
+    "name": "demon",
+    "character": "鬼",
+    "description": "This is a demon. Can you see him? He has a crazy face and some tentacles holding something demonic. Try to figure out how to see a demon. But don't see him too good, cause then he'll come out of your computer and eat you.",
+    "vietnamese": {
+      "name": "Quỷ",
+      "kanji": "鬼"
+    }
+  },
+  "morning": {
+    "name": "morning",
+    "character": "𠦝",
+    "description": "This is the left side of the kanji 朝, so we'll call it morning too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "clothes": {
+    "name": "clothes",
+    "character": "衣",
+    "description": "You just have to know what’s under these locked lids, so you kick them until they break open to reveal a whole bunch of… clothes. “Wow, free clothes!” you think, just as airport security arrive to take you away.",
+    "vietnamese": {
+      "name": "Y",
+      "kanji": "衣"
+    }
+  },
+  "road": {
+    "name": "road",
+    "character": "道",
+    "description": "This radical is the same as the kanji. It means road.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "become": {
+    "name": "become",
+    "character": "成",
+    "description": "This radical is the same as the kanji. It means become.",
+    "vietnamese": {
+      "name": "Thành",
+      "kanji": "成"
+    }
+  },
+  "stairs": {
+    "name": "stairs",
+    "character": "乃",
+    "description": "This radical looks like a little flight of stairs, don't you think? Also note it's being held up by a pillar or beam or something on the left side. After all, you don't want your stairs collapsing as you walk up them.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "guest": {
+    "name": "guest",
+    "character": "客",
+    "description": "This radical is the same as the kanji. It means guest.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "control": {
+    "name": "control",
+    "character": "制",
+    "description": "This radical is the same as the kanji. It means control.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "korea": {
+    "name": "korea",
+    "character": "韓",
+    "description": "There are five mouths eating cow at Korean BBQ. Korea is famous for their delicious BBQ, and you need a lot of people to eat all that beef. At least five people. (Get it? Five people!) That's why this radical is Korea.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "dawn": {
+    "name": "dawn",
+    "character": "旦",
+    "description": "The sun is coming up out of the ground, making this radical dawn. Of course, don't confuse this with dusk! You can do that by thinking that the sun is an optimistic and bright thing, so it tends to come up, not go down. (Also, Japan is the Land of the Rising Sun. I mean come on!)",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "death-star": {
+    "name": "death-star",
+    "character": null,
+    "description": "There is a hat covering the moon and it's holding a knife. Wait, that's no moon. It's a space station! It's the Death Star! It's pretending to be a moon under that hat. And it's armed! Don't let the Death Star stab your planet to death.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "nature": {
+    "name": "nature",
+    "character": "然",
+    "description": "This radical is the same as the kanji. It means nature.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "capital": {
+    "name": "capital",
+    "character": "京",
+    "description": "This looks like the kind of building you'd find in a Japanese capital. See the ornate roof and the stone foundation flaring out underneath, like a castle? The emperor lives in there. And wherever the emperor lives automatically becomes the capital city. That's why this radical is capital.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "friend": {
+    "name": "friend",
+    "character": "友",
+    "description": "This radical is the same as the kanji. It means friend.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wedding": {
+    "name": "wedding",
+    "character": "甫",
+    "description": "This radical looks like someone wearing a giant dress who has a tear in their eye. This is a person at their wedding. That explains the big dress and the tear (of happiness!) in their eye.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lifeguard": {
+    "name": "lifeguard",
+    "character": "冓",
+    "description": "You have a task to save two kinds of lives. Who saves two kinds of lives? A lifeguard. They save the lives of people drowning, and then the lives of the people who go to try to help them. Picture a lifeguard saving the lives of two people at once. What a hero!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "greenhouse": {
+    "name": "greenhouse",
+    "character": "莫",
+    "description": "Flowers need the sun to get big. To help them grow as big as possible, we put them in the greenhouse.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mix": {
+    "name": "mix",
+    "character": "交",
+    "description": "This radical is the same as the kanji. It means mix.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mantis": {
+    "name": "mantis",
+    "character": "禹",
+    "description": "This radical has slide, head, and insect in it. Which insect will slide your head off in a matter of seconds and then eat it? The fearsome praying mantis.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "both": {
+    "name": "both",
+    "character": "両",
+    "description": "This radical is the same as the kanji. It means both.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bed": {
+    "name": "bed",
+    "character": "巴",
+    "description": "You'll have to complete the line on the right side in your mind, but see the rectangle bed and the pillows? This is totally a bed. That missing line is where you pulled back the covers when you got up this morning.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "announce": {
+    "name": "announce",
+    "character": "告",
+    "description": "This radical is the same as the kanji. It means announce.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "accept": {
+    "name": "accept",
+    "character": "受",
+    "description": "This radical is the same as the kanji. It means accept.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "warehouse": {
+    "name": "warehouse",
+    "character": "倉",
+    "description": "You put your hat on the ground and a flag in your mouth. You're letting the world know that they can use your mouth as a warehouse. Your gullet is open for storage business. Need to store some ice cream? Please use my mouth warehouse. ;D ;D ;D",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "comb": {
+    "name": "comb",
+    "character": "疏",
+    "description": "Look at all those little things sticking out. You could easily use it to comb your hair.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "chapter": {
+    "name": "chapter",
+    "character": "章",
+    "description": "This radical is the same as the kanji. It means chapter.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "ego": {
+    "name": "ego",
+    "character": "我",
+    "description": "There's a drunkard holding out his fingers. He's staring at them. Realizing who he is. He's becoming aware of his ego. Now that he's aware of himself, he's probably going to get an inflated ego too. Yuck.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "ten-thousand": {
+    "name": "ten-thousand",
+    "character": null,
+    "description": "This radical is the same as the kanji. It means ten thousand.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "exit": {
+    "name": "exit",
+    "character": "出",
+    "description": "This radical is the same as the kanji. It means exit.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "substitute": {
+    "name": "substitute",
+    "character": "代",
+    "description": "This radical is the same as the kanji. It means substitute.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "call": {
+    "name": "call",
+    "character": "召",
+    "description": "If you have a sword in your mouth you need to call upon someone to help! That thing should not be in there. Call someone over right now! Go ahead, call them! Let’s hope they can get that sword out of your mouth.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "peoples": {
+    "name": "peoples",
+    "character": "民",
+    "description": "This radical is the same as the kanji. It means peoples.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "change": {
+    "name": "change",
+    "character": "化",
+    "description": "This radical is the same as the kanji. It means change.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "farming": {
+    "name": "farming",
+    "character": "農",
+    "description": "This radical is the same as the kanji. It means farming.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "rake": {
+    "name": "rake",
+    "character": "而",
+    "description": "If you look at it, you can see it's a weird looking rake.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "surplus": {
+    "name": "surplus",
+    "character": "余",
+    "description": "This radical is the same as the kanji. It means surplus.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "barracks": {
+    "name": "barracks",
+    "character": "屯",
+    "description": "You stick an umbrella with a big slide on it into the mountainside to make your barracks. You're going to use these barracks to teach soldiers how to slide slides and hide from bad weather. It's ingenious!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "giant": {
+    "name": "giant",
+    "character": "巨",
+    "description": "If you were to look at a giant from above, this is what you would see. Do you see the head and two arms? The giant is facing towards the right.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "specialty": {
+    "name": "specialty",
+    "character": "専",
+    "description": "This radical is the same as the kanji. It means specialty.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "odd": {
+    "name": "odd",
+    "character": "奇",
+    "description": "A big lip ring is a pretty odd thing to have. If it's big, it'll stretch your lip out, which is odd too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lovely": {
+    "name": "lovely",
+    "character": "麗",
+    "description": "I don't know what this thing is, but it's lovely. It has two eyes, a funny mouth, and a scraggly beard. It's lovely, and nothing else, okay? So remember it that way.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "servant": {
+    "name": "servant",
+    "character": "臣",
+    "description": "Hey, it's that giant you learned before. But... but its arms are chained. They're chained because you caught the giant and now it's your servant!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "nose": {
+    "name": "nose",
+    "character": "乙",
+    "description": "If you look at this radical right, you'll see a NOSE (with a squinty eye on the left).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "district": {
+    "name": "district",
+    "character": "区",
+    "description": "This radical is the same as the kanji. It means district.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "above": {
+    "name": "above",
+    "character": "上",
+    "description": "This radical is the same as the kanji. It means above.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "charcoal": {
+    "name": "charcoal",
+    "character": "尞",
+    "description": "When the sun gets small, you need to heat up by throwing some big horns in the fire. This turns into charcoal. Nice, toasty charcoal that keeps you warm when the sun gets small.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "blame": {
+    "name": "blame",
+    "character": "責",
+    "description": "This radical is the same as the kanji. It means blame.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "lineage": {
+    "name": "lineage",
+    "character": "系",
+    "description": "A thread goes through the ground. It traces your lineage. You follow the thread all the way back through many generations, to find out your lineage involves Genghis Khan. Feel the thread and the dirt in your hand and actually trace the lineage.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "one-sided": {
+    "name": "one-sided",
+    "character": null,
+    "description": "This looks a bit like a waiter walking toward you with a platter in their hands... but wait. It's only half of a waiter. It's a one sided waiter!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "turtle-shell": {
+    "name": "turtle-shell",
+    "character": null,
+    "description": "Poor turtles. We don't like them here. This is a turtle shell. See the shell with just a tail remaining? It's the only thing we didn't remove off the turtle. It's just a shell with a tail, so basically it's just a turtle shell.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "pirate": {
+    "name": "pirate",
+    "character": "冘",
+    "description": "This kind of looks like big (大), which I think you'll remember you learned by pretending this was a big guy. This big guy, however, has a funny leg... a peg leg. That makes him a pirate. Also, his arms are in the \"YARRRR\" position.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hills": {
+    "name": "hills",
+    "character": "丘",
+    "description": "See the rolling hills with the road going off into the background to another hill? That's why this is the hills radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "north": {
+    "name": "north",
+    "character": "北",
+    "description": "You only have some ice and a stick for your spoon, because you're way up north. At the top of the world, there's only ice to eat, and — if you're lucky — a bit of stick for flavor. That's the north for you.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "rocket": {
+    "name": "rocket",
+    "character": "离",
+    "description": "See how there’s a lid on top of the treasure chest? That’s because the whole thing is a rocket which contains all the necessary items (treasures) to live in outer space. The bottom part of the radical shows you that this is a top secret project, though, so keep this private in your own head.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "library": {
+    "name": "library",
+    "character": "扁",
+    "description": "There's a door over the bookcase. That makes this a library!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bully": {
+    "name": "bully",
+    "character": "鬲",
+    "description": "He's a creeper and he's Four-T (forty). If someone like this creeps on you, they're just a bully. When you get to forty you aren't supposed to creep on people anymore. You bully. You jerk.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fang": {
+    "name": "fang",
+    "character": "牙",
+    "description": "Imagine this in your mouth. It's one tooth that sticks out more than any other. It's your fang. Can you see this sticking out of a wolf mouth instead? Try that if you can't picture yourself with a fang this cool.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "line-up": {
+    "name": "line-up",
+    "character": null,
+    "description": "This radical is the same as the kanji. It means line up.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "oversee": {
+    "name": "oversee",
+    "character": "監",
+    "description": "This radical is the same as the kanji. It means oversee.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "guy": {
+    "name": "guy",
+    "character": "郎",
+    "description": "This radical is the same as the kanji. It means guy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cat-pirate": {
+    "name": "cat-pirate",
+    "character": null,
+    "description": "See the CP in this radical? It stands for Cat Pirate. Meoaarrrr.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "night": {
+    "name": "night",
+    "character": "夜",
+    "description": "See that lid on top? It's actually a flying saucer. \"Take me to your leader,\" say the aliens inside, arriving from a strange-looking moon. When do you think you'd see something like this? At night. When people see UFOs or the moon, it's usually night. That's why this is the night radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "spider": {
+    "name": "spider",
+    "character": "夋",
+    "description": "If you look closely and carefully, sometimes you can see some private legs in winter. Whose legs? Spider legs! It's too cold for them in winter, so they hide in cracks and crevices, but sometimes you can see their little leggies sticking out anyway.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "same": {
+    "name": "same",
+    "character": "同",
+    "description": "This radical is the same as the kanji. It means same.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "elf": {
+    "name": "elf",
+    "character": null,
+    "description": "You see a leaf ear, better known as an elf! Elves are just humans who have ears that are pointy like leaves.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cottage": {
+    "name": "cottage",
+    "character": "舎",
+    "description": "If you're wearing a hat and have dirt on your mouth, chances are you're staying in a cottage. That's because cottages are usually in the countryside, which means you're likely spending time out in the garden, with a hat on and dirt all over your mouth. You know, your average cottage experience. And hey, this radical even kind of looks like a cottage.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "certain": {
+    "name": "certain",
+    "character": "必",
+    "description": "This radical is the same as the kanji. It means certain.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "interval": {
+    "name": "interval",
+    "character": "間",
+    "description": "This radical is the same as the kanji. It means interval.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wide": {
+    "name": "wide",
+    "character": "広",
+    "description": "This radical is the same as the kanji. It means wide.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "syrup": {
+    "name": "syrup",
+    "character": "喿",
+    "description": "The products trees make? That's syrup. Delicious maple syrup, for example. Mmmm!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "inside": {
+    "name": "inside",
+    "character": "内",
+    "description": "This radical is the same as the kanji. It means inside.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "coral": {
+    "name": "coral",
+    "character": "丞",
+    "description": "In the water is a barb on the ground. It's coral. Coral may look pretty, but if you slip in the water and step on it, you're gonna get scratched up. That stuff is roooough.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "catapult": {
+    "name": "catapult",
+    "character": "呉",
+    "description": "See the rock in the catapult? It even has little legs to hold it steady so it can catapult better.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "storehouse": {
+    "name": "storehouse",
+    "character": "蔵",
+    "description": "Your flowers become your servants. You plant them, you water them, you bring them up, then you cut them down and put them in your storehouse. They do what you want because they become YOUR servants, not the other way around. That's why you can tell them to sit in the storehouse where they wait until you come to eat them.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "boot": {
+    "name": "boot",
+    "character": "堇",
+    "description": "There's something made of leather with some dirt on the bottom of it. It's a boot!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "member": {
+    "name": "member",
+    "character": "員",
+    "description": "This radical is the same as the kanji. It means member.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "claw": {
+    "name": "claw",
+    "character": "爪",
+    "description": "This looks like a claw of some kind already, making it quite easy!",
+    "vietnamese": {
+      "name": "Trảo",
+      "kanji": "爪"
+    }
+  },
+  "belt": {
+    "name": "belt",
+    "character": "帯",
+    "description": "This radical is the same as the kanji. It means belt.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "slice": {
+    "name": "slice",
+    "character": "亥",
+    "description": "See the guy? See how he was CUT IN HALF??? That must have been one heckuva slice to do that to a person.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "turtle": {
+    "name": "turtle",
+    "character": "亀",
+    "description": "There's a turtle shell inside this turtle radical. You can tell because there's a whole head and tail on this thing, making it a real turtle, not just a turtle shell.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sake": {
+    "name": "sake",
+    "character": "為",
+    "description": "This radical looks like a big, weird caterpillar bug thing. But, for the sake of everyone's sanity, we'll just call it sake, okay? Keep in mind, we mean sake as in \"for the sake of X,\" not as in the alcoholic beverage!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "shuriken": {
+    "name": "shuriken",
+    "character": "彑",
+    "description": "See the shuriken stuck into the ground? In case you don't know, a shuriken is just a throwing star. Awesome ninjas use them. That's what's in this radical.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "commander": {
+    "name": "commander",
+    "character": "将",
+    "description": "Who wears cleats and takes your measurements for so long that icicles start forming on your body? Your commander. The commander is very, very particular. And everyone knows the commander has to get everything exactly right. So taking your measurements takes SO long that icicles grow out of your nose. But that's okay. You have to impress your new commander, darn it!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bright": {
+    "name": "bright",
+    "character": "明",
+    "description": "The sun AND the moon are out? With both their light-powers combined, it's incredibly bright outside.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "departure": {
+    "name": "departure",
+    "character": "発",
+    "description": "This radical is the same as the kanji. It means departure.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "valuable": {
+    "name": "valuable",
+    "character": "貴",
+    "description": "There's a shellfish, but it's got some kind of fancy headgear. Is that… a crown, perhaps? It looks really valuable — and the shellfish wearing it must be even more valuable to be worthy of such a status symbol!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sweet": {
+    "name": "sweet",
+    "character": "甘",
+    "description": "This radical is the sun with its hair sticking out. Why is the sun's hair sticking out like this? It ate wayyy too many sweet things causing it to have too much energy, making its hair stand on end. It also kind of looks like a sweet, sweet candy with the wrapper sticking out. Remember it how you'd like.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "south": {
+    "name": "south",
+    "character": "南",
+    "description": "This is the radical for south. See how it's pointing south? You can think of the cross on top as a compass rose, and the arrow below (that ¥-looking part) as pointing down south. It's a compass pointing nowhere but south!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "omen": {
+    "name": "omen",
+    "character": "兆",
+    "description": "There's an explosion around your legs. It was just as the fortune teller warned. This is the omen she was talking about. Think about what happens after the omen hits. What horrible fortune teller magic will happen???",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "dance": {
+    "name": "dance",
+    "character": "舛",
+    "description": "You see a cow in the evening. You get closer and realize it's doing a dance. All cows dance in the evening. Can you picture it? The cow is dancing, so majestic, in the setting sunlight.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "prize": {
+    "name": "prize",
+    "character": "賞",
+    "description": "This radical is the same as the kanji. It means prize.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "skewer": {
+    "name": "skewer",
+    "character": "串",
+    "description": "There's a stick going through some juicy meat. This is a skewer.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "violence": {
+    "name": "violence",
+    "character": "暴",
+    "description": "This radical is the same as the kanji. It means violence.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wrap": {
+    "name": "wrap",
+    "character": "包",
+    "description": "Yourself (oneself) is in prison. Look at the prison as it wraps around you. It wraps you up and holds you tight. That's why this is the wrap radical!",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hot-pepper": {
+    "name": "hot-pepper",
+    "character": null,
+    "description": "You see something with a flag on it and put it in your mouth. It was spicy! You look at the little flag and it says... hot pepper.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tooth": {
+    "name": "tooth",
+    "character": "歯",
+    "description": "This radical is the same as the kanji. It means tooth.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "think": {
+    "name": "think",
+    "character": "思",
+    "description": "This radical is the same as the kanji. It means think.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "prefecture": {
+    "name": "prefecture",
+    "character": "県",
+    "description": "This radical is the same as the kanji. It means prefecture.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "have": {
+    "name": "have",
+    "character": "有",
+    "description": "This radical is the same as the kanji. It means have.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "three": {
+    "name": "three",
+    "character": "三",
+    "description": "This radical is the same as the kanji. It means three.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "sky": {
+    "name": "sky",
+    "character": "空",
+    "description": "This radical is the same as the kanji. It means sky.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "buddy": {
+    "name": "buddy",
+    "character": "君",
+    "description": "This radical is the same as the kanji. It means buddy.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "scroll": {
+    "name": "scroll",
+    "character": "巻",
+    "description": "This radical is the same as the kanji. It means scroll.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "reality": {
+    "name": "reality",
+    "character": "真",
+    "description": "This radical is the same as the kanji. It means reality.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "former": {
+    "name": "former",
+    "character": "旧",
+    "description": "This radical is the same as the kanji. It means former.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "hill": {
+    "name": "hill",
+    "character": "岡",
+    "description": "This radical is the same as the kanji. It means hill.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "nurse": {
+    "name": "nurse",
+    "character": "㐮",
+    "description": "This radical is made up of blackjack and clothes with the six kanji on top. If you see six people playing blackjack and wearing the same clothes you should know that they're all nurses. Nurses play blackjack together to cool down between shifts and they usually don't have time to change out of their uniforms. That's why this radical is nurse.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "employ": {
+    "name": "employ",
+    "character": "雇",
+    "description": "This radical is the same as the kanji. It means employ.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "every": {
+    "name": "every",
+    "character": "毎",
+    "description": "This radical is the same as the kanji. It means every.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "preserve": {
+    "name": "preserve",
+    "character": "保",
+    "description": "This radical is the same as the kanji. It means preserve.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "signpost": {
+    "name": "signpost",
+    "character": "夆",
+    "description": "This is a post with signs on it. And on top is a winter marker, showing that if you go north it's winter up there. The signs say things like \"Narnia ↑\" and \"Meridell ←\" and \"Bananaland →\" so you know it's a signpost.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "melon": {
+    "name": "melon",
+    "character": "瓜",
+    "description": "This is a melon. Imagine a melon cut in half, and you're looking at its insides from the side. See those precious private melon parts? You're gonna keep those for yourself, because melons are delicious and not for sharing.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "cactus": {
+    "name": "cactus",
+    "character": "艹",
+    "description": "See the cactus coming out of the ground? It's happy to see you!",
+    "vietnamese": {
+      "name": "Thảo",
+      "kanji": "艹"
+    }
+  },
+  "shop": {
+    "name": "shop",
+    "character": "屋",
+    "description": "We already have a roof radical, so we're going to use the secondary kanji meaning for this radical. It's shop, remember?",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "satellite": {
+    "name": "satellite",
+    "character": null,
+    "description": "Look at this radical. Can you see it floating in space? Can you see the antennae and reflectors? That's because it's a satellite.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "imperial": {
+    "name": "imperial",
+    "character": "龍",
+    "description": "Stand up on the moon so you can look down on your countries. The thing with all the lines and borders are the borders of all the countries you rule, for you are an imperial.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "bone": {
+    "name": "bone",
+    "character": "骨",
+    "description": "This radical is the same as the kanji. It means bone.",
+    "vietnamese": {
+      "name": "Cốt",
+      "kanji": "骨"
+    }
+  },
+  "plow": {
+    "name": "plow",
+    "character": "耒",
+    "description": "You're sliding some dirt around with a tree you cut down. This contraption you've made is called a plow. Use it to push dirt around!",
+    "vietnamese": {
+      "name": "Lỗi",
+      "kanji": "耒"
+    }
+  },
+  "badger": {
+    "name": "badger",
+    "character": "豸",
+    "description": "You know the animal radical. This is just like that with a little extra. It's an animal already... which means all you have to do is remember what kind of animal. In this case, it's a badger.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wind": {
+    "name": "wind",
+    "character": "風",
+    "description": "This radical is the same as the kanji. It means wind.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "can": {
+    "name": "can",
+    "character": "缶",
+    "description": "It's kind of hard to see, but if you look at this the right way it looks like a food can. See the lid being pulled off in the top-left corner? And that horizontal line in the middle? That’s the can's label.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "dragon": {
+    "name": "dragon",
+    "character": "竜",
+    "description": "A turtle that stands up isn't a turtle anymore. It's evolved into a monster. What kind of monster? A dragon! Rawwwr.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "business": {
+    "name": "business",
+    "character": "業",
+    "description": "This radical is the same as the kanji. It means business.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "protect": {
+    "name": "protect",
+    "character": "守",
+    "description": "This radical is the same as the kanji. It means protect.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "wave": {
+    "name": "wave",
+    "character": "波",
+    "description": "This radical is the same as the kanji. It means wave.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "favor": {
+    "name": "favor",
+    "character": "恵",
+    "description": "This radical is the same as the kanji. It means favor.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "house": {
+    "name": "house",
+    "character": "家",
+    "description": "Under this roof is a pig with her little ones. Your pig, because it's your house! You keep your piggies inside where it's nice and warm. They're all members of your family, so they deserve to live in your house too.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "again": {
+    "name": "again",
+    "character": "亦",
+    "description": "What's under the lid on your cook pot? Legs and fins. Again. All you know how to cook is legs (of chicken) and fins, so you cook them again and again and again. You'll be having them for dinner tonight, and again tomorrow, and again the next day. Legs and fins, again and again and again, for the rest of your days.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "penguin": {
+    "name": "penguin",
+    "character": "敝",
+    "description": "There are fins wrapped in a towel in winter. Who is drying these fish fins to eat them? A penguin.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "form": {
+    "name": "form",
+    "character": "容",
+    "description": "This radical is the same as the kanji. It means form.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "mysterious": {
+    "name": "mysterious",
+    "character": "玄",
+    "description": "What's under this lid that smells like poop? I don't know! How mysterious.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "times": {
+    "name": "times",
+    "character": "回",
+    "description": "This radical is the same as the kanji. It means times.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "height": {
+    "name": "height",
+    "character": "丈",
+    "description": "You see a narwhal struggling with a measuring tape, trying to measure his height! His fins can't reach the end of the tape, but of course he wants to include his glorious tusk. Measuring height is not an easy tusk… er, task for a narwhal, but he'll figure it out. Probably.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "crab-trap": {
+    "name": "crab-trap",
+    "character": null,
+    "description": "This radical looks like a small animal (匹) has a crab (其) sticking out of it. Often when a crab is eating a small animal, that small animal was put inside a crab trap to catch the crab, luring it in with the small animal. That's why this radical is crab trap.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "fat": {
+    "name": "fat",
+    "character": "太",
+    "description": "This looks like the guy from the big radical, but he's got something extra on his belly. That's his exposed belly button, because he's a sumo wrestler now: big and fat. In sumo, more fat means more power, so imagine he's been training to get as strong and fat as possible.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "psychopath": {
+    "name": "psychopath",
+    "character": null,
+    "description": "Inside this guy's forehead you have a spoon and a bunch of hair, not to mention whatever that is in the top left. That's the mind of a psychopath right there.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "name": {
+    "name": "name",
+    "character": "名",
+    "description": "This radical is the same as the kanji. It means name.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "splinter": {
+    "name": "splinter",
+    "character": "禺",
+    "description": "Although a little bit modified, there is a turtle shell that's on a mustache with this radical. The only thing with a mustache that hangs around turtles is Splinter, the giant rat from Teenage Mutant Ninja Turtles. So this radical is Splinter (the giant rat).",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "stomach": {
+    "name": "stomach",
+    "character": "胃",
+    "description": "This radical is the same as the kanji. It means stomach.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "frostbite": {
+    "name": "frostbite",
+    "character": "夌",
+    "description": "This radical is made of dirt, legs, and winter. If you have to bury your legs in the dirt in winter, it's probably because you got frostbite. You had to leave your dead legs behind. :(",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "tall": {
+    "name": "tall",
+    "character": "高",
+    "description": "This radical is the same as the kanji. It means tall.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "doubt": {
+    "name": "doubt",
+    "character": "疑",
+    "description": "This radical is the same as the kanji. It means doubt.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "convex": {
+    "name": "convex",
+    "character": "凸",
+    "description": "This looks like a box with something sticking out of it. When something is sticking out of something else it's convex.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "concave": {
+    "name": "concave",
+    "character": "凹",
+    "description": "It looks like there is a dent in this box. When there is a hole or a dent in something it's called concave.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "below": {
+    "name": "below",
+    "character": "下",
+    "description": "This radical is the same as the kanji. It means below.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  },
+  "courage": {
+    "name": "courage",
+    "character": "勇",
+    "description": "When a mama watches over a man, it gives him the courage he needs to take on any foe.",
+    "vietnamese": {
+      "name": null,
+      "note": "WaniKani-specific radical (no traditional bộ thủ equivalent)"
+    }
+  }
+}

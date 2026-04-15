@@ -1,0 +1,801 @@
+[
+{
+  "id": 1,
+  "type": "en",
+  "reading": "Elder sister",
+  "example": "I have two elder sisters."
+}
+,
+{
+  "id": 1,
+  "type": "jp",
+  "vocab": "姉",
+  "reading": "あね",
+  "example": "私の姉は二人います。",
+  "example_reading": "わたしのあねはふたりいます。"
+}
+,
+{
+  "id": 2,
+  "type": "en",
+  "reading": "Grandmother",
+  "example": "Grandmother is growing flowers in the garden."
+}
+,
+{
+  "id": 2,
+  "type": "jp",
+  "vocab": "おばあさん",
+  "reading": "おばあさん",
+  "example": "おばあさんが庭で花を育てています。",
+  "example_reading": "おばあさんがにわではなをそだてています。"
+}
+,
+{
+  "id": 3,
+  "type": "en",
+  "reading": "Aunt",
+  "example": "My aunt has long hair."
+}
+,
+{
+  "id": 3,
+  "type": "jp",
+  "vocab": "おばさん",
+  "reading": "おばさん",
+  "example": "私のおばさんは髪が長いです。",
+  "example_reading": "わたしのおばさんはかみがながいです。"
+}
+,
+{
+  "id": 4,
+  "type": "en",
+  "reading": "Grandfather",
+  "example": "Grandfather goes to the cafe to read the newspaper."
+}
+,
+{
+  "id": 4,
+  "type": "jp",
+  "vocab": "おじいさん",
+  "reading": "おじいさん",
+  "example": "おじいさんは新聞を読みに喫茶店へ行きます。",
+  "example_reading": "おじいさんはしんぶんをよみにきっさてんへいきます。"
+}
+,
+{
+  "id": 5,
+  "type": "en",
+  "reading": "Uncle",
+  "example": "His uncle is tall and very kind."
+}
+,
+{
+  "id": 5,
+  "type": "jp",
+  "vocab": "おじさん",
+  "reading": "おじさん",
+  "example": "彼のおじさんは背が高くて、とても親切です。",
+  "example_reading": "かれのおじさんはせがたかくて、とてもしんせつです。"
+}
+,
+{
+  "id": 6,
+  "type": "en",
+  "reading": "Woman",
+  "example": "The woman standing over there is very beautiful."
+}
+,
+{
+  "id": 6,
+  "type": "jp",
+  "vocab": "女の人",
+  "reading": "おんなのひと",
+  "example": "あそこに立っている女の人はとてもきれいです。",
+  "example_reading": "あそこにたっているおんなのひとはとてもきれいです。"
+}
+,
+{
+  "id": 7,
+  "type": "en",
+  "reading": "Man",
+  "example": "That man is intelligent."
+}
+,
+{
+  "id": 7,
+  "type": "jp",
+  "vocab": "男の人",
+  "reading": "おとこのひと",
+  "example": "あの男の人は頭がいいです。",
+  "example_reading": "あのおとこのひとはあたまがいいです。"
+}
+,
+{
+  "id": 8,
+  "type": "en",
+  "reading": "Family",
+  "example": "There are four people in my family."
+}
+,
+{
+  "id": 8,
+  "type": "jp",
+  "vocab": "家族",
+  "reading": "かぞく",
+  "example": "私の家族は四人います。",
+  "example_reading": "わたしのかぞくはよにんいます。"
+}
+,
+{
+  "id": 9,
+  "type": "en",
+  "reading": "Hair",
+  "example": "Her hair is very long."
+}
+,
+{
+  "id": 9,
+  "type": "jp",
+  "vocab": "髪",
+  "reading": "かみ",
+  "example": "彼女は髪がとても長いです。",
+  "example_reading": "かのじょはかみがとてもながいです。"
+}
+,
+{
+  "id": 10,
+  "type": "en",
+  "reading": "Brothers, siblings",
+  "example": "I have three siblings."
+}
+,
+{
+  "id": 10,
+  "type": "jp",
+  "vocab": "兄弟",
+  "reading": "きょうだい",
+  "example": "私は兄弟が三人います。",
+  "example_reading": "わたしはきょうだいがさんにんいます。"
+}
+,
+{
+  "id": 11,
+  "type": "en",
+  "reading": "Sisters",
+  "example": "She has two sisters."
+}
+,
+{
+  "id": 11,
+  "type": "jp",
+  "vocab": "姉妹",
+  "reading": "しまい",
+  "example": "彼女には姉妹が二人います。",
+  "example_reading": "かのじょにはしまいがふたりいます。"
+}
+,
+{
+  "id": 12,
+  "type": "en",
+  "reading": "Mouth",
+  "example": "That child has a small mouth."
+}
+,
+{
+  "id": 12,
+  "type": "jp",
+  "vocab": "口",
+  "reading": "くち",
+  "example": "その子供は口が小さいです。",
+  "example_reading": "そのこどもはくちがちいさいです。"
+}
+,
+{
+  "id": 13,
+  "type": "en",
+  "reading": "Eye",
+  "example": "His eyes are big and beautiful."
+}
+,
+{
+  "id": 13,
+  "type": "jp",
+  "vocab": "目",
+  "reading": "め",
+  "example": "彼の目は大きくて、きれいです。",
+  "example_reading": "かれのめはおおきくて、きれいです。"
+}
+,
+{
+  "id": 14,
+  "type": "en",
+  "reading": "Ear",
+  "example": "Cats have good hearing."
+}
+,
+{
+  "id": 14,
+  "type": "jp",
+  "vocab": "耳",
+  "reading": "みみ",
+  "example": "猫は耳がいいです。",
+  "example_reading": "ねこはみみがいいです。"
+}
+,
+{
+  "id": 15,
+  "type": "en",
+  "reading": "Nose",
+  "example": "She has a high nose."
+}
+,
+{
+  "id": 15,
+  "type": "jp",
+  "vocab": "鼻",
+  "reading": "はな",
+  "example": "彼女は鼻が高いです。",
+  "example_reading": "かのじょははながたかいです。"
+}
+,
+{
+  "id": 16,
+  "type": "en",
+  "reading": "Hand",
+  "example": "Babies have small hands."
+}
+,
+{
+  "id": 16,
+  "type": "jp",
+  "vocab": "手",
+  "reading": "て",
+  "example": "赤ちゃんは手が小さいです。",
+  "example_reading": "あかちゃんはてがちいさいです。"
+}
+,
+{
+  "id": 17,
+  "type": "en",
+  "reading": "Foot, leg",
+  "example": "He has long legs."
+}
+,
+{
+  "id": 17,
+  "type": "jp",
+  "vocab": "足",
+  "reading": "あし",
+  "example": "彼は足が長いです。",
+  "example_reading": "かれはあしがながいです。"
+}
+,
+{
+  "id": 18,
+  "type": "en",
+  "reading": "Neck",
+  "example": "Giraffes have long necks."
+}
+,
+{
+  "id": 18,
+  "type": "jp",
+  "vocab": "首",
+  "reading": "くび",
+  "example": "キリンは首が長いです。",
+  "example_reading": "きりんはくびがながいです。"
+}
+,
+{
+  "id": 19,
+  "type": "en",
+  "reading": "Face",
+  "example": "She has a small face."
+}
+,
+{
+  "id": 19,
+  "type": "jp",
+  "vocab": "顔",
+  "reading": "かお",
+  "example": "彼女は顔が小さいです。",
+  "example_reading": "かのじょはかおがちいさいです。"
+}
+,
+{
+  "id": 20,
+  "type": "en",
+  "reading": "Head, mind",
+  "example": "My head is big."
+}
+,
+{
+  "id": 20,
+  "type": "jp",
+  "vocab": "頭",
+  "reading": "あたま",
+  "example": "私の頭は大きいです。",
+  "example_reading": "わたしのあたまはおおきいです。"
+}
+,
+{
+  "id": 21,
+  "type": "en",
+  "reading": "Country, nation",
+  "example": "I came to Japan to study abroad."
+}
+,
+{
+  "id": 21,
+  "type": "jp",
+  "vocab": "国",
+  "reading": "くに",
+  "example": "私は日本へ留学に来ています。",
+  "example_reading": "わたしはにほんへりゅうがくにてきています。"
+}
+,
+{
+  "id": 22,
+  "type": "en",
+  "reading": "Game",
+  "example": "He has been playing games the whole time."
+}
+,
+{
+  "id": 22,
+  "type": "jp",
+  "vocab": "ゲーム",
+  "reading": "ゲーム",
+  "example": "彼はずっとゲームをしています。",
+  "example_reading": "かれはずっとゲームをしています。"
+}
+,
+{
+  "id": 23,
+  "type": "en",
+  "reading": "Convenience store",
+  "example": "I will go to the convenience store to buy a drink."
+}
+,
+{
+  "id": 23,
+  "type": "jp",
+  "vocab": "コンビニ",
+  "reading": "コンビニ",
+  "example": "飲み物を買いにコンビニに行きます。",
+  "example_reading": "のみものをかいにコンビニにいきます。"
+}
+,
+{
+  "id": 24,
+  "type": "en",
+  "reading": "Circle, club",
+  "example": "He is in a tennis club at university."
+}
+,
+{
+  "id": 24,
+  "type": "jp",
+  "vocab": "サークル",
+  "reading": "サークル",
+  "example": "彼は大学でテニスサークルに入っています。",
+  "example_reading": "かれはだいがくでテニスサークルにはいっています。"
+}
+,
+{
+  "id": 25,
+  "type": "en",
+  "reading": "Glasses",
+  "example": "She always wears glasses."
+}
+,
+{
+  "id": 25,
+  "type": "jp",
+  "vocab": "めがね",
+  "reading": "めがね",
+  "example": "彼女はいつもめがねをかけています。",
+  "example_reading": "かのじょはいつもめがねをかけています。"
+}
+,
+{
+  "id": 26,
+  "type": "en",
+  "reading": "DVD",
+  "example": "I will go to the store to borrow a movie DVD."
+}
+,
+{
+  "id": 26,
+  "type": "jp",
+  "vocab": "DVD",
+  "reading": "ディーブイディー",
+  "example": "映画のDVDを借りに店に行きます。",
+  "example_reading": "えいがのディーブイディーをかりにみせにいきます。"
+}
+,
+{
+  "id": 27,
+  "type": "en",
+  "reading": "Intelligent",
+  "example": "He is intelligent."
+}
+,
+{
+  "id": 27,
+  "type": "jp",
+  "vocab": "頭がいい",
+  "reading": "あたまがいい",
+  "example": "彼は頭がいいです。",
+  "example_reading": "かれはあたまがいいです。"
+}
+,
+{
+  "id": 28,
+  "type": "en",
+  "reading": "Cute, lovely",
+  "example": "That cat is small and very cute."
+}
+,
+{
+  "id": 28,
+  "type": "jp",
+  "vocab": "可愛い",
+  "reading": "かわいい",
+  "example": "その猫は小さくて、とても可愛いです。",
+  "example_reading": "そのねこはちいさくて、とてもかわいいです。"
+}
+,
+{
+  "id": 29,
+  "type": "en",
+  "reading": "Tall (person's height)",
+  "example": "My older brother is tall."
+}
+,
+{
+  "id": 29,
+  "type": "jp",
+  "vocab": "背が高い",
+  "reading": "せがたかい",
+  "example": "兄は背が高いです。",
+  "example_reading": "あにはせがたかいです。"
+}
+,
+{
+  "id": 30,
+  "type": "en",
+  "reading": "Short (person's height)",
+  "example": "My younger sister is short."
+}
+,
+{
+  "id": 30,
+  "type": "jp",
+  "vocab": "背が低い",
+  "reading": "せがひくい",
+  "example": "妹は背が低いです。",
+  "example_reading": "いもうとはせがひくいです。"
+}
+,
+{
+  "id": 31,
+  "type": "en",
+  "reading": "Long",
+  "example": "This route is very long."
+}
+,
+{
+  "id": 31,
+  "type": "jp",
+  "vocab": "長い",
+  "reading": "ながい",
+  "example": "この道のりはとても長いです。",
+  "example_reading": "このみちのりはとてもながいです。"
+}
+,
+{
+  "id": 32,
+  "type": "en",
+  "reading": "Short",
+  "example": "That skirt is short."
+}
+,
+{
+  "id": 32,
+  "type": "jp",
+  "vocab": "短い",
+  "reading": "みじかい",
+  "example": "そのスカートは短いです。",
+  "example_reading": "そのスカートはみじかいです。"
+}
+,
+{
+  "id": 33,
+  "type": "en",
+  "reading": "Kind",
+  "example": "That teacher is gentle and kind."
+}
+,
+{
+  "id": 33,
+  "type": "jp",
+  "vocab": "親切",
+  "reading": "しんせつ",
+  "example": "あの先生は優しくて親切です。",
+  "example_reading": "あのせんせいはやさしくてしんせつです。"
+}
+,
+{
+  "id": 34,
+  "type": "en",
+  "reading": "Convenient",
+  "example": "This app is very convenient."
+}
+,
+{
+  "id": 34,
+  "type": "jp",
+  "vocab": "便利",
+  "reading": "べんり",
+  "example": "このアプリはとても便利です。",
+  "example_reading": "このアプリはとてもべんりです。"
+}
+,
+{
+  "id": 35,
+  "type": "en",
+  "reading": "Inconvenient",
+  "example": "This place has inconvenient transportation."
+}
+,
+{
+  "id": 35,
+  "type": "jp",
+  "vocab": "不便",
+  "reading": "ふべん",
+  "example": "この場所は交通が不便です。",
+  "example_reading": "このばしょはこうつうがふべんです。"
+}
+,
+{
+  "id": 36,
+  "type": "en",
+  "reading": "To sing",
+  "example": "She is singing a song now."
+}
+,
+{
+  "id": 36,
+  "type": "jp",
+  "vocab": "歌う",
+  "reading": "うたう",
+  "example": "彼女は今、歌を歌っています。",
+  "example_reading": "かのじょはいま、うたをうたっています。"
+}
+,
+{
+  "id": 37,
+  "type": "en",
+  "reading": "To live",
+  "example": "He lives in Tokyo."
+}
+,
+{
+  "id": 37,
+  "type": "jp",
+  "vocab": "住む",
+  "reading": "すむ",
+  "example": "彼は東京に住んでいます。",
+  "example_reading": "かれはとうきょうにすんでいます。"
+}
+,
+{
+  "id": 38,
+  "type": "en",
+  "reading": "To know",
+  "example": "I know his name."
+}
+,
+{
+  "id": 38,
+  "type": "jp",
+  "vocab": "知る",
+  "reading": "しる",
+  "example": "私は彼の名前を知っています。",
+  "example_reading": "わたしはかれのなまえをしっています。"
+}
+,
+{
+  "id": 39,
+  "type": "en",
+  "reading": "To put on (a hat)",
+  "example": "The child is wearing a hat."
+}
+,
+{
+  "id": 39,
+  "type": "jp",
+  "vocab": "かぶる",
+  "reading": "かぶる",
+  "example": "子供は帽子をかぶっています。",
+  "example_reading": "こどもはぼうしをかぶっています。"
+}
+,
+{
+  "id": 40,
+  "type": "en",
+  "reading": "To put on (trousers, shoes, skirt)",
+  "example": "He is wearing new shoes."
+}
+,
+{
+  "id": 40,
+  "type": "jp",
+  "vocab": "はく",
+  "reading": "はく",
+  "example": "彼は新しい靴をはいています。",
+  "example_reading": "かれはあたらしいくつをはいています。"
+}
+,
+{
+  "id": 41,
+  "type": "en",
+  "reading": "To put on (upper body clothing)",
+  "example": "She is wearing a red sweater."
+}
+,
+{
+  "id": 41,
+  "type": "jp",
+  "vocab": "着る",
+  "reading": "きる",
+  "example": "彼女は赤いセーターを着ています。",
+  "example_reading": "かのじょはあかいセーターをきています。"
+}
+,
+{
+  "id": 42,
+  "type": "en",
+  "reading": "To do, to wear (accessories)",
+  "example": "He is wearing a tie."
+}
+,
+{
+  "id": 42,
+  "type": "jp",
+  "vocab": "する",
+  "reading": "する",
+  "example": "彼はネクタイをしています。",
+  "example_reading": "かれはネクタイをしています。"
+}
+,
+{
+  "id": 43,
+  "type": "en",
+  "reading": "To get fat",
+  "example": "I have gained a little weight recently."
+}
+,
+{
+  "id": 43,
+  "type": "jp",
+  "vocab": "太る",
+  "reading": "ふとる",
+  "example": "最近、少し太ってしまいました。",
+  "example_reading": "さいきん、すこしふとってしまいました。"
+}
+,
+{
+  "id": 44,
+  "type": "en",
+  "reading": "To get thin",
+  "example": "He has been getting thinner recently."
+}
+,
+{
+  "id": 44,
+  "type": "jp",
+  "vocab": "痩せる",
+  "reading": "やせる",
+  "example": "最近、彼は少し痩せてきています。",
+  "example_reading": "さいきん、かれはすこしやせてきています。"
+}
+,
+{
+  "id": 45,
+  "type": "en",
+  "reading": "To wear glasses",
+  "example": "Grandfather always wears glasses when reading a book."
+}
+,
+{
+  "id": 45,
+  "type": "jp",
+  "vocab": "めがねをかける",
+  "reading": "めがねをかける",
+  "example": "おじいさんは本を読むとき、いつもめがねをかけています。",
+  "example_reading": "おじいさんはほんをよむとき、いつもめがねをかけています。"
+}
+,
+{
+  "id": 46,
+  "type": "en",
+  "reading": "To wear, to hang",
+  "example": "I am hanging a picture on the wall."
+}
+,
+{
+  "id": 46,
+  "type": "jp",
+  "vocab": "かける",
+  "reading": "かける",
+  "example": "壁に絵をかけています。",
+  "example_reading": "かべにえをかけています。"
+}
+,
+{
+  "id": 47,
+  "type": "en",
+  "reading": "To work for (a company)",
+  "example": "He works for a bank."
+}
+,
+{
+  "id": 47,
+  "type": "jp",
+  "vocab": "勤める",
+  "reading": "つとめる",
+  "example": "彼は銀行に勤めています。",
+  "example_reading": "かれはぎんこうにつとめています。"
+}
+,
+{
+  "id": 48,
+  "type": "en",
+  "reading": "To marry",
+  "example": "She is married."
+}
+,
+{
+  "id": 48,
+  "type": "jp",
+  "vocab": "結婚する",
+  "reading": "けっこんする",
+  "example": "彼女は結婚しています。",
+  "example_reading": "かのじょはけっこんしています。"
+}
+,
+{
+  "id": 49,
+  "type": "en",
+  "reading": "To divorce",
+  "example": "They are already divorced."
+}
+,
+{
+  "id": 49,
+  "type": "jp",
+  "vocab": "離婚する",
+  "reading": "りこんする",
+  "example": "彼らはすでに離婚しています。",
+  "example_reading": "かれらはすでにりこんしています。"
+}
+,
+{
+  "id": 50,
+  "type": "en",
+  "reading": "Not particularly, not especially",
+  "example": "I am not particularly busy."
+}
+,
+{
+  "id": 50,
+  "type": "jp",
+  "vocab": "別に",
+  "reading": "べつに",
+  "example": "別に、忙しくありません。",
+  "example_reading": "べつに、いそがしくありません。"
+}
+]

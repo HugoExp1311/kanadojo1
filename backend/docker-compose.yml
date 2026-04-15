@@ -1,0 +1,35 @@
+# KanaDojo Backend - Docker Compose (Database Only)
+# Backend runs on host, database runs in Docker
+# 
+# Workflow:
+# 1. docker-compose up -d  (start database)
+# 2. Wait for health check to pass
+# 3. npm install  (generates Prisma client)
+# 4. npm run dev  (runs init-db, then starts server)
+#
+# The init-db script will:
+# - Check if database is initialized
+# - Run migrations if needed
+# - Create default admin user (UUID-based)
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: kanadojo-db
+    environment:
+      POSTGRES_DB: kanadojo
+      POSTGRES_USER: kanadojo
+      POSTGRES_PASSWORD: kanadojo_dev_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kanadojo"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  postgres-data:

@@ -1,0 +1,96 @@
+services:
+  # --------------------------------------------------------------------------
+  # DATABASE SERVICE
+  # --------------------------------------------------------------------------
+  postgres:
+    image: postgres:15-alpine
+    container_name: kanadojo_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER:-kanadojo}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-kanadojo_dev_password}
+      POSTGRES_DB: ${DB_NAME:-kanadojo}
+    ports:
+      - "5432:5432"
+    volumes:
+      # Use local folder ./postgres_data to prevent data loss
+      - ${POSTGRES_HOST_PATH:-./postgres_data}:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${DB_USER:-kanadojo} -d ${DB_NAME:-kanadojo}" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # --------------------------------------------------------------------------
+  # BACKEND SERVICE (Express API)
+  # --------------------------------------------------------------------------
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: kanadojo_backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "4000:4000"
+    environment:
+      NODE_ENV: ${NODE_ENV:-production}
+      PORT: 4000
+      # Use the container name 'postgres' for database connection
+      DATABASE_URL: postgresql://${DB_USER:-kanadojo}:${DB_PASSWORD:-kanadojo_dev_password}@postgres:5432/${DB_NAME:-kanadojo}
+      JWT_SECRET: ${JWT_SECRET:-dev-secret-key-change-this-in-production-minimum-32-characters-long}
+      # CORS Origin must match your frontend's external URL
+      CORS_ORIGIN: ${FRONTEND_URL:-http://localhost:3000}
+
+      # N8N Integrations (Optional, but required for Reading generation)
+      N8N_WEBHOOK_URL: ${N8N_WEBHOOK_URL:-}
+      N8N_READING_WEBHOOK_URL: ${N8N_READING_WEBHOOK_URL:-}
+      N8N_MNEMONIC_WEBHOOK_URL: ${N8N_MNEMONIC_WEBHOOK_URL:-}
+      N8N_KANJI_MNEMONIC_WEBHOOK_URL: ${N8N_KANJI_MNEMONIC_WEBHOOK_URL:-}
+      N8N_CSV_IMPORT_WEBHOOK_URL: ${N8N_CSV_IMPORT_WEBHOOK_URL:-}
+      N8N_CHAT_WEBHOOK_URL: ${N8N_CHAT_WEBHOOK_URL:-}
+      N8N_USERNAME: ${N8N_USERNAME:-}
+      N8N_PASSWORD: ${N8N_PASSWORD:-}
+
+      # Where generated reading JSON files are saved inside mapping
+      UPLOAD_MOUNT_PATH: /app/uploads
+    volumes:
+      # Use local folder ./uploads to prevent data loss for generated PDFs/JSONs
+      - ${UPLOAD_HOST_PATH:-./uploads}:/app/uploads
+
+  # --------------------------------------------------------------------------
+  # FRONTEND SERVICE (Next.js)
+  # --------------------------------------------------------------------------
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # NEXT_PUBLIC_* vars are baked into the JS bundle at build time — must be passed here!
+        NEXT_PUBLIC_API_URL: ${BACKEND_URL:-http://localhost:4000}
+        # Marks this as a production build so the welcome modal only shows once per user
+        NEXT_PUBLIC_VERCEL_ENV: production
+    container_name: kanadojo_frontend
+    restart: unless-stopped
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    depends_on:
+      - backend
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: ${NODE_ENV:-production}
+      # Next.js standalone runs on 3000 by default
+      PORT: 3000
+      HOSTNAME: "0.0.0.0"
+      # NEXT_PUBLIC_API_URL must be the URL the *browser* uses to reach the backend
+      NEXT_PUBLIC_API_URL: ${BACKEND_URL:-http://localhost:4000}
+      # Tells the welcome modal it's a real production deploy (not a Vercel preview),
+      # so it only shows once per user (on first visit) instead of on every reload.
+      NEXT_PUBLIC_VERCEL_ENV: production
+      # Disable Vercel-specific analytics (Speed Insights, Analytics) on self-hosted deployments.
+      # These scripts only exist on Vercel infrastructure and 404 everywhere else.
+      ANALYTICS_DISABLED: "true"

@@ -1,0 +1,7974 @@
+{
+  "1": [
+    {
+      "char": "上",
+      "meaning": "Above"
+    },
+    {
+      "char": "下",
+      "meaning": "Below"
+    },
+    {
+      "char": "大",
+      "meaning": "Big"
+    },
+    {
+      "char": "入",
+      "meaning": "Enter"
+    },
+    {
+      "char": "工",
+      "meaning": "Construction"
+    },
+    {
+      "char": "八",
+      "meaning": "Eight"
+    },
+    {
+      "char": "山",
+      "meaning": "Mountain"
+    },
+    {
+      "char": "口",
+      "meaning": "Mouth"
+    },
+    {
+      "char": "九",
+      "meaning": "Nine"
+    },
+    {
+      "char": "一",
+      "meaning": "One"
+    },
+    {
+      "char": "人",
+      "meaning": "Person"
+    },
+    {
+      "char": "力",
+      "meaning": "Power"
+    },
+    {
+      "char": "川",
+      "meaning": "River"
+    },
+    {
+      "char": "七",
+      "meaning": "Seven"
+    },
+    {
+      "char": "十",
+      "meaning": "Ten"
+    },
+    {
+      "char": "三",
+      "meaning": "Three"
+    },
+    {
+      "char": "二",
+      "meaning": "Two"
+    },
+    {
+      "char": "女",
+      "meaning": "Woman"
+    }
+  ],
+  "2": [
+    {
+      "char": "玉",
+      "meaning": "Ball"
+    },
+    {
+      "char": "本",
+      "meaning": "Book"
+    },
+    {
+      "char": "丸",
+      "meaning": "Circle"
+    },
+    {
+      "char": "子",
+      "meaning": "Child"
+    },
+    {
+      "char": "正",
+      "meaning": "Correct"
+    },
+    {
+      "char": "土",
+      "meaning": "Dirt"
+    },
+    {
+      "char": "犬",
+      "meaning": "Dog"
+    },
+    {
+      "char": "出",
+      "meaning": "Exit"
+    },
+    {
+      "char": "夕",
+      "meaning": "Evening"
+    },
+    {
+      "char": "目",
+      "meaning": "Eye"
+    },
+    {
+      "char": "火",
+      "meaning": "Fire"
+    },
+    {
+      "char": "五",
+      "meaning": "Five"
+    },
+    {
+      "char": "四",
+      "meaning": "Four"
+    },
+    {
+      "char": "天",
+      "meaning": "Heaven"
+    },
+    {
+      "char": "手",
+      "meaning": "Hand"
+    },
+    {
+      "char": "王",
+      "meaning": "King"
+    },
+    {
+      "char": "左",
+      "meaning": "Left"
+    },
+    {
+      "char": "中",
+      "meaning": "Middle"
+    },
+    {
+      "char": "月",
+      "meaning": "Moon"
+    },
+    {
+      "char": "田",
+      "meaning": "Rice Paddy"
+    },
+    {
+      "char": "右",
+      "meaning": "Right"
+    },
+    {
+      "char": "六",
+      "meaning": "Six"
+    },
+    {
+      "char": "小",
+      "meaning": "Small"
+    },
+    {
+      "char": "丁",
+      "meaning": "Street"
+    },
+    {
+      "char": "立",
+      "meaning": "Stand"
+    },
+    {
+      "char": "日",
+      "meaning": "Sun"
+    },
+    {
+      "char": "刀",
+      "meaning": "Sword"
+    },
+    {
+      "char": "才",
+      "meaning": "Talent"
+    },
+    {
+      "char": "木",
+      "meaning": "Tree"
+    },
+    {
+      "char": "千",
+      "meaning": "Thousand"
+    },
+    {
+      "char": "水",
+      "meaning": "Water"
+    },
+    {
+      "char": "白",
+      "meaning": "White"
+    },
+    {
+      "char": "文",
+      "meaning": "Writing"
+    },
+    {
+      "char": "円",
+      "meaning": "Yen"
+    },
+    {
+      "char": "了",
+      "meaning": "Finish"
+    },
+    {
+      "char": "又",
+      "meaning": "Again"
+    }
+  ],
+  "3": [
+    {
+      "char": "矢",
+      "meaning": "Arrow"
+    },
+    {
+      "char": "市",
+      "meaning": "City"
+    },
+    {
+      "char": "牛",
+      "meaning": "Cow"
+    },
+    {
+      "char": "方",
+      "meaning": "Direction"
+    },
+    {
+      "char": "切",
+      "meaning": "Cut"
+    },
+    {
+      "char": "戸",
+      "meaning": "Door"
+    },
+    {
+      "char": "太",
+      "meaning": "Fat"
+    },
+    {
+      "char": "少",
+      "meaning": "Few"
+    },
+    {
+      "char": "父",
+      "meaning": "Father"
+    },
+    {
+      "char": "友",
+      "meaning": "Friend"
+    },
+    {
+      "char": "毛",
+      "meaning": "Fur"
+    },
+    {
+      "char": "心",
+      "meaning": "Heart"
+    },
+    {
+      "char": "内",
+      "meaning": "Inside"
+    },
+    {
+      "char": "半",
+      "meaning": "Half"
+    },
+    {
+      "char": "生",
+      "meaning": "Life"
+    },
+    {
+      "char": "台",
+      "meaning": "Machine"
+    },
+    {
+      "char": "母",
+      "meaning": "Mother"
+    },
+    {
+      "char": "午",
+      "meaning": "Noon"
+    },
+    {
+      "char": "北",
+      "meaning": "North"
+    },
+    {
+      "char": "今",
+      "meaning": "Now"
+    },
+    {
+      "char": "古",
+      "meaning": "Old"
+    },
+    {
+      "char": "外",
+      "meaning": "Outside"
+    },
+    {
+      "char": "分",
+      "meaning": "Part"
+    },
+    {
+      "char": "引",
+      "meaning": "Pull"
+    },
+    {
+      "char": "止",
+      "meaning": "Stop"
+    },
+    {
+      "char": "万",
+      "meaning": "Ten Thousand"
+    },
+    {
+      "char": "広",
+      "meaning": "Wide"
+    },
+    {
+      "char": "用",
+      "meaning": "Task"
+    },
+    {
+      "char": "冬",
+      "meaning": "Winter"
+    },
+    {
+      "char": "元",
+      "meaning": "Origin"
+    },
+    {
+      "char": "公",
+      "meaning": "Public"
+    }
+  ],
+  "4": [
+    {
+      "char": "字",
+      "meaning": "Letter"
+    },
+    {
+      "char": "竹",
+      "meaning": "Bamboo"
+    },
+    {
+      "char": "車",
+      "meaning": "Car"
+    },
+    {
+      "char": "央",
+      "meaning": "Center"
+    },
+    {
+      "char": "写",
+      "meaning": "Copy"
+    },
+    {
+      "char": "仕",
+      "meaning": "Doing"
+    },
+    {
+      "char": "気",
+      "meaning": "Energy"
+    },
+    {
+      "char": "耳",
+      "meaning": "Ear"
+    },
+    {
+      "char": "平",
+      "meaning": "Flat"
+    },
+    {
+      "char": "早",
+      "meaning": "Early"
+    },
+    {
+      "char": "花",
+      "meaning": "Flower"
+    },
+    {
+      "char": "足",
+      "meaning": "Foot"
+    },
+    {
+      "char": "打",
+      "meaning": "Hit"
+    },
+    {
+      "char": "百",
+      "meaning": "Hundred"
+    },
+    {
+      "char": "氷",
+      "meaning": "Ice"
+    },
+    {
+      "char": "虫",
+      "meaning": "Insect"
+    },
+    {
+      "char": "男",
+      "meaning": "Man"
+    },
+    {
+      "char": "主",
+      "meaning": "Master"
+    },
+    {
+      "char": "名",
+      "meaning": "Name"
+    },
+    {
+      "char": "不",
+      "meaning": "Not"
+    },
+    {
+      "char": "号",
+      "meaning": "Number"
+    },
+    {
+      "char": "去",
+      "meaning": "Past"
+    },
+    {
+      "char": "他",
+      "meaning": "Other"
+    },
+    {
+      "char": "皿",
+      "meaning": "Plate"
+    },
+    {
+      "char": "赤",
+      "meaning": "Red"
+    },
+    {
+      "char": "先",
+      "meaning": "Previous"
+    },
+    {
+      "char": "休",
+      "meaning": "Rest"
+    },
+    {
+      "char": "見",
+      "meaning": "See"
+    },
+    {
+      "char": "貝",
+      "meaning": "Shellfish"
+    },
+    {
+      "char": "石",
+      "meaning": "Stone"
+    },
+    {
+      "char": "申",
+      "meaning": "Say Humbly"
+    },
+    {
+      "char": "礼",
+      "meaning": "Thanks"
+    },
+    {
+      "char": "糸",
+      "meaning": "Thread"
+    },
+    {
+      "char": "村",
+      "meaning": "Village"
+    },
+    {
+      "char": "町",
+      "meaning": "Town"
+    },
+    {
+      "char": "宝",
+      "meaning": "Treasure"
+    },
+    {
+      "char": "世",
+      "meaning": "World"
+    },
+    {
+      "char": "年",
+      "meaning": "Year"
+    },
+    {
+      "char": "代",
+      "meaning": "Substitute"
+    }
+  ],
+  "5": [
+    {
+      "char": "角",
+      "meaning": "Angle"
+    },
+    {
+      "char": "青",
+      "meaning": "Blue"
+    },
+    {
+      "char": "体",
+      "meaning": "Body"
+    },
+    {
+      "char": "色",
+      "meaning": "Color"
+    },
+    {
+      "char": "来",
+      "meaning": "Come"
+    },
+    {
+      "char": "当",
+      "meaning": "Correct"
+    },
+    {
+      "char": "社",
+      "meaning": "Company"
+    },
+    {
+      "char": "図",
+      "meaning": "Diagram"
+    },
+    {
+      "char": "羽",
+      "meaning": "Feather"
+    },
+    {
+      "char": "林",
+      "meaning": "Forest"
+    },
+    {
+      "char": "行",
+      "meaning": "Go"
+    },
+    {
+      "char": "毎",
+      "meaning": "Every"
+    },
+    {
+      "char": "金",
+      "meaning": "Gold"
+    },
+    {
+      "char": "里",
+      "meaning": "Hometown"
+    },
+    {
+      "char": "草",
+      "meaning": "Grass"
+    },
+    {
+      "char": "光",
+      "meaning": "Light"
+    },
+    {
+      "char": "作",
+      "meaning": "Make"
+    },
+    {
+      "char": "多",
+      "meaning": "Many"
+    },
+    {
+      "char": "肉",
+      "meaning": "Meat"
+    },
+    {
+      "char": "会",
+      "meaning": "Meet"
+    },
+    {
+      "char": "交",
+      "meaning": "Mix"
+    },
+    {
+      "char": "近",
+      "meaning": "Near"
+    },
+    {
+      "char": "雨",
+      "meaning": "Rain"
+    },
+    {
+      "char": "兄",
+      "meaning": "Older Brother"
+    },
+    {
+      "char": "米",
+      "meaning": "Rice"
+    },
+    {
+      "char": "走",
+      "meaning": "Run"
+    },
+    {
+      "char": "言",
+      "meaning": "Say"
+    },
+    {
+      "char": "同",
+      "meaning": "Same"
+    },
+    {
+      "char": "自",
+      "meaning": "Self"
+    },
+    {
+      "char": "皮",
+      "meaning": "Skin"
+    },
+    {
+      "char": "形",
+      "meaning": "Shape"
+    },
+    {
+      "char": "空",
+      "meaning": "Sky"
+    },
+    {
+      "char": "音",
+      "meaning": "Sound"
+    },
+    {
+      "char": "学",
+      "meaning": "Study"
+    },
+    {
+      "char": "考",
+      "meaning": "Think"
+    },
+    {
+      "char": "回",
+      "meaning": "Times"
+    },
+    {
+      "char": "谷",
+      "meaning": "Valley"
+    },
+    {
+      "char": "声",
+      "meaning": "Voice"
+    },
+    {
+      "char": "西",
+      "meaning": "West"
+    },
+    {
+      "char": "麦",
+      "meaning": "Wheat"
+    },
+    {
+      "char": "何",
+      "meaning": "What"
+    },
+    {
+      "char": "弟",
+      "meaning": "Younger Brother"
+    }
+  ],
+  "6": [
+    {
+      "char": "明",
+      "meaning": "Bright"
+    },
+    {
+      "char": "夜",
+      "meaning": "Night"
+    },
+    {
+      "char": "全",
+      "meaning": "All"
+    },
+    {
+      "char": "後",
+      "meaning": "Behind"
+    },
+    {
+      "char": "血",
+      "meaning": "Blood"
+    },
+    {
+      "char": "両",
+      "meaning": "Both"
+    },
+    {
+      "char": "国",
+      "meaning": "Country"
+    },
+    {
+      "char": "化",
+      "meaning": "Change"
+    },
+    {
+      "char": "死",
+      "meaning": "Death"
+    },
+    {
+      "char": "亡",
+      "meaning": "Death"
+    },
+    {
+      "char": "地",
+      "meaning": "Earth"
+    },
+    {
+      "char": "東",
+      "meaning": "East"
+    },
+    {
+      "char": "前",
+      "meaning": "Front"
+    },
+    {
+      "char": "食",
+      "meaning": "Eat"
+    },
+    {
+      "char": "有",
+      "meaning": "Have"
+    },
+    {
+      "char": "私",
+      "meaning": "I"
+    },
+    {
+      "char": "知",
+      "meaning": "Know"
+    },
+    {
+      "char": "長",
+      "meaning": "Long"
+    },
+    {
+      "char": "曲",
+      "meaning": "Music"
+    },
+    {
+      "char": "活",
+      "meaning": "Lively"
+    },
+    {
+      "char": "首",
+      "meaning": "Neck"
+    },
+    {
+      "char": "姉",
+      "meaning": "Older Sister"
+    },
+    {
+      "char": "点",
+      "meaning": "Point"
+    },
+    {
+      "char": "室",
+      "meaning": "Room"
+    },
+    {
+      "char": "安",
+      "meaning": "Relax"
+    },
+    {
+      "char": "科",
+      "meaning": "Science"
+    },
+    {
+      "char": "羊",
+      "meaning": "Sheep"
+    },
+    {
+      "char": "海",
+      "meaning": "Sea"
+    },
+    {
+      "char": "店",
+      "meaning": "Shop"
+    },
+    {
+      "char": "州",
+      "meaning": "State"
+    },
+    {
+      "char": "星",
+      "meaning": "Star"
+    },
+    {
+      "char": "茶",
+      "meaning": "Tea"
+    },
+    {
+      "char": "思",
+      "meaning": "Think"
+    },
+    {
+      "char": "歩",
+      "meaning": "Walk"
+    },
+    {
+      "char": "向",
+      "meaning": "Yonder"
+    },
+    {
+      "char": "妹",
+      "meaning": "Younger Sister"
+    },
+    {
+      "char": "画",
+      "meaning": "Image"
+    },
+    {
+      "char": "南",
+      "meaning": "South"
+    },
+    {
+      "char": "京",
+      "meaning": "Capital"
+    },
+    {
+      "char": "次",
+      "meaning": "Next"
+    },
+    {
+      "char": "直",
+      "meaning": "Straight"
+    }
+  ],
+  "7": [
+    {
+      "char": "家",
+      "meaning": "House"
+    },
+    {
+      "char": "辺",
+      "meaning": "Area"
+    },
+    {
+      "char": "札",
+      "meaning": "Bill"
+    },
+    {
+      "char": "付",
+      "meaning": "Attach"
+    },
+    {
+      "char": "鳥",
+      "meaning": "Bird"
+    },
+    {
+      "char": "黒",
+      "meaning": "Black"
+    },
+    {
+      "char": "船",
+      "meaning": "Boat"
+    },
+    {
+      "char": "必",
+      "meaning": "Certain"
+    },
+    {
+      "char": "末",
+      "meaning": "End"
+    },
+    {
+      "char": "失",
+      "meaning": "Fault"
+    },
+    {
+      "char": "氏",
+      "meaning": "Family Name"
+    },
+    {
+      "char": "魚",
+      "meaning": "Fish"
+    },
+    {
+      "char": "組",
+      "meaning": "Group"
+    },
+    {
+      "char": "以",
+      "meaning": "From"
+    },
+    {
+      "char": "欠",
+      "meaning": "Lack"
+    },
+    {
+      "char": "未",
+      "meaning": "Not Yet"
+    },
+    {
+      "char": "通",
+      "meaning": "Pass Through"
+    },
+    {
+      "char": "紙",
+      "meaning": "Paper"
+    },
+    {
+      "char": "民",
+      "meaning": "Peoples"
+    },
+    {
+      "char": "由",
+      "meaning": "Reason"
+    },
+    {
+      "char": "理",
+      "meaning": "Reason"
+    },
+    {
+      "char": "校",
+      "meaning": "School"
+    },
+    {
+      "char": "雪",
+      "meaning": "Snow"
+    },
+    {
+      "char": "強",
+      "meaning": "Strong"
+    },
+    {
+      "char": "夏",
+      "meaning": "Summer"
+    },
+    {
+      "char": "高",
+      "meaning": "Tall"
+    },
+    {
+      "char": "教",
+      "meaning": "Teach"
+    },
+    {
+      "char": "時",
+      "meaning": "Time"
+    },
+    {
+      "char": "弱",
+      "meaning": "Weak"
+    },
+    {
+      "char": "週",
+      "meaning": "Week"
+    },
+    {
+      "char": "風",
+      "meaning": "Wind"
+    },
+    {
+      "char": "記",
+      "meaning": "Write Down"
+    },
+    {
+      "char": "黄",
+      "meaning": "Yellow"
+    }
+  ],
+  "8": [
+    {
+      "char": "答",
+      "meaning": "Answer"
+    },
+    {
+      "char": "身",
+      "meaning": "Body"
+    },
+    {
+      "char": "君",
+      "meaning": "Buddy"
+    },
+    {
+      "char": "反",
+      "meaning": "Anti"
+    },
+    {
+      "char": "買",
+      "meaning": "Buy"
+    },
+    {
+      "char": "局",
+      "meaning": "Bureau"
+    },
+    {
+      "char": "楽",
+      "meaning": "Comfort"
+    },
+    {
+      "char": "雲",
+      "meaning": "Cloud"
+    },
+    {
+      "char": "数",
+      "meaning": "Count"
+    },
+    {
+      "char": "決",
+      "meaning": "Decide"
+    },
+    {
+      "char": "住",
+      "meaning": "Dwell"
+    },
+    {
+      "char": "助",
+      "meaning": "Help"
+    },
+    {
+      "char": "森",
+      "meaning": "Forest"
+    },
+    {
+      "char": "電",
+      "meaning": "Electricity"
+    },
+    {
+      "char": "馬",
+      "meaning": "Horse"
+    },
+    {
+      "char": "間",
+      "meaning": "Interval"
+    },
+    {
+      "char": "朝",
+      "meaning": "Morning"
+    },
+    {
+      "char": "場",
+      "meaning": "Location"
+    },
+    {
+      "char": "医",
+      "meaning": "Medicine"
+    },
+    {
+      "char": "番",
+      "meaning": "Number In A Series"
+    },
+    {
+      "char": "池",
+      "meaning": "Pond"
+    },
+    {
+      "char": "所",
+      "meaning": "Place"
+    },
+    {
+      "char": "絵",
+      "meaning": "Picture"
+    },
+    {
+      "char": "究",
+      "meaning": "Research"
+    },
+    {
+      "char": "道",
+      "meaning": "Road"
+    },
+    {
+      "char": "役",
+      "meaning": "Service"
+    },
+    {
+      "char": "研",
+      "meaning": "Sharpen"
+    },
+    {
+      "char": "者",
+      "meaning": "Someone"
+    },
+    {
+      "char": "支",
+      "meaning": "Support"
+    },
+    {
+      "char": "話",
+      "meaning": "Talk"
+    },
+    {
+      "char": "投",
+      "meaning": "Throw"
+    },
+    {
+      "char": "対",
+      "meaning": "Versus"
+    }
+  ],
+  "9": [
+    {
+      "char": "受",
+      "meaning": "Accept"
+    },
+    {
+      "char": "美",
+      "meaning": "Beauty"
+    },
+    {
+      "char": "予",
+      "meaning": "Beforehand"
+    },
+    {
+      "char": "服",
+      "meaning": "Clothes"
+    },
+    {
+      "char": "度",
+      "meaning": "Degree"
+    },
+    {
+      "char": "発",
+      "meaning": "Departure"
+    },
+    {
+      "char": "定",
+      "meaning": "Determine"
+    },
+    {
+      "char": "表",
+      "meaning": "Express"
+    },
+    {
+      "char": "客",
+      "meaning": "Guest"
+    },
+    {
+      "char": "重",
+      "meaning": "Heavy"
+    },
+    {
+      "char": "持",
+      "meaning": "Hold"
+    },
+    {
+      "char": "負",
+      "meaning": "Lose"
+    },
+    {
+      "char": "相",
+      "meaning": "Mutual"
+    },
+    {
+      "char": "要",
+      "meaning": "Need"
+    },
+    {
+      "char": "新",
+      "meaning": "New"
+    },
+    {
+      "char": "事",
+      "meaning": "Occurrence"
+    },
+    {
+      "char": "部",
+      "meaning": "Part"
+    },
+    {
+      "char": "和",
+      "meaning": "Peace"
+    },
+    {
+      "char": "保",
+      "meaning": "Preserve"
+    },
+    {
+      "char": "返",
+      "meaning": "Return"
+    },
+    {
+      "char": "県",
+      "meaning": "Prefecture"
+    },
+    {
+      "char": "乗",
+      "meaning": "Ride"
+    },
+    {
+      "char": "売",
+      "meaning": "Sell"
+    },
+    {
+      "char": "屋",
+      "meaning": "Roof"
+    },
+    {
+      "char": "送",
+      "meaning": "Send"
+    },
+    {
+      "char": "泳",
+      "meaning": "Swim"
+    },
+    {
+      "char": "苦",
+      "meaning": "Suffering"
+    },
+    {
+      "char": "談",
+      "meaning": "Talk"
+    },
+    {
+      "char": "仮",
+      "meaning": "Temporary"
+    },
+    {
+      "char": "物",
+      "meaning": "Thing"
+    },
+    {
+      "char": "験",
+      "meaning": "Test"
+    },
+    {
+      "char": "具",
+      "meaning": "Tool"
+    },
+    {
+      "char": "実",
+      "meaning": "Truth"
+    },
+    {
+      "char": "試",
+      "meaning": "Try"
+    },
+    {
+      "char": "使",
+      "meaning": "Use"
+    },
+    {
+      "char": "勝",
+      "meaning": "Win"
+    },
+    {
+      "char": "界",
+      "meaning": "World"
+    }
+  ],
+  "10": [
+    {
+      "char": "進",
+      "meaning": "Advance"
+    },
+    {
+      "char": "始",
+      "meaning": "Begin"
+    },
+    {
+      "char": "酒",
+      "meaning": "Alcohol"
+    },
+    {
+      "char": "業",
+      "meaning": "Business"
+    },
+    {
+      "char": "算",
+      "meaning": "Calculate"
+    },
+    {
+      "char": "運",
+      "meaning": "Carry"
+    },
+    {
+      "char": "漢",
+      "meaning": "Chinese"
+    },
+    {
+      "char": "鳴",
+      "meaning": "Chirp"
+    },
+    {
+      "char": "配",
+      "meaning": "Distribute"
+    },
+    {
+      "char": "集",
+      "meaning": "Collect"
+    },
+    {
+      "char": "飲",
+      "meaning": "Drink"
+    },
+    {
+      "char": "終",
+      "meaning": "End"
+    },
+    {
+      "char": "顔",
+      "meaning": "Face"
+    },
+    {
+      "char": "落",
+      "meaning": "Fall"
+    },
+    {
+      "char": "農",
+      "meaning": "Farming"
+    },
+    {
+      "char": "速",
+      "meaning": "Fast"
+    },
+    {
+      "char": "聞",
+      "meaning": "Hear"
+    },
+    {
+      "char": "頭",
+      "meaning": "Head"
+    },
+    {
+      "char": "調",
+      "meaning": "Investigate"
+    },
+    {
+      "char": "院",
+      "meaning": "Institution"
+    },
+    {
+      "char": "鉄",
+      "meaning": "Iron"
+    },
+    {
+      "char": "語",
+      "meaning": "Language"
+    },
+    {
+      "char": "習",
+      "meaning": "Learn"
+    },
+    {
+      "char": "葉",
+      "meaning": "Leaf"
+    },
+    {
+      "char": "軽",
+      "meaning": "Lightweight"
+    },
+    {
+      "char": "最",
+      "meaning": "Most"
+    },
+    {
+      "char": "線",
+      "meaning": "Line"
+    },
+    {
+      "char": "開",
+      "meaning": "Open"
+    },
+    {
+      "char": "親",
+      "meaning": "Parent"
+    },
+    {
+      "char": "読",
+      "meaning": "Read"
+    },
+    {
+      "char": "求",
+      "meaning": "Request"
+    },
+    {
+      "char": "転",
+      "meaning": "Revolve"
+    },
+    {
+      "char": "路",
+      "meaning": "Road"
+    },
+    {
+      "char": "病",
+      "meaning": "Sick"
+    },
+    {
+      "char": "横",
+      "meaning": "Side"
+    },
+    {
+      "char": "歌",
+      "meaning": "Song"
+    },
+    {
+      "char": "起",
+      "meaning": "Wake Up"
+    }
+  ],
+  "11": [
+    {
+      "char": "功",
+      "meaning": "Achievement"
+    },
+    {
+      "char": "成",
+      "meaning": "Become"
+    },
+    {
+      "char": "岸",
+      "meaning": "Coast"
+    },
+    {
+      "char": "競",
+      "meaning": "Compete"
+    },
+    {
+      "char": "争",
+      "meaning": "Conflict"
+    },
+    {
+      "char": "便",
+      "meaning": "Convenience"
+    },
+    {
+      "char": "老",
+      "meaning": "Elderly"
+    },
+    {
+      "char": "命",
+      "meaning": "Fate"
+    },
+    {
+      "char": "指",
+      "meaning": "Finger"
+    },
+    {
+      "char": "初",
+      "meaning": "First"
+    },
+    {
+      "char": "味",
+      "meaning": "Flavor"
+    },
+    {
+      "char": "追",
+      "meaning": "Follow"
+    },
+    {
+      "char": "神",
+      "meaning": "God"
+    },
+    {
+      "char": "意",
+      "meaning": "Idea"
+    },
+    {
+      "char": "良",
+      "meaning": "Good"
+    },
+    {
+      "char": "労",
+      "meaning": "Labor"
+    },
+    {
+      "char": "好",
+      "meaning": "Like"
+    },
+    {
+      "char": "級",
+      "meaning": "Level"
+    },
+    {
+      "char": "昔",
+      "meaning": "Long Ago"
+    },
+    {
+      "char": "低",
+      "meaning": "Low"
+    },
+    {
+      "char": "育",
+      "meaning": "Nurture"
+    },
+    {
+      "char": "令",
+      "meaning": "Orders"
+    },
+    {
+      "char": "拾",
+      "meaning": "Pick Up"
+    },
+    {
+      "char": "注",
+      "meaning": "Pour"
+    },
+    {
+      "char": "利",
+      "meaning": "Profit"
+    },
+    {
+      "char": "位",
+      "meaning": "Rank"
+    },
+    {
+      "char": "仲",
+      "meaning": "Relationship"
+    },
+    {
+      "char": "秒",
+      "meaning": "Second"
+    },
+    {
+      "char": "放",
+      "meaning": "Release"
+    },
+    {
+      "char": "別",
+      "meaning": "Separate"
+    },
+    {
+      "char": "特",
+      "meaning": "Special"
+    },
+    {
+      "char": "共",
+      "meaning": "Together"
+    },
+    {
+      "char": "努",
+      "meaning": "Toil"
+    },
+    {
+      "char": "戦",
+      "meaning": "War"
+    },
+    {
+      "char": "伝",
+      "meaning": "Transmit"
+    },
+    {
+      "char": "波",
+      "meaning": "Wave"
+    },
+    {
+      "char": "洋",
+      "meaning": "Western Style"
+    },
+    {
+      "char": "働",
+      "meaning": "Work"
+    }
+  ],
+  "12": [
+    {
+      "char": "悪",
+      "meaning": "Bad"
+    },
+    {
+      "char": "息",
+      "meaning": "Breath"
+    },
+    {
+      "char": "登",
+      "meaning": "Climb"
+    },
+    {
+      "char": "章",
+      "meaning": "Chapter"
+    },
+    {
+      "char": "寒",
+      "meaning": "Cold"
+    },
+    {
+      "char": "勉",
+      "meaning": "Exertion"
+    },
+    {
+      "char": "深",
+      "meaning": "Deep"
+    },
+    {
+      "char": "倍",
+      "meaning": "Double"
+    },
+    {
+      "char": "消",
+      "meaning": "Extinguish"
+    },
+    {
+      "char": "祭",
+      "meaning": "Festival"
+    },
+    {
+      "char": "野",
+      "meaning": "Field"
+    },
+    {
+      "char": "階",
+      "meaning": "Floor"
+    },
+    {
+      "char": "庭",
+      "meaning": "Garden"
+    },
+    {
+      "char": "港",
+      "meaning": "Harbor"
+    },
+    {
+      "char": "暑",
+      "meaning": "Hot"
+    },
+    {
+      "char": "僕",
+      "meaning": "I"
+    },
+    {
+      "char": "湯",
+      "meaning": "Hot Water"
+    },
+    {
+      "char": "島",
+      "meaning": "Island"
+    },
+    {
+      "char": "童",
+      "meaning": "Juvenile"
+    },
+    {
+      "char": "員",
+      "meaning": "Member"
+    },
+    {
+      "char": "商",
+      "meaning": "Merchandise"
+    },
+    {
+      "char": "都",
+      "meaning": "Metropolis"
+    },
+    {
+      "char": "動",
+      "meaning": "Move"
+    },
+    {
+      "char": "第",
+      "meaning": "Ordinal Number Prefix"
+    },
+    {
+      "char": "期",
+      "meaning": "Period Of Time"
+    },
+    {
+      "char": "根",
+      "meaning": "Root"
+    },
+    {
+      "char": "短",
+      "meaning": "Short"
+    },
+    {
+      "char": "植",
+      "meaning": "Plant"
+    },
+    {
+      "char": "泉",
+      "meaning": "Spring"
+    },
+    {
+      "char": "流",
+      "meaning": "Stream"
+    },
+    {
+      "char": "合",
+      "meaning": "Suit"
+    },
+    {
+      "char": "歯",
+      "meaning": "Tooth"
+    },
+    {
+      "char": "族",
+      "meaning": "Tribe"
+    },
+    {
+      "char": "待",
+      "meaning": "Wait"
+    },
+    {
+      "char": "温",
+      "meaning": "Warm"
+    },
+    {
+      "char": "着",
+      "meaning": "Wear"
+    },
+    {
+      "char": "旅",
+      "meaning": "Trip"
+    },
+    {
+      "char": "球",
+      "meaning": "Sphere"
+    },
+    {
+      "char": "陽",
+      "meaning": "Sunshine"
+    }
+  ],
+  "13": [
+    {
+      "char": "映",
+      "meaning": "Reflect"
+    },
+    {
+      "char": "像",
+      "meaning": "Image"
+    },
+    {
+      "char": "整",
+      "meaning": "Arrange"
+    },
+    {
+      "char": "皆",
+      "meaning": "All"
+    },
+    {
+      "char": "謝",
+      "meaning": "Apologize"
+    },
+    {
+      "char": "選",
+      "meaning": "Choose"
+    },
+    {
+      "char": "橋",
+      "meaning": "Bridge"
+    },
+    {
+      "char": "疑",
+      "meaning": "Doubt"
+    },
+    {
+      "char": "器",
+      "meaning": "Container"
+    },
+    {
+      "char": "暗",
+      "meaning": "Dark"
+    },
+    {
+      "char": "感",
+      "meaning": "Feeling"
+    },
+    {
+      "char": "料",
+      "meaning": "Fee"
+    },
+    {
+      "char": "情",
+      "meaning": "Feeling"
+    },
+    {
+      "char": "養",
+      "meaning": "Foster"
+    },
+    {
+      "char": "様",
+      "meaning": "Formal Name Ender"
+    },
+    {
+      "char": "緑",
+      "meaning": "Green"
+    },
+    {
+      "char": "億",
+      "meaning": "Hundred Million"
+    },
+    {
+      "char": "熱",
+      "meaning": "Heat"
+    },
+    {
+      "char": "想",
+      "meaning": "Imagine"
+    },
+    {
+      "char": "殺",
+      "meaning": "Kill"
+    },
+    {
+      "char": "鏡",
+      "meaning": "Mirror"
+    },
+    {
+      "char": "宿",
+      "meaning": "Lodge"
+    },
+    {
+      "char": "然",
+      "meaning": "Nature"
+    },
+    {
+      "char": "賞",
+      "meaning": "Prize"
+    },
+    {
+      "char": "詩",
+      "meaning": "Poem"
+    },
+    {
+      "char": "練",
+      "meaning": "Practice"
+    },
+    {
+      "char": "館",
+      "meaning": "Public Building"
+    },
+    {
+      "char": "問",
+      "meaning": "Problem"
+    },
+    {
+      "char": "士",
+      "meaning": "Samurai"
+    },
+    {
+      "char": "課",
+      "meaning": "Section"
+    },
+    {
+      "char": "標",
+      "meaning": "Signpost"
+    },
+    {
+      "char": "銀",
+      "meaning": "Silver"
+    },
+    {
+      "char": "駅",
+      "meaning": "Station"
+    },
+    {
+      "char": "題",
+      "meaning": "Topic"
+    },
+    {
+      "char": "輪",
+      "meaning": "Wheel"
+    },
+    {
+      "char": "願",
+      "meaning": "Request"
+    },
+    {
+      "char": "福",
+      "meaning": "Luck"
+    }
+  ],
+  "14": [
+    {
+      "char": "能",
+      "meaning": "Ability"
+    },
+    {
+      "char": "芸",
+      "meaning": "Art"
+    },
+    {
+      "char": "雰",
+      "meaning": "Atmosphere"
+    },
+    {
+      "char": "骨",
+      "meaning": "Bone"
+    },
+    {
+      "char": "束",
+      "meaning": "Bundle"
+    },
+    {
+      "char": "周",
+      "meaning": "Circumference"
+    },
+    {
+      "char": "協",
+      "meaning": "Cooperation"
+    },
+    {
+      "char": "折",
+      "meaning": "Fold"
+    },
+    {
+      "char": "性",
+      "meaning": "Gender"
+    },
+    {
+      "char": "基",
+      "meaning": "Foundation"
+    },
+    {
+      "char": "妥",
+      "meaning": "Gentle"
+    },
+    {
+      "char": "卒",
+      "meaning": "Graduate"
+    },
+    {
+      "char": "固",
+      "meaning": "Hard"
+    },
+    {
+      "char": "望",
+      "meaning": "Hope"
+    },
+    {
+      "char": "材",
+      "meaning": "Lumber"
+    },
+    {
+      "char": "参",
+      "meaning": "Participate"
+    },
+    {
+      "char": "完",
+      "meaning": "Perfect"
+    },
+    {
+      "char": "松",
+      "meaning": "Pine"
+    },
+    {
+      "char": "約",
+      "meaning": "Promise"
+    },
+    {
+      "char": "残",
+      "meaning": "Remainder"
+    },
+    {
+      "char": "季",
+      "meaning": "Seasons"
+    },
+    {
+      "char": "格",
+      "meaning": "Status"
+    },
+    {
+      "char": "頑",
+      "meaning": "Stubborn"
+    },
+    {
+      "char": "囲",
+      "meaning": "Surround"
+    },
+    {
+      "char": "的",
+      "meaning": "Target"
+    },
+    {
+      "char": "念",
+      "meaning": "Thought"
+    },
+    {
+      "char": "希",
+      "meaning": "Wish"
+    },
+    {
+      "char": "例",
+      "meaning": "Example"
+    },
+    {
+      "char": "技",
+      "meaning": "Skill"
+    },
+    {
+      "char": "術",
+      "meaning": "Technique"
+    }
+  ],
+  "15": [
+    {
+      "char": "紀",
+      "meaning": "Account"
+    },
+    {
+      "char": "秋",
+      "meaning": "Autumn"
+    },
+    {
+      "char": "軍",
+      "meaning": "Army"
+    },
+    {
+      "char": "岩",
+      "meaning": "Boulder"
+    },
+    {
+      "char": "信",
+      "meaning": "Believe"
+    },
+    {
+      "char": "仏",
+      "meaning": "Buddha"
+    },
+    {
+      "char": "猫",
+      "meaning": "Cat"
+    },
+    {
+      "char": "変",
+      "meaning": "Change"
+    },
+    {
+      "char": "晴",
+      "meaning": "Clear Up"
+    },
+    {
+      "char": "勇",
+      "meaning": "Courage"
+    },
+    {
+      "char": "泣",
+      "meaning": "Cry"
+    },
+    {
+      "char": "司",
+      "meaning": "Director"
+    },
+    {
+      "char": "区",
+      "meaning": "District"
+    },
+    {
+      "char": "英",
+      "meaning": "England"
+    },
+    {
+      "char": "丈",
+      "meaning": "Height"
+    },
+    {
+      "char": "夫",
+      "meaning": "Husband"
+    },
+    {
+      "char": "飯",
+      "meaning": "Meal"
+    },
+    {
+      "char": "計",
+      "meaning": "Measure"
+    },
+    {
+      "char": "晩",
+      "meaning": "Night"
+    },
+    {
+      "char": "法",
+      "meaning": "Method"
+    },
+    {
+      "char": "昼",
+      "meaning": "Noon"
+    },
+    {
+      "char": "毒",
+      "meaning": "Poison"
+    },
+    {
+      "char": "昨",
+      "meaning": "Previous"
+    },
+    {
+      "char": "列",
+      "meaning": "Row"
+    },
+    {
+      "char": "式",
+      "meaning": "Ritual"
+    },
+    {
+      "char": "浅",
+      "meaning": "Shallow"
+    },
+    {
+      "char": "単",
+      "meaning": "Simple"
+    },
+    {
+      "char": "帰",
+      "meaning": "Return Home"
+    },
+    {
+      "char": "坂",
+      "meaning": "Slope"
+    },
+    {
+      "char": "春",
+      "meaning": "Spring"
+    },
+    {
+      "char": "寺",
+      "meaning": "Temple"
+    },
+    {
+      "char": "建",
+      "meaning": "Build"
+    },
+    {
+      "char": "築",
+      "meaning": "Construct"
+    }
+  ],
+  "16": [
+    {
+      "char": "取",
+      "meaning": "Take"
+    },
+    {
+      "char": "浴",
+      "meaning": "Bathe"
+    },
+    {
+      "char": "箱",
+      "meaning": "Box"
+    },
+    {
+      "char": "係",
+      "meaning": "Connection"
+    },
+    {
+      "char": "治",
+      "meaning": "Cure"
+    },
+    {
+      "char": "危",
+      "meaning": "Dangerous"
+    },
+    {
+      "char": "冒",
+      "meaning": "Dare"
+    },
+    {
+      "char": "留",
+      "meaning": "Detain"
+    },
+    {
+      "char": "弁",
+      "meaning": "Dialect"
+    },
+    {
+      "char": "証",
+      "meaning": "Evidence"
+    },
+    {
+      "char": "存",
+      "meaning": "Exist"
+    },
+    {
+      "char": "園",
+      "meaning": "Garden"
+    },
+    {
+      "char": "遠",
+      "meaning": "Far"
+    },
+    {
+      "char": "府",
+      "meaning": "Government"
+    },
+    {
+      "char": "門",
+      "meaning": "Gates"
+    },
+    {
+      "char": "面",
+      "meaning": "Face"
+    },
+    {
+      "char": "幸",
+      "meaning": "Happiness"
+    },
+    {
+      "char": "急",
+      "meaning": "Hurry"
+    },
+    {
+      "char": "笑",
+      "meaning": "Laugh"
+    },
+    {
+      "char": "荷",
+      "meaning": "Luggage"
+    },
+    {
+      "char": "阪",
+      "meaning": "Osaka"
+    },
+    {
+      "char": "政",
+      "meaning": "Politics"
+    },
+    {
+      "char": "守",
+      "meaning": "Protect"
+    },
+    {
+      "char": "辞",
+      "meaning": "Quit"
+    },
+    {
+      "char": "関",
+      "meaning": "Related"
+    },
+    {
+      "char": "品",
+      "meaning": "Product"
+    },
+    {
+      "char": "真",
+      "meaning": "Reality"
+    },
+    {
+      "char": "険",
+      "meaning": "Risky"
+    },
+    {
+      "char": "典",
+      "meaning": "Rule"
+    },
+    {
+      "char": "専",
+      "meaning": "Specialty"
+    },
+    {
+      "char": "冗",
+      "meaning": "Superfluous"
+    },
+    {
+      "char": "曜",
+      "meaning": "Weekday"
+    },
+    {
+      "char": "書",
+      "meaning": "Write"
+    }
+  ],
+  "17": [
+    {
+      "char": "是",
+      "meaning": "Absolutely"
+    },
+    {
+      "char": "結",
+      "meaning": "Bind"
+    },
+    {
+      "char": "底",
+      "meaning": "Bottom"
+    },
+    {
+      "char": "因",
+      "meaning": "Cause"
+    },
+    {
+      "char": "詳",
+      "meaning": "Detailed"
+    },
+    {
+      "char": "識",
+      "meaning": "Discerning"
+    },
+    {
+      "char": "干",
+      "meaning": "Dry"
+    },
+    {
+      "char": "劇",
+      "meaning": "Drama"
+    },
+    {
+      "char": "敗",
+      "meaning": "Failure"
+    },
+    {
+      "char": "渉",
+      "meaning": "Ford"
+    },
+    {
+      "char": "果",
+      "meaning": "Fruit"
+    },
+    {
+      "char": "官",
+      "meaning": "Government"
+    },
+    {
+      "char": "署",
+      "meaning": "Government Office"
+    },
+    {
+      "char": "察",
+      "meaning": "Guess"
+    },
+    {
+      "char": "堂",
+      "meaning": "Hall"
+    },
+    {
+      "char": "幻",
+      "meaning": "Illusion"
+    },
+    {
+      "char": "愛",
+      "meaning": "Love"
+    },
+    {
+      "char": "非",
+      "meaning": "Injustice"
+    },
+    {
+      "char": "薬",
+      "meaning": "Medicine"
+    },
+    {
+      "char": "覚",
+      "meaning": "Memorize"
+    },
+    {
+      "char": "常",
+      "meaning": "Normal"
+    },
+    {
+      "char": "鼻",
+      "meaning": "Nose"
+    },
+    {
+      "char": "無",
+      "meaning": "Nothing"
+    },
+    {
+      "char": "原",
+      "meaning": "Original"
+    },
+    {
+      "char": "喜",
+      "meaning": "Rejoice"
+    },
+    {
+      "char": "恋",
+      "meaning": "Romance"
+    },
+    {
+      "char": "悲",
+      "meaning": "Sad"
+    },
+    {
+      "char": "塩",
+      "meaning": "Salt"
+    },
+    {
+      "char": "席",
+      "meaning": "Seat"
+    },
+    {
+      "char": "側",
+      "meaning": "Side"
+    },
+    {
+      "char": "兵",
+      "meaning": "Soldier"
+    },
+    {
+      "char": "説",
+      "meaning": "Theory"
+    },
+    {
+      "char": "細",
+      "meaning": "Thin"
+    },
+    {
+      "char": "梅",
+      "meaning": "Ume"
+    },
+    {
+      "char": "警",
+      "meaning": "Warn"
+    },
+    {
+      "char": "栄",
+      "meaning": "Prosper"
+    },
+    {
+      "char": "虚",
+      "meaning": "Void"
+    }
+  ],
+  "18": [
+    {
+      "char": "告",
+      "meaning": "Announce"
+    },
+    {
+      "char": "達",
+      "meaning": "Attain"
+    },
+    {
+      "char": "焼",
+      "meaning": "Bake"
+    },
+    {
+      "char": "脳",
+      "meaning": "Brain"
+    },
+    {
+      "char": "弓",
+      "meaning": "Bow"
+    },
+    {
+      "char": "借",
+      "meaning": "Borrow"
+    },
+    {
+      "char": "胸",
+      "meaning": "Chest"
+    },
+    {
+      "char": "喫",
+      "meaning": "Consume"
+    },
+    {
+      "char": "等",
+      "meaning": "Equal"
+    },
+    {
+      "char": "枚",
+      "meaning": "Flat Object Counter"
+    },
+    {
+      "char": "忘",
+      "meaning": "Forget"
+    },
+    {
+      "char": "訓",
+      "meaning": "Instruction"
+    },
+    {
+      "char": "種",
+      "meaning": "Kind"
+    },
+    {
+      "char": "句",
+      "meaning": "Paragraph"
+    },
+    {
+      "char": "報",
+      "meaning": "News"
+    },
+    {
+      "char": "許",
+      "meaning": "Permit"
+    },
+    {
+      "char": "僧",
+      "meaning": "Priest"
+    },
+    {
+      "char": "可",
+      "meaning": "Possible"
+    },
+    {
+      "char": "禁",
+      "meaning": "Prohibit"
+    },
+    {
+      "char": "座",
+      "meaning": "Sit"
+    },
+    {
+      "char": "煙",
+      "meaning": "Smoke"
+    },
+    {
+      "char": "静",
+      "meaning": "Quiet"
+    },
+    {
+      "char": "汽",
+      "meaning": "Steam"
+    },
+    {
+      "char": "洗",
+      "meaning": "Wash"
+    },
+    {
+      "char": "禅",
+      "meaning": "Zen"
+    },
+    {
+      "char": "類",
+      "meaning": "Type"
+    },
+    {
+      "char": "祈",
+      "meaning": "Pray"
+    }
+  ],
+  "19": [
+    {
+      "char": "比",
+      "meaning": "Compare"
+    },
+    {
+      "char": "加",
+      "meaning": "Add"
+    },
+    {
+      "char": "忙",
+      "meaning": "Busy"
+    },
+    {
+      "char": "冊",
+      "meaning": "Book Counter"
+    },
+    {
+      "char": "歴",
+      "meaning": "Continuation"
+    },
+    {
+      "char": "閥",
+      "meaning": "Clique"
+    },
+    {
+      "char": "得",
+      "meaning": "Acquire"
+    },
+    {
+      "char": "続",
+      "meaning": "Continue"
+    },
+    {
+      "char": "易",
+      "meaning": "Easy"
+    },
+    {
+      "char": "布",
+      "meaning": "Cloth"
+    },
+    {
+      "char": "絡",
+      "meaning": "Entangle"
+    },
+    {
+      "char": "減",
+      "meaning": "Decrease"
+    },
+    {
+      "char": "履",
+      "meaning": "Footwear"
+    },
+    {
+      "char": "笛",
+      "meaning": "Flute"
+    },
+    {
+      "char": "容",
+      "meaning": "Form"
+    },
+    {
+      "char": "昆",
+      "meaning": "Insect"
+    },
+    {
+      "char": "史",
+      "meaning": "History"
+    },
+    {
+      "char": "徒",
+      "meaning": "Junior"
+    },
+    {
+      "char": "宙",
+      "meaning": "Midair"
+    },
+    {
+      "char": "団",
+      "meaning": "Group"
+    },
+    {
+      "char": "善",
+      "meaning": "Morally Good"
+    },
+    {
+      "char": "順",
+      "meaning": "Order"
+    },
+    {
+      "char": "混",
+      "meaning": "Mix"
+    },
+    {
+      "char": "宇",
+      "meaning": "Outer Space"
+    },
+    {
+      "char": "改",
+      "meaning": "Renew"
+    },
+    {
+      "char": "詞",
+      "meaning": "Part Of Speech"
+    },
+    {
+      "char": "乱",
+      "meaning": "Riot"
+    },
+    {
+      "char": "節",
+      "meaning": "Season"
+    },
+    {
+      "char": "連",
+      "meaning": "Take Along"
+    },
+    {
+      "char": "舌",
+      "meaning": "Tongue"
+    },
+    {
+      "char": "暴",
+      "meaning": "Violence"
+    },
+    {
+      "char": "財",
+      "meaning": "Wealth"
+    },
+    {
+      "char": "若",
+      "meaning": "Young"
+    }
+  ],
+  "20": [
+    {
+      "char": "穴",
+      "meaning": "Hole"
+    },
+    {
+      "char": "尻",
+      "meaning": "Butt"
+    },
+    {
+      "char": "確",
+      "meaning": "Certain"
+    },
+    {
+      "char": "裕",
+      "meaning": "Abundant"
+    },
+    {
+      "char": "械",
+      "meaning": "Contraption"
+    },
+    {
+      "char": "犯",
+      "meaning": "Crime"
+    },
+    {
+      "char": "被",
+      "meaning": "Cover"
+    },
+    {
+      "char": "害",
+      "meaning": "Damage"
+    },
+    {
+      "char": "議",
+      "meaning": "Deliberation"
+    },
+    {
+      "char": "災",
+      "meaning": "Disaster"
+    },
+    {
+      "char": "難",
+      "meaning": "Difficult"
+    },
+    {
+      "char": "嫌",
+      "meaning": "Dislike"
+    },
+    {
+      "char": "困",
+      "meaning": "Distressed"
+    },
+    {
+      "char": "夢",
+      "meaning": "Dream"
+    },
+    {
+      "char": "震",
+      "meaning": "Earthquake"
+    },
+    {
+      "char": "飛",
+      "meaning": "Fly"
+    },
+    {
+      "char": "在",
+      "meaning": "Exist"
+    },
+    {
+      "char": "産",
+      "meaning": "Give Birth"
+    },
+    {
+      "char": "罪",
+      "meaning": "Guilt"
+    },
+    {
+      "char": "個",
+      "meaning": "Individual"
+    },
+    {
+      "char": "経",
+      "meaning": "Passage of Time"
+    },
+    {
+      "char": "機",
+      "meaning": "Machine"
+    },
+    {
+      "char": "率",
+      "meaning": "Percent"
+    },
+    {
+      "char": "倒",
+      "meaning": "Overthrow"
+    },
+    {
+      "char": "圧",
+      "meaning": "Pressure"
+    },
+    {
+      "char": "防",
+      "meaning": "Prevent"
+    },
+    {
+      "char": "臭",
+      "meaning": "Stinking"
+    },
+    {
+      "char": "余",
+      "meaning": "Surplus"
+    },
+    {
+      "char": "尾",
+      "meaning": "Tail"
+    },
+    {
+      "char": "厚",
+      "meaning": "Thick"
+    },
+    {
+      "char": "論",
+      "meaning": "Theory"
+    },
+    {
+      "char": "妻",
+      "meaning": "Wife"
+    },
+    {
+      "char": "妨",
+      "meaning": "Obstruct"
+    }
+  ],
+  "21": [
+    {
+      "char": "解",
+      "meaning": "Solve"
+    },
+    {
+      "char": "企",
+      "meaning": "Plan"
+    },
+    {
+      "char": "条",
+      "meaning": "Clause"
+    },
+    {
+      "char": "責",
+      "meaning": "Blame"
+    },
+    {
+      "char": "済",
+      "meaning": "Come To An End"
+    },
+    {
+      "char": "省",
+      "meaning": "Conserve"
+    },
+    {
+      "char": "委",
+      "meaning": "Committee"
+    },
+    {
+      "char": "制",
+      "meaning": "Control"
+    },
+    {
+      "char": "断",
+      "meaning": "Cut Off"
+    },
+    {
+      "char": "批",
+      "meaning": "Criticism"
+    },
+    {
+      "char": "任",
+      "meaning": "Duty"
+    },
+    {
+      "char": "素",
+      "meaning": "Element"
+    },
+    {
+      "char": "敵",
+      "meaning": "Enemy"
+    },
+    {
+      "char": "検",
+      "meaning": "Examine"
+    },
+    {
+      "char": "設",
+      "meaning": "Establish"
+    },
+    {
+      "char": "増",
+      "meaning": "Increase"
+    },
+    {
+      "char": "岡",
+      "meaning": "Hill"
+    },
+    {
+      "char": "査",
+      "meaning": "Inspect"
+    },
+    {
+      "char": "判",
+      "meaning": "Judge"
+    },
+    {
+      "char": "件",
+      "meaning": "Matter"
+    },
+    {
+      "char": "際",
+      "meaning": "Occasion"
+    },
+    {
+      "char": "挙",
+      "meaning": "Raise"
+    },
+    {
+      "char": "認",
+      "meaning": "Recognize"
+    },
+    {
+      "char": "資",
+      "meaning": "Resources"
+    },
+    {
+      "char": "義",
+      "meaning": "Righteousness"
+    },
+    {
+      "char": "権",
+      "meaning": "Rights"
+    },
+    {
+      "char": "派",
+      "meaning": "Sect"
+    },
+    {
+      "char": "務",
+      "meaning": "Task"
+    },
+    {
+      "char": "税",
+      "meaning": "Tax"
+    },
+    {
+      "char": "総",
+      "meaning": "Whole"
+    },
+    {
+      "char": "評",
+      "meaning": "Evaluate"
+    },
+    {
+      "char": "審",
+      "meaning": "Judge"
+    }
+  ],
+  "22": [
+    {
+      "char": "援",
+      "meaning": "Aid"
+    },
+    {
+      "char": "態",
+      "meaning": "Appearance"
+    },
+    {
+      "char": "誕",
+      "meaning": "Birth"
+    },
+    {
+      "char": "賀",
+      "meaning": "Congratulations"
+    },
+    {
+      "char": "状",
+      "meaning": "Condition"
+    },
+    {
+      "char": "各",
+      "meaning": "Each"
+    },
+    {
+      "char": "費",
+      "meaning": "Expense"
+    },
+    {
+      "char": "姿",
+      "meaning": "Figure"
+    },
+    {
+      "char": "勢",
+      "meaning": "Force"
+    },
+    {
+      "char": "寝",
+      "meaning": "Lie Down"
+    },
+    {
+      "char": "示",
+      "meaning": "Indicate"
+    },
+    {
+      "char": "営",
+      "meaning": "Manage"
+    },
+    {
+      "char": "罰",
+      "meaning": "Penalty"
+    },
+    {
+      "char": "坊",
+      "meaning": "Monk"
+    },
+    {
+      "char": "案",
+      "meaning": "Plan"
+    },
+    {
+      "char": "策",
+      "meaning": "Plan"
+    },
+    {
+      "char": "域",
+      "meaning": "Region"
+    },
+    {
+      "char": "置",
+      "meaning": "Put"
+    },
+    {
+      "char": "応",
+      "meaning": "Respond"
+    },
+    {
+      "char": "宮",
+      "meaning": "Shinto Shrine"
+    },
+    {
+      "char": "過",
+      "meaning": "Surpass"
+    },
+    {
+      "char": "吸",
+      "meaning": "Suck"
+    },
+    {
+      "char": "領",
+      "meaning": "Territory"
+    },
+    {
+      "char": "脱",
+      "meaning": "Undress"
+    },
+    {
+      "char": "提",
+      "meaning": "Present"
+    },
+    {
+      "char": "統",
+      "meaning": "Unite"
+    },
+    {
+      "char": "値",
+      "meaning": "Value"
+    },
+    {
+      "char": "副",
+      "meaning": "Vice"
+    },
+    {
+      "char": "価",
+      "meaning": "Value"
+    },
+    {
+      "char": "藤",
+      "meaning": "Wisteria"
+    },
+    {
+      "char": "観",
+      "meaning": "View"
+    }
+  ],
+  "23": [
+    {
+      "char": "演",
+      "meaning": "Acting"
+    },
+    {
+      "char": "呼",
+      "meaning": "Call"
+    },
+    {
+      "char": "崎",
+      "meaning": "Cape"
+    },
+    {
+      "char": "施",
+      "meaning": "Carry Out"
+    },
+    {
+      "char": "城",
+      "meaning": "Castle"
+    },
+    {
+      "char": "護",
+      "meaning": "Defend"
+    },
+    {
+      "char": "鬼",
+      "meaning": "Demon"
+    },
+    {
+      "char": "割",
+      "meaning": "Divide"
+    },
+    {
+      "char": "秀",
+      "meaning": "Excel"
+    },
+    {
+      "char": "職",
+      "meaning": "Employment"
+    },
+    {
+      "char": "俳",
+      "meaning": "Haiku"
+    },
+    {
+      "char": "停",
+      "meaning": "Halt"
+    },
+    {
+      "char": "宅",
+      "meaning": "House"
+    },
+    {
+      "char": "裁",
+      "meaning": "Judge"
+    },
+    {
+      "char": "律",
+      "meaning": "Law"
+    },
+    {
+      "char": "導",
+      "meaning": "Lead"
+    },
+    {
+      "char": "革",
+      "meaning": "Leather"
+    },
+    {
+      "char": "乳",
+      "meaning": "Milk"
+    },
+    {
+      "char": "収",
+      "meaning": "Obtain"
+    },
+    {
+      "char": "現",
+      "meaning": "Present Time"
+    },
+    {
+      "char": "備",
+      "meaning": "Provide"
+    },
+    {
+      "char": "則",
+      "meaning": "Rule"
+    },
+    {
+      "char": "準",
+      "meaning": "Standard"
+    },
+    {
+      "char": "優",
+      "meaning": "Superior"
+    },
+    {
+      "char": "張",
+      "meaning": "Stretch"
+    },
+    {
+      "char": "師",
+      "meaning": "Teacher"
+    },
+    {
+      "char": "幹",
+      "meaning": "Tree Trunk"
+    },
+    {
+      "char": "看",
+      "meaning": "Watch Over"
+    },
+    {
+      "char": "沢",
+      "meaning": "Swamp"
+    },
+    {
+      "char": "規",
+      "meaning": "Standard"
+    }
+  ],
+  "24": [
+    {
+      "char": "象",
+      "meaning": "Elephant"
+    },
+    {
+      "char": "庁",
+      "meaning": "Agency"
+    },
+    {
+      "char": "腕",
+      "meaning": "Arm"
+    },
+    {
+      "char": "額",
+      "meaning": "Amount"
+    },
+    {
+      "char": "境",
+      "meaning": "Boundary"
+    },
+    {
+      "char": "燃",
+      "meaning": "Burn"
+    },
+    {
+      "char": "担",
+      "meaning": "Carry"
+    },
+    {
+      "char": "祝",
+      "meaning": "Celebrate"
+    },
+    {
+      "char": "届",
+      "meaning": "Deliver"
+    },
+    {
+      "char": "違",
+      "meaning": "Different"
+    },
+    {
+      "char": "差",
+      "meaning": "Distinction"
+    },
+    {
+      "char": "展",
+      "meaning": "Expand"
+    },
+    {
+      "char": "層",
+      "meaning": "Layer"
+    },
+    {
+      "char": "環",
+      "meaning": "Loop"
+    },
+    {
+      "char": "視",
+      "meaning": "Look At"
+    },
+    {
+      "char": "製",
+      "meaning": "Manufacture"
+    },
+    {
+      "char": "武",
+      "meaning": "Military"
+    },
+    {
+      "char": "述",
+      "meaning": "Mention"
+    },
+    {
+      "char": "狭",
+      "meaning": "Narrow"
+    },
+    {
+      "char": "型",
+      "meaning": "Model"
+    },
+    {
+      "char": "供",
+      "meaning": "Offer"
+    },
+    {
+      "char": "載",
+      "meaning": "Place On"
+    },
+    {
+      "char": "管",
+      "meaning": "Pipe"
+    },
+    {
+      "char": "質",
+      "meaning": "Quality"
+    },
+    {
+      "char": "量",
+      "meaning": "Quantity"
+    },
+    {
+      "char": "肩",
+      "meaning": "Shoulder"
+    },
+    {
+      "char": "販",
+      "meaning": "Sell"
+    },
+    {
+      "char": "株",
+      "meaning": "Stock"
+    },
+    {
+      "char": "触",
+      "meaning": "Touch"
+    },
+    {
+      "char": "腰",
+      "meaning": "Waist"
+    },
+    {
+      "char": "輸",
+      "meaning": "Transport"
+    }
+  ],
+  "25": [
+    {
+      "char": "慣",
+      "meaning": "Accustomed"
+    },
+    {
+      "char": "居",
+      "meaning": "Alive"
+    },
+    {
+      "char": "逮",
+      "meaning": "Apprehend"
+    },
+    {
+      "char": "票",
+      "meaning": "Ballot"
+    },
+    {
+      "char": "属",
+      "meaning": "Belong"
+    },
+    {
+      "char": "捕",
+      "meaning": "Catch"
+    },
+    {
+      "char": "候",
+      "meaning": "Climate"
+    },
+    {
+      "char": "況",
+      "meaning": "Condition"
+    },
+    {
+      "char": "輩",
+      "meaning": "Comrade"
+    },
+    {
+      "char": "響",
+      "meaning": "Echo"
+    },
+    {
+      "char": "効",
+      "meaning": "Effective"
+    },
+    {
+      "char": "満",
+      "meaning": "Full"
+    },
+    {
+      "char": "鮮",
+      "meaning": "Fresh"
+    },
+    {
+      "char": "与",
+      "meaning": "Give"
+    },
+    {
+      "char": "含",
+      "meaning": "Include"
+    },
+    {
+      "char": "掛",
+      "meaning": "Hang"
+    },
+    {
+      "char": "模",
+      "meaning": "Imitation"
+    },
+    {
+      "char": "隠",
+      "meaning": "Hide"
+    },
+    {
+      "char": "訟",
+      "meaning": "Lawsuit"
+    },
+    {
+      "char": "豊",
+      "meaning": "Plentiful"
+    },
+    {
+      "char": "限",
+      "meaning": "Limit"
+    },
+    {
+      "char": "肥",
+      "meaning": "Obese"
+    },
+    {
+      "char": "替",
+      "meaning": "Replace"
+    },
+    {
+      "char": "抜",
+      "meaning": "Pull Out"
+    },
+    {
+      "char": "景",
+      "meaning": "Scene"
+    },
+    {
+      "char": "巻",
+      "meaning": "Scroll"
+    },
+    {
+      "char": "捜",
+      "meaning": "Search"
+    },
+    {
+      "char": "構",
+      "meaning": "Set Up"
+    },
+    {
+      "char": "絞",
+      "meaning": "Strangle"
+    },
+    {
+      "char": "影",
+      "meaning": "Shadow"
+    },
+    {
+      "char": "訴",
+      "meaning": "Sue"
+    },
+    {
+      "char": "補",
+      "meaning": "Supplement"
+    },
+    {
+      "char": "渡",
+      "meaning": "Transit"
+    }
+  ],
+  "26": [
+    {
+      "char": "豚",
+      "meaning": "Pig"
+    },
+    {
+      "char": "刺",
+      "meaning": "Stab"
+    },
+    {
+      "char": "突",
+      "meaning": "Stab"
+    },
+    {
+      "char": "接",
+      "meaning": "Adjoin"
+    },
+    {
+      "char": "再",
+      "meaning": "Again"
+    },
+    {
+      "char": "独",
+      "meaning": "Alone"
+    },
+    {
+      "char": "討",
+      "meaning": "Chastise"
+    },
+    {
+      "char": "造",
+      "meaning": "Create"
+    },
+    {
+      "char": "獣",
+      "meaning": "Beast"
+    },
+    {
+      "char": "菓",
+      "meaning": "Cake"
+    },
+    {
+      "char": "創",
+      "meaning": "Create"
+    },
+    {
+      "char": "故",
+      "meaning": "Circumstance"
+    },
+    {
+      "char": "励",
+      "meaning": "Encourage"
+    },
+    {
+      "char": "較",
+      "meaning": "Contrast"
+    },
+    {
+      "char": "激",
+      "meaning": "Fierce"
+    },
+    {
+      "char": "占",
+      "meaning": "Fortune"
+    },
+    {
+      "char": "障",
+      "meaning": "Hinder"
+    },
+    {
+      "char": "我",
+      "meaning": "I"
+    },
+    {
+      "char": "徴",
+      "meaning": "Indication"
+    },
+    {
+      "char": "授",
+      "meaning": "Instruct"
+    },
+    {
+      "char": "往",
+      "meaning": "Journey"
+    },
+    {
+      "char": "鉛",
+      "meaning": "Lead"
+    },
+    {
+      "char": "郵",
+      "meaning": "Mail"
+    },
+    {
+      "char": "針",
+      "meaning": "Needle"
+    },
+    {
+      "char": "従",
+      "meaning": "Obey"
+    },
+    {
+      "char": "復",
+      "meaning": "Restore"
+    },
+    {
+      "char": "河",
+      "meaning": "River"
+    },
+    {
+      "char": "印",
+      "meaning": "Seal"
+    },
+    {
+      "char": "貯",
+      "meaning": "Savings"
+    },
+    {
+      "char": "振",
+      "meaning": "Shake"
+    },
+    {
+      "char": "汗",
+      "meaning": "Sweat"
+    },
+    {
+      "char": "怪",
+      "meaning": "Suspicious"
+    },
+    {
+      "char": "筆",
+      "meaning": "Writing Brush"
+    }
+  ],
+  "27": [
+    {
+      "char": "給",
+      "meaning": "Salary"
+    },
+    {
+      "char": "怒",
+      "meaning": "Angry"
+    },
+    {
+      "char": "昇",
+      "meaning": "Ascend"
+    },
+    {
+      "char": "招",
+      "meaning": "Beckon"
+    },
+    {
+      "char": "迷",
+      "meaning": "Astray"
+    },
+    {
+      "char": "腹",
+      "meaning": "Belly"
+    },
+    {
+      "char": "濃",
+      "meaning": "Dense"
+    },
+    {
+      "char": "睡",
+      "meaning": "Drowsy"
+    },
+    {
+      "char": "康",
+      "meaning": "Ease"
+    },
+    {
+      "char": "極",
+      "meaning": "Extreme"
+    },
+    {
+      "char": "端",
+      "meaning": "Edge"
+    },
+    {
+      "char": "就",
+      "meaning": "Get A Position"
+    },
+    {
+      "char": "郎",
+      "meaning": "Guy"
+    },
+    {
+      "char": "誘",
+      "meaning": "Invite"
+    },
+    {
+      "char": "貸",
+      "meaning": "Lend"
+    },
+    {
+      "char": "健",
+      "meaning": "Healthy"
+    },
+    {
+      "char": "惑",
+      "meaning": "Misguided"
+    },
+    {
+      "char": "痛",
+      "meaning": "Pain"
+    },
+    {
+      "char": "退",
+      "meaning": "Retreat"
+    },
+    {
+      "char": "途",
+      "meaning": "Route"
+    },
+    {
+      "char": "靴",
+      "meaning": "Shoes"
+    },
+    {
+      "char": "眠",
+      "meaning": "Sleep"
+    },
+    {
+      "char": "胃",
+      "meaning": "Stomach"
+    },
+    {
+      "char": "段",
+      "meaning": "Steps"
+    },
+    {
+      "char": "症",
+      "meaning": "Symptom"
+    },
+    {
+      "char": "暇",
+      "meaning": "Spare Time"
+    },
+    {
+      "char": "締",
+      "meaning": "Tighten"
+    },
+    {
+      "char": "迫",
+      "meaning": "Urge"
+    },
+    {
+      "char": "織",
+      "meaning": "Weave"
+    },
+    {
+      "char": "訪",
+      "meaning": "Visit"
+    },
+    {
+      "char": "悩",
+      "meaning": "Worry"
+    },
+    {
+      "char": "屈",
+      "meaning": "Yield"
+    }
+  ],
+  "28": [
+    {
+      "char": "絶",
+      "meaning": "Extinction"
+    },
+    {
+      "char": "撃",
+      "meaning": "Attack"
+    },
+    {
+      "char": "攻",
+      "meaning": "Aggression"
+    },
+    {
+      "char": "浜",
+      "meaning": "Beach"
+    },
+    {
+      "char": "益",
+      "meaning": "Benefit"
+    },
+    {
+      "char": "児",
+      "meaning": "Child"
+    },
+    {
+      "char": "憲",
+      "meaning": "Constitution"
+    },
+    {
+      "char": "冷",
+      "meaning": "Cool"
+    },
+    {
+      "char": "処",
+      "meaning": "Deal With"
+    },
+    {
+      "char": "微",
+      "meaning": "Delicate"
+    },
+    {
+      "char": "博",
+      "meaning": "Exhibition"
+    },
+    {
+      "char": "程",
+      "meaning": "Extent"
+    },
+    {
+      "char": "巨",
+      "meaning": "Giant"
+    },
+    {
+      "char": "凍",
+      "meaning": "Frozen"
+    },
+    {
+      "char": "稚",
+      "meaning": "Immature"
+    },
+    {
+      "char": "幼",
+      "meaning": "Infancy"
+    },
+    {
+      "char": "並",
+      "meaning": "Line Up"
+    },
+    {
+      "char": "婦",
+      "meaning": "Lady"
+    },
+    {
+      "char": "麗",
+      "meaning": "Lovely"
+    },
+    {
+      "char": "修",
+      "meaning": "Mastering"
+    },
+    {
+      "char": "奇",
+      "meaning": "Odd"
+    },
+    {
+      "char": "妙",
+      "meaning": "Peculiar"
+    },
+    {
+      "char": "衆",
+      "meaning": "Populace"
+    },
+    {
+      "char": "潔",
+      "meaning": "Pure"
+    },
+    {
+      "char": "清",
+      "meaning": "Pure"
+    },
+    {
+      "char": "録",
+      "meaning": "Record"
+    },
+    {
+      "char": "逆",
+      "meaning": "Reverse"
+    },
+    {
+      "char": "移",
+      "meaning": "Shift"
+    },
+    {
+      "char": "精",
+      "meaning": "Spirit"
+    },
+    {
+      "char": "券",
+      "meaning": "Ticket"
+    },
+    {
+      "char": "傘",
+      "meaning": "Umbrella"
+    },
+    {
+      "char": "庫",
+      "meaning": "Storage"
+    },
+    {
+      "char": "隊",
+      "meaning": "Squad"
+    }
+  ],
+  "29": [
+    {
+      "char": "略",
+      "meaning": "Abbreviation"
+    },
+    {
+      "char": "積",
+      "meaning": "Accumulate"
+    },
+    {
+      "char": "宴",
+      "meaning": "Banquet"
+    },
+    {
+      "char": "板",
+      "meaning": "Board"
+    },
+    {
+      "char": "添",
+      "meaning": "Append"
+    },
+    {
+      "char": "壊",
+      "meaning": "Break"
+    },
+    {
+      "char": "杯",
+      "meaning": "Cup Of Liquid"
+    },
+    {
+      "char": "僚",
+      "meaning": "Colleague"
+    },
+    {
+      "char": "娘",
+      "meaning": "Daughter"
+    },
+    {
+      "char": "診",
+      "meaning": "Diagnose"
+    },
+    {
+      "char": "督",
+      "meaning": "Direct"
+    },
+    {
+      "char": "寄",
+      "meaning": "Draw Near"
+    },
+    {
+      "char": "欧",
+      "meaning": "Europe"
+    },
+    {
+      "char": "乾",
+      "meaning": "Dry"
+    },
+    {
+      "char": "恐",
+      "meaning": "Fear"
+    },
+    {
+      "char": "猛",
+      "meaning": "Fierce"
+    },
+    {
+      "char": "江",
+      "meaning": "Inlet"
+    },
+    {
+      "char": "韓",
+      "meaning": "Korea"
+    },
+    {
+      "char": "雄",
+      "meaning": "Male"
+    },
+    {
+      "char": "航",
+      "meaning": "Navigation"
+    },
+    {
+      "char": "監",
+      "meaning": "Oversee"
+    },
+    {
+      "char": "宗",
+      "meaning": "Religion"
+    },
+    {
+      "char": "請",
+      "meaning": "Request"
+    },
+    {
+      "char": "怖",
+      "meaning": "Scary"
+    },
+    {
+      "char": "索",
+      "meaning": "Search"
+    },
+    {
+      "char": "臣",
+      "meaning": "Servant"
+    },
+    {
+      "char": "催",
+      "meaning": "Sponsor"
+    },
+    {
+      "char": "街",
+      "meaning": "Streets"
+    },
+    {
+      "char": "詰",
+      "meaning": "Stuffed"
+    },
+    {
+      "char": "緊",
+      "meaning": "Tense"
+    },
+    {
+      "char": "烈",
+      "meaning": "Violent"
+    },
+    {
+      "char": "促",
+      "meaning": "Urge"
+    },
+    {
+      "char": "閣",
+      "meaning": "The Cabinet"
+    }
+  ],
+  "30": [
+    {
+      "char": "更",
+      "meaning": "Renew"
+    },
+    {
+      "char": "魅",
+      "meaning": "Alluring"
+    },
+    {
+      "char": "騒",
+      "meaning": "Boisterous"
+    },
+    {
+      "char": "背",
+      "meaning": "Back"
+    },
+    {
+      "char": "飾",
+      "meaning": "Decorate"
+    },
+    {
+      "char": "預",
+      "meaning": "Deposit"
+    },
+    {
+      "char": "渇",
+      "meaning": "Dry Up"
+    },
+    {
+      "char": "浮",
+      "meaning": "Float"
+    },
+    {
+      "char": "版",
+      "meaning": "Edition"
+    },
+    {
+      "char": "旗",
+      "meaning": "Flag"
+    },
+    {
+      "char": "越",
+      "meaning": "Go Beyond"
+    },
+    {
+      "char": "漏",
+      "meaning": "Leak"
+    },
+    {
+      "char": "系",
+      "meaning": "Lineage"
+    },
+    {
+      "char": "覧",
+      "meaning": "Look At"
+    },
+    {
+      "char": "婚",
+      "meaning": "Marriage"
+    },
+    {
+      "char": "照",
+      "meaning": "Illuminate"
+    },
+    {
+      "char": "撮",
+      "meaning": "Photograph"
+    },
+    {
+      "char": "懐",
+      "meaning": "Nostalgia"
+    },
+    {
+      "char": "枕",
+      "meaning": "Pillow"
+    },
+    {
+      "char": "遊",
+      "meaning": "Play"
+    },
+    {
+      "char": "快",
+      "meaning": "Pleasant"
+    },
+    {
+      "char": "貧",
+      "meaning": "Poor"
+    },
+    {
+      "char": "延",
+      "meaning": "Prolong"
+    },
+    {
+      "char": "購",
+      "meaning": "Purchase"
+    },
+    {
+      "char": "押",
+      "meaning": "Push"
+    },
+    {
+      "char": "適",
+      "meaning": "Suitable"
+    },
+    {
+      "char": "盗",
+      "meaning": "Steal"
+    },
+    {
+      "char": "翌",
+      "meaning": "The Next"
+    },
+    {
+      "char": "乏",
+      "meaning": "Scarce"
+    },
+    {
+      "char": "符",
+      "meaning": "Token"
+    }
+  ],
+  "31": [
+    {
+      "char": "帯",
+      "meaning": "Belt"
+    },
+    {
+      "char": "離",
+      "meaning": "Detach"
+    },
+    {
+      "char": "廊",
+      "meaning": "Corridor"
+    },
+    {
+      "char": "径",
+      "meaning": "Diameter"
+    },
+    {
+      "char": "融",
+      "meaning": "Dissolve"
+    },
+    {
+      "char": "均",
+      "meaning": "Equal"
+    },
+    {
+      "char": "豪",
+      "meaning": "Exceptional"
+    },
+    {
+      "char": "除",
+      "meaning": "Exclude"
+    },
+    {
+      "char": "貨",
+      "meaning": "Freight"
+    },
+    {
+      "char": "孫",
+      "meaning": "Grandchild"
+    },
+    {
+      "char": "墓",
+      "meaning": "Grave"
+    },
+    {
+      "char": "幾",
+      "meaning": "How Many"
+    },
+    {
+      "char": "尋",
+      "meaning": "Inquire"
+    },
+    {
+      "char": "編",
+      "meaning": "Knit"
+    },
+    {
+      "char": "陸",
+      "meaning": "Land"
+    },
+    {
+      "char": "鑑",
+      "meaning": "Model"
+    },
+    {
+      "char": "探",
+      "meaning": "Look For"
+    },
+    {
+      "char": "泥",
+      "meaning": "Mud"
+    },
+    {
+      "char": "巣",
+      "meaning": "Nest"
+    },
+    {
+      "char": "普",
+      "meaning": "Normal"
+    },
+    {
+      "char": "棒",
+      "meaning": "Pole"
+    },
+    {
+      "char": "粉",
+      "meaning": "Powder"
+    },
+    {
+      "char": "既",
+      "meaning": "Previously"
+    },
+    {
+      "char": "似",
+      "meaning": "Resemble"
+    },
+    {
+      "char": "救",
+      "meaning": "Rescue"
+    },
+    {
+      "char": "散",
+      "meaning": "Scatter"
+    },
+    {
+      "char": "富",
+      "meaning": "Rich"
+    },
+    {
+      "char": "華",
+      "meaning": "Showy"
+    },
+    {
+      "char": "嘆",
+      "meaning": "Sigh"
+    },
+    {
+      "char": "偵",
+      "meaning": "Spy"
+    },
+    {
+      "char": "驚",
+      "meaning": "Surprised"
+    },
+    {
+      "char": "菜",
+      "meaning": "Vegetable"
+    },
+    {
+      "char": "掃",
+      "meaning": "Sweep"
+    },
+    {
+      "char": "脈",
+      "meaning": "Vein"
+    },
+    {
+      "char": "徳",
+      "meaning": "Virtue"
+    },
+    {
+      "char": "倉",
+      "meaning": "Warehouse"
+    }
+  ],
+  "32": [
+    {
+      "char": "績",
+      "meaning": "Achievement"
+    },
+    {
+      "char": "酸",
+      "meaning": "Acid"
+    },
+    {
+      "char": "賛",
+      "meaning": "Agree"
+    },
+    {
+      "char": "祖",
+      "meaning": "Ancestor"
+    },
+    {
+      "char": "銭",
+      "meaning": "Coin"
+    },
+    {
+      "char": "衛",
+      "meaning": "Defense"
+    },
+    {
+      "char": "机",
+      "meaning": "Desk"
+    },
+    {
+      "char": "汚",
+      "meaning": "Dirty"
+    },
+    {
+      "char": "飼",
+      "meaning": "Domesticate"
+    },
+    {
+      "char": "複",
+      "meaning": "Duplicate"
+    },
+    {
+      "char": "染",
+      "meaning": "Dye"
+    },
+    {
+      "char": "卵",
+      "meaning": "Egg"
+    },
+    {
+      "char": "永",
+      "meaning": "Eternity"
+    },
+    {
+      "char": "眼",
+      "meaning": "Eyeball"
+    },
+    {
+      "char": "採",
+      "meaning": "Gather"
+    },
+    {
+      "char": "液",
+      "meaning": "Fluid"
+    },
+    {
+      "char": "志",
+      "meaning": "Intention"
+    },
+    {
+      "char": "興",
+      "meaning": "Interest"
+    },
+    {
+      "char": "込",
+      "meaning": "Into"
+    },
+    {
+      "char": "恩",
+      "meaning": "Kindness"
+    },
+    {
+      "char": "久",
+      "meaning": "Long Time"
+    },
+    {
+      "char": "党",
+      "meaning": "Party"
+    },
+    {
+      "char": "序",
+      "meaning": "Preface"
+    },
+    {
+      "char": "雑",
+      "meaning": "Random"
+    },
+    {
+      "char": "桜",
+      "meaning": "Sakura"
+    },
+    {
+      "char": "密",
+      "meaning": "Secrecy"
+    },
+    {
+      "char": "秘",
+      "meaning": "Secret"
+    },
+    {
+      "char": "厳",
+      "meaning": "Strict"
+    },
+    {
+      "char": "捨",
+      "meaning": "Throw Away"
+    },
+    {
+      "char": "訳",
+      "meaning": "Translation"
+    },
+    {
+      "char": "暖",
+      "meaning": "Warm"
+    },
+    {
+      "char": "欲",
+      "meaning": "Want"
+    },
+    {
+      "char": "迎",
+      "meaning": "Welcome"
+    },
+    {
+      "char": "傷",
+      "meaning": "Wound"
+    }
+  ],
+  "33": [
+    {
+      "char": "閉",
+      "meaning": "Closed"
+    },
+    {
+      "char": "垂",
+      "meaning": "Droop"
+    },
+    {
+      "char": "灰",
+      "meaning": "Ash"
+    },
+    {
+      "char": "著",
+      "meaning": "Author"
+    },
+    {
+      "char": "装",
+      "meaning": "Attire"
+    },
+    {
+      "char": "裏",
+      "meaning": "Backside"
+    },
+    {
+      "char": "異",
+      "meaning": "Differ"
+    },
+    {
+      "char": "皇",
+      "meaning": "Emperor"
+    },
+    {
+      "char": "拡",
+      "meaning": "Extend"
+    },
+    {
+      "char": "暮",
+      "meaning": "Livelihood"
+    },
+    {
+      "char": "忠",
+      "meaning": "Loyalty"
+    },
+    {
+      "char": "肺",
+      "meaning": "Lung"
+    },
+    {
+      "char": "誌",
+      "meaning": "Magazine"
+    },
+    {
+      "char": "操",
+      "meaning": "Manipulate"
+    },
+    {
+      "char": "筋",
+      "meaning": "Muscle"
+    },
+    {
+      "char": "否",
+      "meaning": "No"
+    },
+    {
+      "char": "盛",
+      "meaning": "Pile"
+    },
+    {
+      "char": "宣",
+      "meaning": "Proclaim"
+    },
+    {
+      "char": "敬",
+      "meaning": "Respect"
+    },
+    {
+      "char": "賃",
+      "meaning": "Rent"
+    },
+    {
+      "char": "尊",
+      "meaning": "Revered"
+    },
+    {
+      "char": "熟",
+      "meaning": "Ripen"
+    },
+    {
+      "char": "砂",
+      "meaning": "Sand"
+    },
+    {
+      "char": "簡",
+      "meaning": "Simplicity"
+    },
+    {
+      "char": "蒸",
+      "meaning": "Steam"
+    },
+    {
+      "char": "蔵",
+      "meaning": "Storehouse"
+    },
+    {
+      "char": "糖",
+      "meaning": "Sugar"
+    },
+    {
+      "char": "諸",
+      "meaning": "Various"
+    },
+    {
+      "char": "納",
+      "meaning": "Supply"
+    },
+    {
+      "char": "窓",
+      "meaning": "Window"
+    },
+    {
+      "char": "漠",
+      "meaning": "Desert"
+    }
+  ],
+  "34": [
+    {
+      "char": "芋",
+      "meaning": "Potato"
+    },
+    {
+      "char": "降",
+      "meaning": "Descend"
+    },
+    {
+      "char": "豆",
+      "meaning": "Beans"
+    },
+    {
+      "char": "刻",
+      "meaning": "Carve"
+    },
+    {
+      "char": "枝",
+      "meaning": "Branch"
+    },
+    {
+      "char": "揮",
+      "meaning": "Brandish"
+    },
+    {
+      "char": "爪",
+      "meaning": "Claw"
+    },
+    {
+      "char": "承",
+      "meaning": "Consent"
+    },
+    {
+      "char": "幕",
+      "meaning": "Curtain"
+    },
+    {
+      "char": "紅",
+      "meaning": "Deep Red"
+    },
+    {
+      "char": "歓",
+      "meaning": "Delight"
+    },
+    {
+      "char": "奴",
+      "meaning": "Dude"
+    },
+    {
+      "char": "臓",
+      "meaning": "Internal Organs"
+    },
+    {
+      "char": "聖",
+      "meaning": "Holy"
+    },
+    {
+      "char": "推",
+      "meaning": "Infer"
+    },
+    {
+      "char": "損",
+      "meaning": "Loss"
+    },
+    {
+      "char": "磁",
+      "meaning": "Magnet"
+    },
+    {
+      "char": "誤",
+      "meaning": "Mistake"
+    },
+    {
+      "char": "源",
+      "meaning": "Origin"
+    },
+    {
+      "char": "純",
+      "meaning": "Pure"
+    },
+    {
+      "char": "薦",
+      "meaning": "Recommend"
+    },
+    {
+      "char": "丼",
+      "meaning": "Rice Bowl"
+    },
+    {
+      "char": "腐",
+      "meaning": "Rot"
+    },
+    {
+      "char": "粋",
+      "meaning": "Stylish"
+    },
+    {
+      "char": "隷",
+      "meaning": "Slave"
+    },
+    {
+      "char": "沿",
+      "meaning": "Run Alongside"
+    },
+    {
+      "char": "射",
+      "meaning": "Shoot"
+    },
+    {
+      "char": "貴",
+      "meaning": "Valuable"
+    },
+    {
+      "char": "縮",
+      "meaning": "Shrink"
+    },
+    {
+      "char": "縦",
+      "meaning": "Vertical"
+    },
+    {
+      "char": "勤",
+      "meaning": "Work"
+    },
+    {
+      "char": "拝",
+      "meaning": "Worship"
+    },
+    {
+      "char": "吐",
+      "meaning": "Throw Up"
+    }
+  ],
+  "35": [
+    {
+      "char": "彼",
+      "meaning": "He"
+    },
+    {
+      "char": "払",
+      "meaning": "Pay"
+    },
+    {
+      "char": "熊",
+      "meaning": "Bear"
+    },
+    {
+      "char": "彫",
+      "meaning": "Carve"
+    },
+    {
+      "char": "杉",
+      "meaning": "Cedar"
+    },
+    {
+      "char": "鍋",
+      "meaning": "Cooking Pot"
+    },
+    {
+      "char": "銅",
+      "meaning": "Copper"
+    },
+    {
+      "char": "舎",
+      "meaning": "Cottage"
+    },
+    {
+      "char": "酔",
+      "meaning": "Drunk"
+    },
+    {
+      "char": "炎",
+      "meaning": "Flame"
+    },
+    {
+      "char": "紹",
+      "meaning": "Introduce"
+    },
+    {
+      "char": "介",
+      "meaning": "Jammed In"
+    },
+    {
+      "char": "湖",
+      "meaning": "Lake"
+    },
+    {
+      "char": "講",
+      "meaning": "Lecture"
+    },
+    {
+      "char": "寿",
+      "meaning": "Lifespan"
+    },
+    {
+      "char": "測",
+      "meaning": "Measure"
+    },
+    {
+      "char": "厄",
+      "meaning": "Misfortune"
+    },
+    {
+      "char": "互",
+      "meaning": "Mutual"
+    },
+    {
+      "char": "油",
+      "meaning": "Oil"
+    },
+    {
+      "char": "己",
+      "meaning": "Oneself"
+    },
+    {
+      "char": "獄",
+      "meaning": "Prison"
+    },
+    {
+      "char": "為",
+      "meaning": "Sake"
+    },
+    {
+      "char": "汁",
+      "meaning": "Soup"
+    },
+    {
+      "char": "恥",
+      "meaning": "Shame"
+    },
+    {
+      "char": "遅",
+      "meaning": "Slow"
+    },
+    {
+      "char": "剣",
+      "meaning": "Sword"
+    },
+    {
+      "char": "滞",
+      "meaning": "Stagnate"
+    },
+    {
+      "char": "亀",
+      "meaning": "Turtle"
+    },
+    {
+      "char": "破",
+      "meaning": "Tear"
+    },
+    {
+      "char": "酢",
+      "meaning": "Vinegar"
+    }
+  ],
+  "36": [
+    {
+      "char": "盟",
+      "meaning": "Alliance"
+    },
+    {
+      "char": "将",
+      "meaning": "Commander"
+    },
+    {
+      "char": "諾",
+      "meaning": "Agreement"
+    },
+    {
+      "char": "舞",
+      "meaning": "Dance"
+    },
+    {
+      "char": "鹿",
+      "meaning": "Deer"
+    },
+    {
+      "char": "債",
+      "meaning": "Debt"
+    },
+    {
+      "char": "伎",
+      "meaning": "Deed"
+    },
+    {
+      "char": "換",
+      "meaning": "Exchange"
+    },
+    {
+      "char": "姓",
+      "meaning": "Family Name"
+    },
+    {
+      "char": "牙",
+      "meaning": "Fang"
+    },
+    {
+      "char": "旧",
+      "meaning": "Former"
+    },
+    {
+      "char": "津",
+      "meaning": "Harbor"
+    },
+    {
+      "char": "継",
+      "meaning": "Inherit"
+    },
+    {
+      "char": "般",
+      "meaning": "Generally"
+    },
+    {
+      "char": "療",
+      "meaning": "Heal"
+    },
+    {
+      "char": "遺",
+      "meaning": "Leave Behind"
+    },
+    {
+      "char": "維",
+      "meaning": "Maintain"
+    },
+    {
+      "char": "核",
+      "meaning": "Nucleus"
+    },
+    {
+      "char": "廃",
+      "meaning": "Obsolete"
+    },
+    {
+      "char": "奈",
+      "meaning": "Nara"
+    },
+    {
+      "char": "献",
+      "meaning": "Offer"
+    },
+    {
+      "char": "沖",
+      "meaning": "Open Sea"
+    },
+    {
+      "char": "摘",
+      "meaning": "Pluck"
+    },
+    {
+      "char": "依",
+      "meaning": "Reliant"
+    },
+    {
+      "char": "縄",
+      "meaning": "Rope"
+    },
+    {
+      "char": "及",
+      "meaning": "Reach"
+    },
+    {
+      "char": "踏",
+      "meaning": "Step"
+    },
+    {
+      "char": "伸",
+      "meaning": "Stretch"
+    },
+    {
+      "char": "甘",
+      "meaning": "Sweet"
+    },
+    {
+      "char": "頼",
+      "meaning": "Trust"
+    },
+    {
+      "char": "貿",
+      "meaning": "Trade"
+    },
+    {
+      "char": "超",
+      "meaning": "Ultra"
+    },
+    {
+      "char": "幅",
+      "meaning": "Width"
+    }
+  ],
+  "37": [
+    {
+      "char": "患",
+      "meaning": "Afflicted"
+    },
+    {
+      "char": "陣",
+      "meaning": "Army Camp"
+    },
+    {
+      "char": "塁",
+      "meaning": "Base"
+    },
+    {
+      "char": "狙",
+      "meaning": "Aim"
+    },
+    {
+      "char": "弾",
+      "meaning": "Bullet"
+    },
+    {
+      "char": "葬",
+      "meaning": "Burial"
+    },
+    {
+      "char": "抗",
+      "meaning": "Confront"
+    },
+    {
+      "char": "崩",
+      "meaning": "Crumble"
+    },
+    {
+      "char": "遣",
+      "meaning": "Dispatch"
+    },
+    {
+      "char": "掲",
+      "meaning": "Display"
+    },
+    {
+      "char": "爆",
+      "meaning": "Explode"
+    },
+    {
+      "char": "恵",
+      "meaning": "Favor"
+    },
+    {
+      "char": "闘",
+      "meaning": "Fight"
+    },
+    {
+      "char": "漁",
+      "meaning": "Fishing"
+    },
+    {
+      "char": "香",
+      "meaning": "Fragrance"
+    },
+    {
+      "char": "跳",
+      "meaning": "Hop"
+    },
+    {
+      "char": "湾",
+      "meaning": "Gulf"
+    },
+    {
+      "char": "抱",
+      "meaning": "Hug"
+    },
+    {
+      "char": "聴",
+      "meaning": "Listen"
+    },
+    {
+      "char": "兆",
+      "meaning": "Omen"
+    },
+    {
+      "char": "臨",
+      "meaning": "Look To"
+    },
+    {
+      "char": "契",
+      "meaning": "Pledge"
+    },
+    {
+      "char": "旬",
+      "meaning": "In Season"
+    },
+    {
+      "char": "刑",
+      "meaning": "Punish"
+    },
+    {
+      "char": "募",
+      "meaning": "Recruit"
+    },
+    {
+      "char": "抵",
+      "meaning": "Resist"
+    },
+    {
+      "char": "償",
+      "meaning": "Reparation"
+    },
+    {
+      "char": "昭",
+      "meaning": "Shining"
+    },
+    {
+      "char": "戻",
+      "meaning": "Return"
+    },
+    {
+      "char": "執",
+      "meaning": "Tenacious"
+    },
+    {
+      "char": "跡",
+      "meaning": "Traces"
+    },
+    {
+      "char": "削",
+      "meaning": "Whittle Down"
+    }
+  ],
+  "38": [
+    {
+      "char": "伴",
+      "meaning": "Accompany"
+    },
+    {
+      "char": "宜",
+      "meaning": "Best Regards"
+    },
+    {
+      "char": "齢",
+      "meaning": "Age"
+    },
+    {
+      "char": "賂",
+      "meaning": "Bribe"
+    },
+    {
+      "char": "賄",
+      "meaning": "Bribe"
+    },
+    {
+      "char": "慮",
+      "meaning": "Consider"
+    },
+    {
+      "char": "却",
+      "meaning": "Contrary"
+    },
+    {
+      "char": "託",
+      "meaning": "Consign"
+    },
+    {
+      "char": "房",
+      "meaning": "Cluster"
+    },
+    {
+      "char": "致",
+      "meaning": "Do"
+    },
+    {
+      "char": "需",
+      "meaning": "Demand"
+    },
+    {
+      "char": "避",
+      "meaning": "Dodge"
+    },
+    {
+      "char": "描",
+      "meaning": "Draw"
+    },
+    {
+      "char": "逃",
+      "meaning": "Escape"
+    },
+    {
+      "char": "緒",
+      "meaning": "Cord"
+    },
+    {
+      "char": "刊",
+      "meaning": "Edition"
+    },
+    {
+      "char": "扱",
+      "meaning": "Handle"
+    },
+    {
+      "char": "奥",
+      "meaning": "Interior"
+    },
+    {
+      "char": "併",
+      "meaning": "Join"
+    },
+    {
+      "char": "傾",
+      "meaning": "Lean"
+    },
+    {
+      "char": "娠",
+      "meaning": "Pregnant"
+    },
+    {
+      "char": "奏",
+      "meaning": "Play Music"
+    },
+    {
+      "char": "緩",
+      "meaning": "Loose"
+    },
+    {
+      "char": "贈",
+      "meaning": "Presents"
+    },
+    {
+      "char": "択",
+      "meaning": "Select"
+    },
+    {
+      "char": "妊",
+      "meaning": "Pregnant"
+    },
+    {
+      "char": "繰",
+      "meaning": "Spin"
+    },
+    {
+      "char": "還",
+      "meaning": "Send Back"
+    },
+    {
+      "char": "称",
+      "meaning": "Title"
+    },
+    {
+      "char": "抑",
+      "meaning": "Suppress"
+    },
+    {
+      "char": "懸",
+      "meaning": "Suspend"
+    },
+    {
+      "char": "盤",
+      "meaning": "Tray"
+    }
+  ],
+  "39": [
+    {
+      "char": "埋",
+      "meaning": "Bury"
+    },
+    {
+      "char": "勧",
+      "meaning": "Recommend"
+    },
+    {
+      "char": "控",
+      "meaning": "Abstain"
+    },
+    {
+      "char": "渋",
+      "meaning": "Bitter"
+    },
+    {
+      "char": "充",
+      "meaning": "Allocate"
+    },
+    {
+      "char": "鈴",
+      "meaning": "Buzzer"
+    },
+    {
+      "char": "岐",
+      "meaning": "Branch Off"
+    },
+    {
+      "char": "棋",
+      "meaning": "Chess Piece"
+    },
+    {
+      "char": "埼",
+      "meaning": "Cape"
+    },
+    {
+      "char": "譲",
+      "meaning": "Defer"
+    },
+    {
+      "char": "雇",
+      "meaning": "Employ"
+    },
+    {
+      "char": "免",
+      "meaning": "Excuse"
+    },
+    {
+      "char": "銃",
+      "meaning": "Gun"
+    },
+    {
+      "char": "枠",
+      "meaning": "Frame"
+    },
+    {
+      "char": "群",
+      "meaning": "Flock"
+    },
+    {
+      "char": "仙",
+      "meaning": "Hermit"
+    },
+    {
+      "char": "邦",
+      "meaning": "Home Country"
+    },
+    {
+      "char": "慎",
+      "meaning": "Humility"
+    },
+    {
+      "char": "御",
+      "meaning": "Honorable"
+    },
+    {
+      "char": "躍",
+      "meaning": "Leap"
+    },
+    {
+      "char": "阜",
+      "meaning": "Mound"
+    },
+    {
+      "char": "謙",
+      "meaning": "Modesty"
+    },
+    {
+      "char": "片",
+      "meaning": "One Sided"
+    },
+    {
+      "char": "項",
+      "meaning": "Paragraph"
+    },
+    {
+      "char": "隆",
+      "meaning": "Prosperity"
+    },
+    {
+      "char": "圏",
+      "meaning": "Range"
+    },
+    {
+      "char": "拒",
+      "meaning": "Refuse"
+    },
+    {
+      "char": "稲",
+      "meaning": "Rice Plant"
+    },
+    {
+      "char": "鋼",
+      "meaning": "Steel"
+    },
+    {
+      "char": "奪",
+      "meaning": "Rob"
+    },
+    {
+      "char": "甲",
+      "meaning": "Turtle Shell"
+    },
+    {
+      "char": "壁",
+      "meaning": "Wall"
+    },
+    {
+      "char": "祉",
+      "meaning": "Welfare"
+    }
+  ],
+  "40": [
+    {
+      "char": "敏",
+      "meaning": "Alert"
+    },
+    {
+      "char": "吹",
+      "meaning": "Blow"
+    },
+    {
+      "char": "衝",
+      "meaning": "Collide"
+    },
+    {
+      "char": "唱",
+      "meaning": "Chant"
+    },
+    {
+      "char": "兼",
+      "meaning": "Concurrently"
+    },
+    {
+      "char": "戒",
+      "meaning": "Commandment"
+    },
+    {
+      "char": "堀",
+      "meaning": "Ditch"
+    },
+    {
+      "char": "薄",
+      "meaning": "Dilute"
+    },
+    {
+      "char": "雅",
+      "meaning": "Elegant"
+    },
+    {
+      "char": "剤",
+      "meaning": "Dose"
+    },
+    {
+      "char": "孝",
+      "meaning": "Filial Piety"
+    },
+    {
+      "char": "駆",
+      "meaning": "Gallop"
+    },
+    {
+      "char": "頻",
+      "meaning": "Frequent"
+    },
+    {
+      "char": "俊",
+      "meaning": "Genius"
+    },
+    {
+      "char": "排",
+      "meaning": "Emit"
+    },
+    {
+      "char": "誉",
+      "meaning": "Honor"
+    },
+    {
+      "char": "茂",
+      "meaning": "Luxuriant"
+    },
+    {
+      "char": "殿",
+      "meaning": "Milord"
+    },
+    {
+      "char": "殖",
+      "meaning": "Multiply"
+    },
+    {
+      "char": "隣",
+      "meaning": "Neighbor"
+    },
+    {
+      "char": "繁",
+      "meaning": "Overgrown"
+    },
+    {
+      "char": "柱",
+      "meaning": "Pillar"
+    },
+    {
+      "char": "巡",
+      "meaning": "Patrol"
+    },
+    {
+      "char": "携",
+      "meaning": "Portable"
+    },
+    {
+      "char": "褒",
+      "meaning": "Praise"
+    },
+    {
+      "char": "駐",
+      "meaning": "Resident"
+    },
+    {
+      "char": "顧",
+      "meaning": "Review"
+    },
+    {
+      "char": "犠",
+      "meaning": "Sacrifice"
+    },
+    {
+      "char": "獲",
+      "meaning": "Seize"
+    },
+    {
+      "char": "敷",
+      "meaning": "Spread"
+    },
+    {
+      "char": "鋭",
+      "meaning": "Sharp"
+    },
+    {
+      "char": "透",
+      "meaning": "Transparent"
+    }
+  ],
+  "41": [
+    {
+      "char": "衣",
+      "meaning": "Clothes"
+    },
+    {
+      "char": "棄",
+      "meaning": "Abandon"
+    },
+    {
+      "char": "拠",
+      "meaning": "Based On"
+    },
+    {
+      "char": "至",
+      "meaning": "Attain"
+    },
+    {
+      "char": "蜂",
+      "meaning": "Bee"
+    },
+    {
+      "char": "炭",
+      "meaning": "Charcoal"
+    },
+    {
+      "char": "儀",
+      "meaning": "Ceremony"
+    },
+    {
+      "char": "潜",
+      "meaning": "Conceal"
+    },
+    {
+      "char": "偽",
+      "meaning": "Fake"
+    },
+    {
+      "char": "畑",
+      "meaning": "Field"
+    },
+    {
+      "char": "蛍",
+      "meaning": "Firefly"
+    },
+    {
+      "char": "拳",
+      "meaning": "Fist"
+    },
+    {
+      "char": "郷",
+      "meaning": "Hometown"
+    },
+    {
+      "char": "酎",
+      "meaning": "Hard Liquor"
+    },
+    {
+      "char": "蜜",
+      "meaning": "Honey"
+    },
+    {
+      "char": "仁",
+      "meaning": "Humanity"
+    },
+    {
+      "char": "伺",
+      "meaning": "Inquire"
+    },
+    {
+      "char": "遜",
+      "meaning": "Humble"
+    },
+    {
+      "char": "侵",
+      "meaning": "Invade"
+    },
+    {
+      "char": "鉱",
+      "meaning": "Mineral"
+    },
+    {
+      "char": "徹",
+      "meaning": "Penetrate"
+    },
+    {
+      "char": "瀬",
+      "meaning": "Rapids"
+    },
+    {
+      "char": "措",
+      "meaning": "Set Aside"
+    },
+    {
+      "char": "誠",
+      "meaning": "Sincerity"
+    },
+    {
+      "char": "虎",
+      "meaning": "Tiger"
+    },
+    {
+      "char": "艦",
+      "meaning": "Warship"
+    },
+    {
+      "char": "撤",
+      "meaning": "Withdrawal"
+    },
+    {
+      "char": "樹",
+      "meaning": "Wood"
+    },
+    {
+      "char": "包",
+      "meaning": "Wrap"
+    }
+  ],
+  "42": [
+    {
+      "char": "床",
+      "meaning": "Floor"
+    },
+    {
+      "char": "析",
+      "meaning": "Analysis"
+    },
+    {
+      "char": "弧",
+      "meaning": "Arc"
+    },
+    {
+      "char": "軸",
+      "meaning": "Axis"
+    },
+    {
+      "char": "到",
+      "meaning": "Arrival"
+    },
+    {
+      "char": "挑",
+      "meaning": "Challenge"
+    },
+    {
+      "char": "焦",
+      "meaning": "Char"
+    },
+    {
+      "char": "掘",
+      "meaning": "Dig"
+    },
+    {
+      "char": "紛",
+      "meaning": "Distract"
+    },
+    {
+      "char": "範",
+      "meaning": "Example"
+    },
+    {
+      "char": "括",
+      "meaning": "Fasten"
+    },
+    {
+      "char": "握",
+      "meaning": "Grip"
+    },
+    {
+      "char": "枢",
+      "meaning": "Hinge"
+    },
+    {
+      "char": "潟",
+      "meaning": "Lagoon"
+    },
+    {
+      "char": "揚",
+      "meaning": "Hoist"
+    },
+    {
+      "char": "芝",
+      "meaning": "Lawn"
+    },
+    {
+      "char": "肝",
+      "meaning": "Liver"
+    },
+    {
+      "char": "喪",
+      "meaning": "Mourning"
+    },
+    {
+      "char": "網",
+      "meaning": "Net"
+    },
+    {
+      "char": "泊",
+      "meaning": "Overnight"
+    },
+    {
+      "char": "柄",
+      "meaning": "Pattern"
+    },
+    {
+      "char": "双",
+      "meaning": "Pair"
+    },
+    {
+      "char": "克",
+      "meaning": "Overcome"
+    },
+    {
+      "char": "哲",
+      "meaning": "Philosophy"
+    },
+    {
+      "char": "斎",
+      "meaning": "Purification"
+    },
+    {
+      "char": "袋",
+      "meaning": "Sack"
+    },
+    {
+      "char": "揺",
+      "meaning": "Shake"
+    },
+    {
+      "char": "綱",
+      "meaning": "Rope"
+    },
+    {
+      "char": "滑",
+      "meaning": "Slide"
+    },
+    {
+      "char": "堅",
+      "meaning": "Solid"
+    },
+    {
+      "char": "糾",
+      "meaning": "Twist Together"
+    },
+    {
+      "char": "暫",
+      "meaning": "Temporarily"
+    },
+    {
+      "char": "荒",
+      "meaning": "Wild"
+    }
+  ],
+  "43": [
+    {
+      "char": "誰",
+      "meaning": "Who"
+    },
+    {
+      "char": "沼",
+      "meaning": "Bog"
+    },
+    {
+      "char": "襲",
+      "meaning": "Attack"
+    },
+    {
+      "char": "朗",
+      "meaning": "Bright"
+    },
+    {
+      "char": "趣",
+      "meaning": "Charm"
+    },
+    {
+      "char": "摩",
+      "meaning": "Chafe"
+    },
+    {
+      "char": "懲",
+      "meaning": "Chastise"
+    },
+    {
+      "char": "懇",
+      "meaning": "Courteous"
+    },
+    {
+      "char": "慰",
+      "meaning": "Consolation"
+    },
+    {
+      "char": "筒",
+      "meaning": "Cylinder"
+    },
+    {
+      "char": "滅",
+      "meaning": "Destroy"
+    },
+    {
+      "char": "威",
+      "meaning": "Dignity"
+    },
+    {
+      "char": "距",
+      "meaning": "Distance"
+    },
+    {
+      "char": "露",
+      "meaning": "Expose"
+    },
+    {
+      "char": "炉",
+      "meaning": "Furnace"
+    },
+    {
+      "char": "柔",
+      "meaning": "Gentle"
+    },
+    {
+      "char": "琴",
+      "meaning": "Harp"
+    },
+    {
+      "char": "垣",
+      "meaning": "Hedge"
+    },
+    {
+      "char": "即",
+      "meaning": "Instant"
+    },
+    {
+      "char": "牧",
+      "meaning": "Pasture"
+    },
+    {
+      "char": "滋",
+      "meaning": "Nourishing"
+    },
+    {
+      "char": "泰",
+      "meaning": "Peace"
+    },
+    {
+      "char": "旨",
+      "meaning": "Point"
+    },
+    {
+      "char": "珍",
+      "meaning": "Rare"
+    },
+    {
+      "char": "刷",
+      "meaning": "Printing"
+    },
+    {
+      "char": "籍",
+      "meaning": "Register"
+    },
+    {
+      "char": "擦",
+      "meaning": "Rub"
+    },
+    {
+      "char": "封",
+      "meaning": "Seal"
+    },
+    {
+      "char": "斉",
+      "meaning": "Simultaneous"
+    },
+    {
+      "char": "沈",
+      "meaning": "Sink"
+    },
+    {
+      "char": "撲",
+      "meaning": "Slap"
+    },
+    {
+      "char": "貢",
+      "meaning": "Tribute"
+    },
+    {
+      "char": "裂",
+      "meaning": "Split"
+    },
+    {
+      "char": "潮",
+      "meaning": "Tide"
+    },
+    {
+      "char": "岳",
+      "meaning": "Peak"
+    }
+  ],
+  "44": [
+    {
+      "char": "辛",
+      "meaning": "Spicy"
+    },
+    {
+      "char": "缶",
+      "meaning": "Can"
+    },
+    {
+      "char": "俺",
+      "meaning": "I"
+    },
+    {
+      "char": "匹",
+      "meaning": "Small Animal"
+    },
+    {
+      "char": "棚",
+      "meaning": "Shelf"
+    },
+    {
+      "char": "涙",
+      "meaning": "Teardrop"
+    },
+    {
+      "char": "刃",
+      "meaning": "Blade"
+    },
+    {
+      "char": "砲",
+      "meaning": "Cannon"
+    },
+    {
+      "char": "竜",
+      "meaning": "Dragon"
+    },
+    {
+      "char": "縁",
+      "meaning": "Edge"
+    },
+    {
+      "char": "釣",
+      "meaning": "Fishing"
+    },
+    {
+      "char": "吉",
+      "meaning": "Good Luck"
+    },
+    {
+      "char": "忍",
+      "meaning": "Endure"
+    },
+    {
+      "char": "丘",
+      "meaning": "Hill"
+    },
+    {
+      "char": "粒",
+      "meaning": "Grains"
+    },
+    {
+      "char": "斗",
+      "meaning": "Ladle"
+    },
+    {
+      "char": "髪",
+      "meaning": "Hair"
+    },
+    {
+      "char": "謎",
+      "meaning": "Mystery"
+    },
+    {
+      "char": "桃",
+      "meaning": "Peach"
+    },
+    {
+      "char": "寸",
+      "meaning": "Measurement"
+    },
+    {
+      "char": "梨",
+      "meaning": "Pear"
+    },
+    {
+      "char": "姫",
+      "meaning": "Princess"
+    },
+    {
+      "char": "侍",
+      "meaning": "Samurai"
+    },
+    {
+      "char": "叱",
+      "meaning": "Scold"
+    },
+    {
+      "char": "娯",
+      "meaning": "Recreation"
+    },
+    {
+      "char": "雷",
+      "meaning": "Thunder"
+    },
+    {
+      "char": "叫",
+      "meaning": "Shout"
+    },
+    {
+      "char": "嵐",
+      "meaning": "Storm"
+    },
+    {
+      "char": "翼",
+      "meaning": "Wing"
+    },
+    {
+      "char": "芽",
+      "meaning": "Sprout"
+    },
+    {
+      "char": "塔",
+      "meaning": "Tower"
+    },
+    {
+      "char": "朱",
+      "meaning": "Vermilion"
+    }
+  ],
+  "45": [
+    {
+      "char": "疲",
+      "meaning": "Tired"
+    },
+    {
+      "char": "井",
+      "meaning": "Well"
+    },
+    {
+      "char": "頃",
+      "meaning": "Approximate"
+    },
+    {
+      "char": "菌",
+      "meaning": "Bacteria"
+    },
+    {
+      "char": "鐘",
+      "meaning": "Bell"
+    },
+    {
+      "char": "嫁",
+      "meaning": "Bride"
+    },
+    {
+      "char": "曇",
+      "meaning": "Cloudy"
+    },
+    {
+      "char": "舟",
+      "meaning": "Boat"
+    },
+    {
+      "char": "暦",
+      "meaning": "Calendar"
+    },
+    {
+      "char": "塾",
+      "meaning": "Cram School"
+    },
+    {
+      "char": "呪",
+      "meaning": "Curse"
+    },
+    {
+      "char": "湿",
+      "meaning": "Damp"
+    },
+    {
+      "char": "稼",
+      "meaning": "Earnings"
+    },
+    {
+      "char": "賭",
+      "meaning": "Gamble"
+    },
+    {
+      "char": "霊",
+      "meaning": "Ghost"
+    },
+    {
+      "char": "狩",
+      "meaning": "Hunt"
+    },
+    {
+      "char": "溝",
+      "meaning": "Gutter"
+    },
+    {
+      "char": "脚",
+      "meaning": "Leg"
+    },
+    {
+      "char": "澄",
+      "meaning": "Lucidity"
+    },
+    {
+      "char": "塊",
+      "meaning": "Lump"
+    },
+    {
+      "char": "狂",
+      "meaning": "Lunatic"
+    },
+    {
+      "char": "嬢",
+      "meaning": "Miss"
+    },
+    {
+      "char": "裸",
+      "meaning": "Naked"
+    },
+    {
+      "char": "磨",
+      "meaning": "Polish"
+    },
+    {
+      "char": "陰",
+      "meaning": "Shade"
+    },
+    {
+      "char": "肌",
+      "meaning": "Skin"
+    },
+    {
+      "char": "魂",
+      "meaning": "Soul"
+    },
+    {
+      "char": "矛",
+      "meaning": "Spear"
+    },
+    {
+      "char": "眺",
+      "meaning": "Stare"
+    },
+    {
+      "char": "硬",
+      "meaning": "Stiff"
+    },
+    {
+      "char": "凶",
+      "meaning": "Villain"
+    },
+    {
+      "char": "卓",
+      "meaning": "Table"
+    },
+    {
+      "char": "滝",
+      "meaning": "Waterfall"
+    }
+  ],
+  "46": [
+    {
+      "char": "涼",
+      "meaning": "Cool"
+    },
+    {
+      "char": "墨",
+      "meaning": "Black Ink"
+    },
+    {
+      "char": "瞬",
+      "meaning": "Blink"
+    },
+    {
+      "char": "泡",
+      "meaning": "Bubbles"
+    },
+    {
+      "char": "穏",
+      "meaning": "Calm"
+    },
+    {
+      "char": "孔",
+      "meaning": "Cavity"
+    },
+    {
+      "char": "棟",
+      "meaning": "Building"
+    },
+    {
+      "char": "椅",
+      "meaning": "Chair"
+    },
+    {
+      "char": "菊",
+      "meaning": "Chrysanthemum"
+    },
+    {
+      "char": "綿",
+      "meaning": "Cotton"
+    },
+    {
+      "char": "魔",
+      "meaning": "Devil"
+    },
+    {
+      "char": "寮",
+      "meaning": "Dormitory"
+    },
+    {
+      "char": "鍛",
+      "meaning": "Forge"
+    },
+    {
+      "char": "鈍",
+      "meaning": "Dull"
+    },
+    {
+      "char": "碁",
+      "meaning": "Go"
+    },
+    {
+      "char": "穂",
+      "meaning": "Head of Plant"
+    },
+    {
+      "char": "癖",
+      "meaning": "Habit"
+    },
+    {
+      "char": "鍵",
+      "meaning": "Key"
+    },
+    {
+      "char": "猿",
+      "meaning": "Monkey"
+    },
+    {
+      "char": "誇",
+      "meaning": "Pride"
+    },
+    {
+      "char": "瞳",
+      "meaning": "Pupil"
+    },
+    {
+      "char": "寧",
+      "meaning": "Rather"
+    },
+    {
+      "char": "幽",
+      "meaning": "Secluded"
+    },
+    {
+      "char": "架",
+      "meaning": "Shelf"
+    },
+    {
+      "char": "黙",
+      "meaning": "Shut Up"
+    },
+    {
+      "char": "俵",
+      "meaning": "Straw Sack"
+    },
+    {
+      "char": "斬",
+      "meaning": "Slice"
+    },
+    {
+      "char": "帝",
+      "meaning": "Sovereign"
+    },
+    {
+      "char": "租",
+      "meaning": "Tariff"
+    },
+    {
+      "char": "錬",
+      "meaning": "Tempering"
+    },
+    {
+      "char": "阻",
+      "meaning": "Thwart"
+    },
+    {
+      "char": "歳",
+      "meaning": "Years Old"
+    },
+    {
+      "char": "盆",
+      "meaning": "Tray"
+    },
+    {
+      "char": "零",
+      "meaning": "Zero"
+    }
+  ],
+  "47": [
+    {
+      "char": "箸",
+      "meaning": "Chopsticks"
+    },
+    {
+      "char": "瞭",
+      "meaning": "Clear"
+    },
+    {
+      "char": "崖",
+      "meaning": "Cliff"
+    },
+    {
+      "char": "炊",
+      "meaning": "Cook"
+    },
+    {
+      "char": "幣",
+      "meaning": "Cash"
+    },
+    {
+      "char": "粧",
+      "meaning": "Cosmetics"
+    },
+    {
+      "char": "扉",
+      "meaning": "Door"
+    },
+    {
+      "char": "墜",
+      "meaning": "Crash"
+    },
+    {
+      "char": "欺",
+      "meaning": "Deceit"
+    },
+    {
+      "char": "滴",
+      "meaning": "Drip"
+    },
+    {
+      "char": "塀",
+      "meaning": "Fence"
+    },
+    {
+      "char": "霧",
+      "meaning": "Fog"
+    },
+    {
+      "char": "扇",
+      "meaning": "Folding Fan"
+    },
+    {
+      "char": "帽",
+      "meaning": "Hat"
+    },
+    {
+      "char": "恨",
+      "meaning": "Grudge"
+    },
+    {
+      "char": "佐",
+      "meaning": "Help"
+    },
+    {
+      "char": "憎",
+      "meaning": "Hate"
+    },
+    {
+      "char": "挿",
+      "meaning": "Insert"
+    },
+    {
+      "char": "詐",
+      "meaning": "Lie"
+    },
+    {
+      "char": "如",
+      "meaning": "Likeness"
+    },
+    {
+      "char": "唇",
+      "meaning": "Lips"
+    },
+    {
+      "char": "婆",
+      "meaning": "Old Woman"
+    },
+    {
+      "char": "掌",
+      "meaning": "Palm"
+    },
+    {
+      "char": "哀",
+      "meaning": "Pathetic"
+    },
+    {
+      "char": "爽",
+      "meaning": "Refreshing"
+    },
+    {
+      "char": "虹",
+      "meaning": "Rainbow"
+    },
+    {
+      "char": "憩",
+      "meaning": "Rest"
+    },
+    {
+      "char": "尺",
+      "meaning": "Shaku"
+    },
+    {
+      "char": "畳",
+      "meaning": "Tatami Mat"
+    },
+    {
+      "char": "砕",
+      "meaning": "Smash"
+    },
+    {
+      "char": "粘",
+      "meaning": "Sticky"
+    },
+    {
+      "char": "胴",
+      "meaning": "Torso"
+    },
+    {
+      "char": "巾",
+      "meaning": "Towel"
+    },
+    {
+      "char": "柳",
+      "meaning": "Willow"
+    },
+    {
+      "char": "芯",
+      "meaning": "Wick"
+    }
+  ],
+  "48": [
+    {
+      "char": "蓄",
+      "meaning": "Amass"
+    },
+    {
+      "char": "遂",
+      "meaning": "Accomplish"
+    },
+    {
+      "char": "脇",
+      "meaning": "Armpit"
+    },
+    {
+      "char": "咲",
+      "meaning": "Blossom"
+    },
+    {
+      "char": "彩",
+      "meaning": "Coloring"
+    },
+    {
+      "char": "隙",
+      "meaning": "Crevice"
+    },
+    {
+      "char": "賢",
+      "meaning": "Clever"
+    },
+    {
+      "char": "培",
+      "meaning": "Cultivate"
+    },
+    {
+      "char": "踊",
+      "meaning": "Dance"
+    },
+    {
+      "char": "斜",
+      "meaning": "Diagonal"
+    },
+    {
+      "char": "闇",
+      "meaning": "Darkness"
+    },
+    {
+      "char": "霜",
+      "meaning": "Frost"
+    },
+    {
+      "char": "鉢",
+      "meaning": "Flower Pot"
+    },
+    {
+      "char": "穫",
+      "meaning": "Harvest"
+    },
+    {
+      "char": "騎",
+      "meaning": "Horse Riding"
+    },
+    {
+      "char": "麻",
+      "meaning": "Hemp"
+    },
+    {
+      "char": "辱",
+      "meaning": "Humiliate"
+    },
+    {
+      "char": "灯",
+      "meaning": "Lamp"
+    },
+    {
+      "char": "畜",
+      "meaning": "Livestock"
+    },
+    {
+      "char": "蚊",
+      "meaning": "Mosquito"
+    },
+    {
+      "char": "溶",
+      "meaning": "Melt"
+    },
+    {
+      "char": "帳",
+      "meaning": "Notebook"
+    },
+    {
+      "char": "塗",
+      "meaning": "Paint"
+    },
+    {
+      "char": "貼",
+      "meaning": "Paste"
+    },
+    {
+      "char": "殴",
+      "meaning": "Punch"
+    },
+    {
+      "char": "輝",
+      "meaning": "Radiance"
+    },
+    {
+      "char": "悔",
+      "meaning": "Regret"
+    },
+    {
+      "char": "憶",
+      "meaning": "Recollection"
+    },
+    {
+      "char": "蛇",
+      "meaning": "Snake"
+    },
+    {
+      "char": "耐",
+      "meaning": "Resistant"
+    },
+    {
+      "char": "盾",
+      "meaning": "Shield"
+    },
+    {
+      "char": "餓",
+      "meaning": "Starve"
+    },
+    {
+      "char": "班",
+      "meaning": "Squad"
+    },
+    {
+      "char": "迅",
+      "meaning": "Swift"
+    },
+    {
+      "char": "脅",
+      "meaning": "Threaten"
+    },
+    {
+      "char": "飢",
+      "meaning": "Starve"
+    },
+    {
+      "char": "尽",
+      "meaning": "Use Up"
+    }
+  ],
+  "49": [
+    {
+      "char": "紫",
+      "meaning": "Purple"
+    },
+    {
+      "char": "概",
+      "meaning": "Approximation"
+    },
+    {
+      "char": "覆",
+      "meaning": "Capsize"
+    },
+    {
+      "char": "煮",
+      "meaning": "Boil"
+    },
+    {
+      "char": "駒",
+      "meaning": "Chess Piece"
+    },
+    {
+      "char": "拓",
+      "meaning": "Cultivation"
+    },
+    {
+      "char": "拘",
+      "meaning": "Arrest"
+    },
+    {
+      "char": "奨",
+      "meaning": "Encourage"
+    },
+    {
+      "char": "鶴",
+      "meaning": "Crane"
+    },
+    {
+      "char": "抽",
+      "meaning": "Extract"
+    },
+    {
+      "char": "淡",
+      "meaning": "Faint"
+    },
+    {
+      "char": "謀",
+      "meaning": "Conspire"
+    },
+    {
+      "char": "礎",
+      "meaning": "Foundation"
+    },
+    {
+      "char": "衰",
+      "meaning": "Decline"
+    },
+    {
+      "char": "陛",
+      "meaning": "Highness"
+    },
+    {
+      "char": "浸",
+      "meaning": "Immersed"
+    },
+    {
+      "char": "劣",
+      "meaning": "Inferiority"
+    },
+    {
+      "char": "勘",
+      "meaning": "Intuition"
+    },
+    {
+      "char": "隔",
+      "meaning": "Isolate"
+    },
+    {
+      "char": "尼",
+      "meaning": "Nun"
+    },
+    {
+      "char": "桑",
+      "meaning": "Mulberry"
+    },
+    {
+      "char": "珠",
+      "meaning": "Pearl"
+    },
+    {
+      "char": "陶",
+      "meaning": "Pottery"
+    },
+    {
+      "char": "壇",
+      "meaning": "Podium"
+    },
+    {
+      "char": "刈",
+      "meaning": "Prune"
+    },
+    {
+      "char": "悟",
+      "meaning": "Realize"
+    },
+    {
+      "char": "妃",
+      "meaning": "Royal Consort"
+    },
+    {
+      "char": "唯",
+      "meaning": "Solely"
+    },
+    {
+      "char": "剛",
+      "meaning": "Sturdy"
+    },
+    {
+      "char": "征",
+      "meaning": "Subjugate"
+    },
+    {
+      "char": "俗",
+      "meaning": "Vulgar"
+    },
+    {
+      "char": "誓",
+      "meaning": "Vow"
+    },
+    {
+      "char": "潤",
+      "meaning": "Watered"
+    }
+  ],
+  "50": [
+    {
+      "char": "晶",
+      "meaning": "Crystal"
+    },
+    {
+      "char": "偶",
+      "meaning": "Accidentally"
+    },
+    {
+      "char": "巧",
+      "meaning": "Adept"
+    },
+    {
+      "char": "駄",
+      "meaning": "Burdensome"
+    },
+    {
+      "char": "把",
+      "meaning": "Bundle"
+    },
+    {
+      "char": "洞",
+      "meaning": "Cave"
+    },
+    {
+      "char": "伯",
+      "meaning": "Chief"
+    },
+    {
+      "char": "彰",
+      "meaning": "Clear"
+    },
+    {
+      "char": "唐",
+      "meaning": "China"
+    },
+    {
+      "char": "漫",
+      "meaning": "Comic"
+    },
+    {
+      "char": "諮",
+      "meaning": "Consult"
+    },
+    {
+      "char": "廷",
+      "meaning": "Courts"
+    },
+    {
+      "char": "漂",
+      "meaning": "Drift"
+    },
+    {
+      "char": "堤",
+      "meaning": "Embankment"
+    },
+    {
+      "char": "后",
+      "meaning": "Empress"
+    },
+    {
+      "char": "疫",
+      "meaning": "Epidemic"
+    },
+    {
+      "char": "翻",
+      "meaning": "Flip"
+    },
+    {
+      "char": "鬱",
+      "meaning": "Gloom"
+    },
+    {
+      "char": "涯",
+      "meaning": "Horizon"
+    },
+    {
+      "char": "銘",
+      "meaning": "Inscription"
+    },
+    {
+      "char": "簿",
+      "meaning": "Record Book"
+    },
+    {
+      "char": "仰",
+      "meaning": "Look Up To"
+    },
+    {
+      "char": "亭",
+      "meaning": "Restaurant"
+    },
+    {
+      "char": "訂",
+      "meaning": "Revise"
+    },
+    {
+      "char": "壮",
+      "meaning": "Robust"
+    },
+    {
+      "char": "軌",
+      "meaning": "Rut"
+    },
+    {
+      "char": "奮",
+      "meaning": "Stirred Up"
+    },
+    {
+      "char": "峰",
+      "meaning": "Summit"
+    },
+    {
+      "char": "搬",
+      "meaning": "Transport"
+    },
+    {
+      "char": "邪",
+      "meaning": "Wicked"
+    },
+    {
+      "char": "墳",
+      "meaning": "Tomb"
+    }
+  ],
+  "51": [
+    {
+      "char": "玄",
+      "meaning": "Mysterious"
+    },
+    {
+      "char": "軒",
+      "meaning": "House Counter"
+    },
+    {
+      "char": "浦",
+      "meaning": "Bay"
+    },
+    {
+      "char": "召",
+      "meaning": "Call"
+    },
+    {
+      "char": "沸",
+      "meaning": "Boil"
+    },
+    {
+      "char": "瓶",
+      "meaning": "Bottle"
+    },
+    {
+      "char": "肯",
+      "meaning": "Agreement"
+    },
+    {
+      "char": "貞",
+      "meaning": "Chastity"
+    },
+    {
+      "char": "隅",
+      "meaning": "Corner"
+    },
+    {
+      "char": "襟",
+      "meaning": "Collar"
+    },
+    {
+      "char": "郡",
+      "meaning": "County"
+    },
+    {
+      "char": "燥",
+      "meaning": "Dry Up"
+    },
+    {
+      "char": "釈",
+      "meaning": "Explanation"
+    },
+    {
+      "char": "脂",
+      "meaning": "Fat"
+    },
+    {
+      "char": "偉",
+      "meaning": "Greatness"
+    },
+    {
+      "char": "肪",
+      "meaning": "Fat"
+    },
+    {
+      "char": "慈",
+      "meaning": "Mercy"
+    },
+    {
+      "char": "塚",
+      "meaning": "Mound"
+    },
+    {
+      "char": "耕",
+      "meaning": "Plow"
+    },
+    {
+      "char": "媛",
+      "meaning": "Princess"
+    },
+    {
+      "char": "挟",
+      "meaning": "Put Between"
+    },
+    {
+      "char": "邸",
+      "meaning": "Residence"
+    },
+    {
+      "char": "喚",
+      "meaning": "Scream"
+    },
+    {
+      "char": "苗",
+      "meaning": "Seedling"
+    },
+    {
+      "char": "隻",
+      "meaning": "Ship Counter"
+    },
+    {
+      "char": "軟",
+      "meaning": "Soft"
+    },
+    {
+      "char": "膚",
+      "meaning": "Skin"
+    },
+    {
+      "char": "郊",
+      "meaning": "Suburbs"
+    },
+    {
+      "char": "頂",
+      "meaning": "Summit"
+    },
+    {
+      "char": "濯",
+      "meaning": "Wash"
+    },
+    {
+      "char": "渦",
+      "meaning": "Whirlpool"
+    },
+    {
+      "char": "枯",
+      "meaning": "Wither"
+    }
+  ],
+  "52": [
+    {
+      "char": "芳",
+      "meaning": "Aromatic"
+    },
+    {
+      "char": "祥",
+      "meaning": "Auspicious"
+    },
+    {
+      "char": "呂",
+      "meaning": "Bath"
+    },
+    {
+      "char": "茨",
+      "meaning": "Briar"
+    },
+    {
+      "char": "偏",
+      "meaning": "Biased"
+    },
+    {
+      "char": "陥",
+      "meaning": "Cave In"
+    },
+    {
+      "char": "賠",
+      "meaning": "Compensation"
+    },
+    {
+      "char": "鎖",
+      "meaning": "Chain"
+    },
+    {
+      "char": "恒",
+      "meaning": "Constant"
+    },
+    {
+      "char": "没",
+      "meaning": "Die"
+    },
+    {
+      "char": "遭",
+      "meaning": "Encounter"
+    },
+    {
+      "char": "擁",
+      "meaning": "Embrace"
+    },
+    {
+      "char": "殊",
+      "meaning": "Especially"
+    },
+    {
+      "char": "噴",
+      "meaning": "Erupt"
+    },
+    {
+      "char": "倫",
+      "meaning": "Ethics"
+    },
+    {
+      "char": "陳",
+      "meaning": "Exhibit"
+    },
+    {
+      "char": "猟",
+      "meaning": "Hunting"
+    },
+    {
+      "char": "惰",
+      "meaning": "Lazy"
+    },
+    {
+      "char": "唆",
+      "meaning": "Instigate"
+    },
+    {
+      "char": "怠",
+      "meaning": "Lazy"
+    },
+    {
+      "char": "覇",
+      "meaning": "Leadership"
+    },
+    {
+      "char": "須",
+      "meaning": "Necessary"
+    },
+    {
+      "char": "牲",
+      "meaning": "Offering"
+    },
+    {
+      "char": "孤",
+      "meaning": "Orphan"
+    },
+    {
+      "char": "糧",
+      "meaning": "Provisions"
+    },
+    {
+      "char": "貫",
+      "meaning": "Pierce"
+    },
+    {
+      "char": "秩",
+      "meaning": "Order"
+    },
+    {
+      "char": "膨",
+      "meaning": "Swell"
+    },
+    {
+      "char": "慢",
+      "meaning": "Ridicule"
+    },
+    {
+      "char": "遇",
+      "meaning": "Treatment"
+    }
+  ],
+  "53": [
+    {
+      "char": "准",
+      "meaning": "Semi"
+    },
+    {
+      "char": "諭",
+      "meaning": "Admonish"
+    },
+    {
+      "char": "随",
+      "meaning": "All"
+    },
+    {
+      "char": "搭",
+      "meaning": "Board"
+    },
+    {
+      "char": "錦",
+      "meaning": "Brocade"
+    },
+    {
+      "char": "胞",
+      "meaning": "Cell"
+    },
+    {
+      "char": "浄",
+      "meaning": "Cleanse"
+    },
+    {
+      "char": "帥",
+      "meaning": "Commander"
+    },
+    {
+      "char": "稿",
+      "meaning": "Draft"
+    },
+    {
+      "char": "惨",
+      "meaning": "Disaster"
+    },
+    {
+      "char": "啓",
+      "meaning": "Enlighten"
+    },
+    {
+      "char": "披",
+      "meaning": "Expose"
+    },
+    {
+      "char": "徐",
+      "meaning": "Gently"
+    },
+    {
+      "char": "繊",
+      "meaning": "Fiber"
+    },
+    {
+      "char": "騰",
+      "meaning": "Inflation"
+    },
+    {
+      "char": "据",
+      "meaning": "Install"
+    },
+    {
+      "char": "緯",
+      "meaning": "Latitude"
+    },
+    {
+      "char": "虐",
+      "meaning": "Oppress"
+    },
+    {
+      "char": "戴",
+      "meaning": "Receive"
+    },
+    {
+      "char": "艇",
+      "meaning": "Rowboat"
+    },
+    {
+      "char": "丹",
+      "meaning": "Rust-Colored"
+    },
+    {
+      "char": "舗",
+      "meaning": "Shop"
+    },
+    {
+      "char": "壌",
+      "meaning": "Soil"
+    },
+    {
+      "char": "剰",
+      "meaning": "Surplus"
+    },
+    {
+      "char": "寛",
+      "meaning": "Tolerance"
+    }
+  ],
+  "54": [
+    {
+      "char": "顕",
+      "meaning": "Appear"
+    },
+    {
+      "char": "且",
+      "meaning": "Also"
+    },
+    {
+      "char": "庶",
+      "meaning": "Common"
+    },
+    {
+      "char": "欄",
+      "meaning": "Column"
+    },
+    {
+      "char": "酷",
+      "meaning": "Cruel"
+    },
+    {
+      "char": "冠",
+      "meaning": "Crown"
+    },
+    {
+      "char": "叙",
+      "meaning": "Describe"
+    },
+    {
+      "char": "逸",
+      "meaning": "Deviate"
+    },
+    {
+      "char": "愚",
+      "meaning": "Foolish"
+    },
+    {
+      "char": "紋",
+      "meaning": "Family Crest"
+    },
+    {
+      "char": "尚",
+      "meaning": "Furthermore"
+    },
+    {
+      "char": "拐",
+      "meaning": "Kidnap"
+    },
+    {
+      "char": "悠",
+      "meaning": "Leisure"
+    },
+    {
+      "char": "謡",
+      "meaning": "Noh Chanting"
+    },
+    {
+      "char": "勲",
+      "meaning": "Merit"
+    },
+    {
+      "char": "疎",
+      "meaning": "Neglect"
+    },
+    {
+      "char": "栽",
+      "meaning": "Planting"
+    },
+    {
+      "char": "践",
+      "meaning": "Practice"
+    },
+    {
+      "char": "呈",
+      "meaning": "Present"
+    },
+    {
+      "char": "傲",
+      "meaning": "Proud"
+    },
+    {
+      "char": "酬",
+      "meaning": "Repay"
+    },
+    {
+      "char": "疾",
+      "meaning": "Rapidly"
+    },
+    {
+      "char": "鎌",
+      "meaning": "Sickle"
+    },
+    {
+      "char": "茎",
+      "meaning": "Stem"
+    },
+    {
+      "char": "粛",
+      "meaning": "Solemn"
+    },
+    {
+      "char": "痴",
+      "meaning": "Stupid"
+    },
+    {
+      "char": "鯨",
+      "meaning": "Whale"
+    },
+    {
+      "char": "荘",
+      "meaning": "Villa"
+    },
+    {
+      "char": "卸",
+      "meaning": "Wholesale"
+    },
+    {
+      "char": "哺",
+      "meaning": "Suckle"
+    }
+  ],
+  "55": [
+    {
+      "char": "累",
+      "meaning": "Accumulate"
+    },
+    {
+      "char": "伏",
+      "meaning": "Bow"
+    },
+    {
+      "char": "虜",
+      "meaning": "Captive"
+    },
+    {
+      "char": "粗",
+      "meaning": "Coarse"
+    },
+    {
+      "char": "循",
+      "meaning": "Circulation"
+    },
+    {
+      "char": "栓",
+      "meaning": "Cork"
+    },
+    {
+      "char": "凝",
+      "meaning": "Congeal"
+    },
+    {
+      "char": "旦",
+      "meaning": "Dawn"
+    },
+    {
+      "char": "奉",
+      "meaning": "Dedicate"
+    },
+    {
+      "char": "郭",
+      "meaning": "Enclosure"
+    },
+    {
+      "char": "佳",
+      "meaning": "Excellent"
+    },
+    {
+      "char": "抹",
+      "meaning": "Erase"
+    },
+    {
+      "char": "憂",
+      "meaning": "Grief"
+    },
+    {
+      "char": "惜",
+      "meaning": "Frugal"
+    },
+    {
+      "char": "悼",
+      "meaning": "Grieve"
+    },
+    {
+      "char": "栃",
+      "meaning": "Horse Chestnut"
+    },
+    {
+      "char": "癒",
+      "meaning": "Healing"
+    },
+    {
+      "char": "髄",
+      "meaning": "Marrow"
+    },
+    {
+      "char": "弥",
+      "meaning": "Increasing"
+    },
+    {
+      "char": "傍",
+      "meaning": "Nearby"
+    },
+    {
+      "char": "愉",
+      "meaning": "Pleasant"
+    },
+    {
+      "char": "赴",
+      "meaning": "Proceed"
+    },
+    {
+      "char": "憾",
+      "meaning": "Remorse"
+    },
+    {
+      "char": "朴",
+      "meaning": "Simple"
+    },
+    {
+      "char": "該",
+      "meaning": "The Above"
+    },
+    {
+      "char": "鎮",
+      "meaning": "Tranquilize"
+    },
+    {
+      "char": "尿",
+      "meaning": "Urine"
+    },
+    {
+      "char": "賓",
+      "meaning": "VIP"
+    },
+    {
+      "char": "脊",
+      "meaning": "Stature"
+    },
+    {
+      "char": "那",
+      "meaning": "What"
+    }
+  ],
+  "56": [
+    {
+      "char": "匠",
+      "meaning": "Artisan"
+    },
+    {
+      "char": "拍",
+      "meaning": "Beat"
+    },
+    {
+      "char": "縛",
+      "meaning": "Bind"
+    },
+    {
+      "char": "飽",
+      "meaning": "Bored"
+    },
+    {
+      "char": "弦",
+      "meaning": "Chord"
+    },
+    {
+      "char": "庸",
+      "meaning": "Commonplace"
+    },
+    {
+      "char": "錯",
+      "meaning": "Confused"
+    },
+    {
+      "char": "轄",
+      "meaning": "Control"
+    },
+    {
+      "char": "悦",
+      "meaning": "Delight"
+    },
+    {
+      "char": "窮",
+      "meaning": "Destitute"
+    },
+    {
+      "char": "弊",
+      "meaning": "Evil"
+    },
+    {
+      "char": "紳",
+      "meaning": "Gentleman"
+    },
+    {
+      "char": "呉",
+      "meaning": "Give"
+    },
+    {
+      "char": "洪",
+      "meaning": "Flood"
+    },
+    {
+      "char": "摂",
+      "meaning": "In Addition"
+    },
+    {
+      "char": "穀",
+      "meaning": "Grain"
+    },
+    {
+      "char": "寂",
+      "meaning": "Lonely"
+    },
+    {
+      "char": "宰",
+      "meaning": "Manager"
+    },
+    {
+      "char": "凡",
+      "meaning": "Mediocre"
+    },
+    {
+      "char": "陵",
+      "meaning": "Mausoleum"
+    },
+    {
+      "char": "尉",
+      "meaning": "Military Officer"
+    },
+    {
+      "char": "縫",
+      "meaning": "Sew"
+    },
+    {
+      "char": "舶",
+      "meaning": "Ship"
+    },
+    {
+      "char": "恭",
+      "meaning": "Respect"
+    },
+    {
+      "char": "搾",
+      "meaning": "Squeeze"
+    },
+    {
+      "char": "猶",
+      "meaning": "Still"
+    },
+    {
+      "char": "窒",
+      "meaning": "Suffocate"
+    },
+    {
+      "char": "碑",
+      "meaning": "Tombstone"
+    }
+  ],
+  "57": [
+    {
+      "char": "漬",
+      "meaning": "Pickle"
+    },
+    {
+      "char": "盲",
+      "meaning": "Blind"
+    },
+    {
+      "char": "醸",
+      "meaning": "Brew"
+    },
+    {
+      "char": "弔",
+      "meaning": "Condolence"
+    },
+    {
+      "char": "凸",
+      "meaning": "Convex"
+    },
+    {
+      "char": "凹",
+      "meaning": "Concave"
+    },
+    {
+      "char": "敢",
+      "meaning": "Daring"
+    },
+    {
+      "char": "堕",
+      "meaning": "Degradation"
+    },
+    {
+      "char": "鼓",
+      "meaning": "Drum"
+    },
+    {
+      "char": "衡",
+      "meaning": "Equilibrium"
+    },
+    {
+      "char": "伐",
+      "meaning": "Fell"
+    },
+    {
+      "char": "酵",
+      "meaning": "Fermentation"
+    },
+    {
+      "char": "閲",
+      "meaning": "Inspection"
+    },
+    {
+      "char": "遮",
+      "meaning": "Intercept"
+    },
+    {
+      "char": "乙",
+      "meaning": "Latter"
+    },
+    {
+      "char": "腸",
+      "meaning": "Intestines"
+    },
+    {
+      "char": "紺",
+      "meaning": "Navy Blue"
+    },
+    {
+      "char": "膜",
+      "meaning": "Membrane"
+    },
+    {
+      "char": "峡",
+      "meaning": "Ravine"
+    },
+    {
+      "char": "旋",
+      "meaning": "Rotation"
+    },
+    {
+      "char": "賊",
+      "meaning": "Robber"
+    },
+    {
+      "char": "喝",
+      "meaning": "Scold"
+    },
+    {
+      "char": "俸",
+      "meaning": "Salary"
+    },
+    {
+      "char": "羅",
+      "meaning": "Spread Out"
+    },
+    {
+      "char": "槽",
+      "meaning": "Tank"
+    },
+    {
+      "char": "坪",
+      "meaning": "Two Mat Area"
+    },
+    {
+      "char": "遍",
+      "meaning": "Universal"
+    },
+    {
+      "char": "胎",
+      "meaning": "Womb"
+    },
+    {
+      "char": "瑠",
+      "meaning": "Lapis Lazuli"
+    },
+    {
+      "char": "款",
+      "meaning": "Article"
+    }
+  ],
+  "58": [
+    {
+      "char": "絹",
+      "meaning": "Silk"
+    },
+    {
+      "char": "陪",
+      "meaning": "Accompany"
+    },
+    {
+      "char": "扶",
+      "meaning": "Aid"
+    },
+    {
+      "char": "迭",
+      "meaning": "Alternate"
+    },
+    {
+      "char": "鶏",
+      "meaning": "Chicken"
+    },
+    {
+      "char": "暁",
+      "meaning": "Dawn"
+    },
+    {
+      "char": "剖",
+      "meaning": "Divide"
+    },
+    {
+      "char": "藩",
+      "meaning": "Fiefdom"
+    },
+    {
+      "char": "璃",
+      "meaning": "Glassy"
+    },
+    {
+      "char": "譜",
+      "meaning": "Genealogy"
+    },
+    {
+      "char": "傑",
+      "meaning": "Greatness"
+    },
+    {
+      "char": "淑",
+      "meaning": "Graceful"
+    },
+    {
+      "char": "殻",
+      "meaning": "Husk"
+    },
+    {
+      "char": "錠",
+      "meaning": "Lock"
+    },
+    {
+      "char": "媒",
+      "meaning": "Mediator"
+    },
+    {
+      "char": "赦",
+      "meaning": "Pardon"
+    },
+    {
+      "char": "濁",
+      "meaning": "Muddy"
+    },
+    {
+      "char": "戯",
+      "meaning": "Play"
+    },
+    {
+      "char": "享",
+      "meaning": "Receive"
+    },
+    {
+      "char": "肖",
+      "meaning": "Resemblance"
+    },
+    {
+      "char": "嘱",
+      "meaning": "Request"
+    },
+    {
+      "char": "朽",
+      "meaning": "Rot"
+    },
+    {
+      "char": "憤",
+      "meaning": "Resent"
+    },
+    {
+      "char": "帆",
+      "meaning": "Sail"
+    },
+    {
+      "char": "奔",
+      "meaning": "Run"
+    },
+    {
+      "char": "酌",
+      "meaning": "Serve"
+    },
+    {
+      "char": "慨",
+      "meaning": "Sigh"
+    },
+    {
+      "char": "窃",
+      "meaning": "Steal"
+    },
+    {
+      "char": "椎",
+      "meaning": "Spine"
+    },
+    {
+      "char": "硫",
+      "meaning": "Sulfur"
+    }
+  ],
+  "59": [
+    {
+      "char": "憧",
+      "meaning": "Long For"
+    },
+    {
+      "char": "叔",
+      "meaning": "Uncle"
+    },
+    {
+      "char": "亜",
+      "meaning": "Asia"
+    },
+    {
+      "char": "屯",
+      "meaning": "Barracks"
+    },
+    {
+      "char": "岬",
+      "meaning": "Cape"
+    },
+    {
+      "char": "詠",
+      "meaning": "Compose"
+    },
+    {
+      "char": "慶",
+      "meaning": "Congratulate"
+    },
+    {
+      "char": "鋳",
+      "meaning": "Cast"
+    },
+    {
+      "char": "篤",
+      "meaning": "Deliberate"
+    },
+    {
+      "char": "酪",
+      "meaning": "Dairy"
+    },
+    {
+      "char": "拙",
+      "meaning": "Clumsy"
+    },
+    {
+      "char": "禍",
+      "meaning": "Evil"
+    },
+    {
+      "char": "堪",
+      "meaning": "Endure"
+    },
+    {
+      "char": "雌",
+      "meaning": "Female"
+    },
+    {
+      "char": "睦",
+      "meaning": "Friendly"
+    },
+    {
+      "char": "侮",
+      "meaning": "Despise"
+    },
+    {
+      "char": "胆",
+      "meaning": "Guts"
+    },
+    {
+      "char": "擬",
+      "meaning": "Imitate"
+    },
+    {
+      "char": "漆",
+      "meaning": "Lacquer"
+    },
+    {
+      "char": "閑",
+      "meaning": "Leisure"
+    },
+    {
+      "char": "卑",
+      "meaning": "Lowly"
+    },
+    {
+      "char": "姻",
+      "meaning": "Marry"
+    },
+    {
+      "char": "峠",
+      "meaning": "Mountain Pass"
+    },
+    {
+      "char": "忌",
+      "meaning": "Mourning"
+    },
+    {
+      "char": "吟",
+      "meaning": "Recital"
+    },
+    {
+      "char": "礁",
+      "meaning": "Reef"
+    },
+    {
+      "char": "曹",
+      "meaning": "Official"
+    },
+    {
+      "char": "沙",
+      "meaning": "Sand"
+    },
+    {
+      "char": "蔑",
+      "meaning": "Scorn"
+    },
+    {
+      "char": "汰",
+      "meaning": "Select"
+    },
+    {
+      "char": "遷",
+      "meaning": "Transition"
+    },
+    {
+      "char": "紡",
+      "meaning": "Spinning"
+    },
+    {
+      "char": "浪",
+      "meaning": "Wander"
+    },
+    {
+      "char": "甚",
+      "meaning": "Very"
+    },
+    {
+      "char": "崇",
+      "meaning": "Worship"
+    }
+  ],
+  "60": [
+    {
+      "char": "湧",
+      "meaning": "Well Up"
+    },
+    {
+      "char": "囚",
+      "meaning": "Criminal"
+    },
+    {
+      "char": "煩",
+      "meaning": "Annoy"
+    },
+    {
+      "char": "蛮",
+      "meaning": "Barbarian"
+    },
+    {
+      "char": "廉",
+      "meaning": "Bargain"
+    },
+    {
+      "char": "某",
+      "meaning": "Certain"
+    },
+    {
+      "char": "劾",
+      "meaning": "Censure"
+    },
+    {
+      "char": "矯",
+      "meaning": "Correct"
+    },
+    {
+      "char": "痢",
+      "meaning": "Diarrhea"
+    },
+    {
+      "char": "逝",
+      "meaning": "Die"
+    },
+    {
+      "char": "漸",
+      "meaning": "Gradually"
+    },
+    {
+      "char": "升",
+      "meaning": "Grid"
+    },
+    {
+      "char": "婿",
+      "meaning": "Groom"
+    },
+    {
+      "char": "謹",
+      "meaning": "Humble"
+    },
+    {
+      "char": "匿",
+      "meaning": "Hide"
+    },
+    {
+      "char": "藍",
+      "meaning": "Indigo"
+    },
+    {
+      "char": "桟",
+      "meaning": "Jetty"
+    },
+    {
+      "char": "殉",
+      "meaning": "Martyr"
+    },
+    {
+      "char": "坑",
+      "meaning": "Pit"
+    },
+    {
+      "char": "罷",
+      "meaning": "Quit"
+    },
+    {
+      "char": "妄",
+      "meaning": "Reckless"
+    },
+    {
+      "char": "藻",
+      "meaning": "Seaweed"
+    },
+    {
+      "char": "泌",
+      "meaning": "Secrete"
+    },
+    {
+      "char": "唄",
+      "meaning": "Shamisen Song"
+    },
+    {
+      "char": "畔",
+      "meaning": "Shore"
+    },
+    {
+      "char": "倹",
+      "meaning": "Thrifty"
+    },
+    {
+      "char": "拷",
+      "meaning": "Torture"
+    },
+    {
+      "char": "醜",
+      "meaning": "Ugly"
+    },
+    {
+      "char": "慕",
+      "meaning": "Yearn For"
+    },
+    {
+      "char": "渓",
+      "meaning": "Valley"
+    },
+    {
+      "char": "寡",
+      "meaning": "Widow"
+    }
+  ]
+}

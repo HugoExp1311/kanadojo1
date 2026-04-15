@@ -1,0 +1,124 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String   @id @default(uuid())
+  username     String   @unique @db.VarChar(255)
+  email        String   @unique @db.VarChar(255)
+  passwordHash String   @map("password_hash") @db.VarChar(255)
+  role         String   @default("user") @db.VarChar(50)
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+  
+  // Daily Streak Trackers
+  currentStreak Int       @default(0) @map("current_streak")
+  lastStudyDate DateTime? @db.Date @map("last_study_date")
+  
+  flashcards      Flashcard[]
+  studyActivities StudyActivity[]
+
+  @@map("users")
+}
+
+model Flashcard {
+  id              Int      @id @default(autoincrement())
+  userId          String   @map("user_id")
+  lessonName      String   @map("lesson_name") @db.VarChar(255)
+  status          String   @default("processing") @db.VarChar(50)
+  dataPath        String?  @map("data_path") @db.VarChar(500)
+  cardCount       Int      @default(0) @map("card_count")
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+  
+  user            User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  cards           Card[]
+  readingSessions ReadingSession[]
+
+  @@unique([userId, lessonName])
+  @@index([userId])
+  @@index([status])
+  @@map("flashcards")
+}
+
+model Card {
+  id              Int      @id @default(autoincrement())
+  flashcardId     Int      @map("flashcard_id")
+  word            String   @db.VarChar(255)
+  meaning         String   @db.Text
+  reading         String?  @db.VarChar(255)
+  exampleSentence String?  @map("example_sentence") @db.Text
+  enExample       String?  @map("en_example") @db.Text
+  exampleReading  String?  @map("example_reading") @db.Text
+  jlptLevel       String?  @map("jlpt_level") @db.VarChar(10)
+  notes           String?  @db.Text
+  order           Int      @default(0)
+  
+  // SRS Fields (SM-2 Algorithm)
+  nextReview      DateTime? @map("next_review")
+  interval        Int       @default(0)
+  easeFactor      Float     @default(2.5) @map("ease_factor")
+  repetitions     Int       @default(0)
+  
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+  
+  flashcard Flashcard @relation(fields: [flashcardId], references: [id], onDelete: Cascade)
+  
+  @@index([flashcardId])
+  @@index([flashcardId, order])
+  @@index([nextReview]) // Fast querying for due cards
+  @@map("cards")
+}
+
+model StudyActivity {
+  id           Int      @id @default(autoincrement())
+  userId       String   @map("user_id")
+  date         DateTime @db.Date        // The specific day of activity
+  cardsStudied Int      @default(0) @map("cards_studied")
+  minutesStudied Int    @default(0) @map("minutes_studied")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId])
+  @@map("study_activities")
+}
+
+model ReadingSession {
+  id          Int      @id @default(autoincrement())
+  flashcardId Int      @map("flashcard_id")
+  jlptLevel   String   @db.VarChar(10)   // "n5" | "n4" | "n3" | "n2" | "n1"
+  difficulty  String   @db.VarChar(20)   // "easy" | "medium" | "hard"
+  theme       String   @db.VarChar(255)
+  data        Json                        // full reading passage blob
+  createdAt   DateTime @default(now())   @map("created_at")
+
+  flashcard Flashcard @relation(fields: [flashcardId], references: [id], onDelete: Cascade)
+
+  @@index([flashcardId])
+  @@map("reading_sessions")
+}
+
+model KanjiMnemonic {
+  id             Int      @id @default(autoincrement())
+  userId         String   @map("user_id")
+  kanjiChar      String   @map("kanji_char") @db.VarChar(4)
+  radicalNames   String   @map("radical_names")
+  mnemonic       String   @db.Text
+  vocabNote      String?  @map("vocab_note") @db.Text
+  flashcardId    Int      @map("flashcard_id")
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  @@unique([userId, kanjiChar])
+  @@index([userId])
+  @@map("kanji_mnemonics")
+}
+

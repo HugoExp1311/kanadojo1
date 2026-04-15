@@ -1,0 +1,1412 @@
+{
+  "n5": [
+    {
+      "pattern": "〜ます",
+      "meaning": "Polite verb ending (present/future)",
+      "structure": "Verb stem + ます",
+      "example": "毎日、学校に行きます。",
+      "exampleMeaning": "I go to school every day."
+    },
+    {
+      "pattern": "〜ません",
+      "meaning": "Polite negative verb ending",
+      "structure": "Verb stem + ません",
+      "example": "肉を食べません。",
+      "exampleMeaning": "I don't eat meat."
+    },
+    {
+      "pattern": "〜ました",
+      "meaning": "Polite past tense",
+      "structure": "Verb stem + ました",
+      "example": "昨日、映画を見ました。",
+      "exampleMeaning": "I watched a movie yesterday."
+    },
+    {
+      "pattern": "〜ませんでした",
+      "meaning": "Polite negative past tense",
+      "structure": "Verb stem + ませんでした",
+      "example": "昨日は勉強しませんでした。",
+      "exampleMeaning": "I didn't study yesterday."
+    },
+    {
+      "pattern": "〜たい",
+      "meaning": "Want to ~",
+      "structure": "Verb stem + たい",
+      "example": "水を飲みたいです。",
+      "exampleMeaning": "I want to drink water."
+    },
+    {
+      "pattern": "〜たくない",
+      "meaning": "Don't want to ~",
+      "structure": "Verb stem + たくない",
+      "example": "今日は出かけたくないです。",
+      "exampleMeaning": "I don't want to go out today."
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "Please do ~",
+      "structure": "Verb て-form + ください",
+      "example": "ここに名前を書いてください。",
+      "exampleMeaning": "Please write your name here."
+    },
+    {
+      "pattern": "〜ないでください",
+      "meaning": "Please don't do ~",
+      "structure": "Verb ない-form + でください",
+      "example": "ここで写真を撮らないでください。",
+      "exampleMeaning": "Please don't take photos here."
+    },
+    {
+      "pattern": "〜てもいい",
+      "meaning": "May ~; it's okay to ~",
+      "structure": "Verb て-form + もいい",
+      "example": "窓を開けてもいいですか。",
+      "exampleMeaning": "May I open the window?"
+    },
+    {
+      "pattern": "〜てはいけない",
+      "meaning": "Must not ~",
+      "structure": "Verb て-form + はいけない",
+      "example": "ここで泳いではいけません。",
+      "exampleMeaning": "You must not swim here."
+    },
+    {
+      "pattern": "〜ている",
+      "meaning": "Is ~ing; state of being",
+      "structure": "Verb て-form + いる",
+      "example": "今、本を読んでいます。",
+      "exampleMeaning": "I am reading a book now."
+    },
+    {
+      "pattern": "〜ましょう",
+      "meaning": "Let's ~; shall we ~",
+      "structure": "Verb stem + ましょう",
+      "example": "一緒に食べましょう。",
+      "exampleMeaning": "Let's eat together."
+    },
+    {
+      "pattern": "〜ましょうか",
+      "meaning": "Shall I ~?",
+      "structure": "Verb stem + ましょうか",
+      "example": "窓を閉めましょうか。",
+      "exampleMeaning": "Shall I close the window?"
+    },
+    {
+      "pattern": "〜が好きです",
+      "meaning": "Like ~",
+      "structure": "Noun + が好きです",
+      "example": "音楽が好きです。",
+      "exampleMeaning": "I like music."
+    },
+    {
+      "pattern": "〜が上手です",
+      "meaning": "Good at ~",
+      "structure": "Noun + が上手です",
+      "example": "田中さんは料理が上手です。",
+      "exampleMeaning": "Tanaka-san is good at cooking."
+    },
+    {
+      "pattern": "〜が下手です",
+      "meaning": "Bad at ~",
+      "structure": "Noun + が下手です",
+      "example": "私は歌が下手です。",
+      "exampleMeaning": "I am bad at singing."
+    },
+    {
+      "pattern": "〜がほしい",
+      "meaning": "Want (something)",
+      "structure": "Noun + がほしい",
+      "example": "新しいかばんがほしいです。",
+      "exampleMeaning": "I want a new bag."
+    },
+    {
+      "pattern": "〜に行く",
+      "meaning": "Go to do ~",
+      "structure": "Verb stem + に行く",
+      "example": "映画を見に行きます。",
+      "exampleMeaning": "I go to watch a movie."
+    },
+    {
+      "pattern": "〜ないで",
+      "meaning": "Without doing ~",
+      "structure": "Verb ない-form + で",
+      "example": "朝ごはんを食べないで学校に行きました。",
+      "exampleMeaning": "I went to school without eating breakfast."
+    },
+    {
+      "pattern": "〜から (reason)",
+      "meaning": "Because ~",
+      "structure": "Sentence + から",
+      "example": "暑いから、窓を開けます。",
+      "exampleMeaning": "Because it's hot, I'll open the window."
+    },
+    {
+      "pattern": "〜つもり",
+      "meaning": "Plan to ~; intend to ~",
+      "structure": "Verb dictionary form + つもり",
+      "example": "来年、日本に行くつもりです。",
+      "exampleMeaning": "I plan to go to Japan next year."
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "Can ~; able to ~",
+      "structure": "Verb dictionary form + ことができる",
+      "example": "日本語を話すことができます。",
+      "exampleMeaning": "I can speak Japanese."
+    },
+    {
+      "pattern": "〜前に",
+      "meaning": "Before ~",
+      "structure": "Verb dictionary form + 前に",
+      "example": "寝る前にシャワーをあびます。",
+      "exampleMeaning": "I take a shower before sleeping."
+    },
+    {
+      "pattern": "〜後で",
+      "meaning": "After ~",
+      "structure": "Verb た-form + 後で",
+      "example": "食べた後で歯を磨きます。",
+      "exampleMeaning": "I brush my teeth after eating."
+    },
+    {
+      "pattern": "〜方",
+      "meaning": "Way of doing ~",
+      "structure": "Verb stem + 方",
+      "example": "この漢字の読み方を教えてください。",
+      "exampleMeaning": "Please teach me how to read this kanji."
+    },
+    {
+      "pattern": "〜すぎる",
+      "meaning": "Too much ~",
+      "structure": "Verb stem / Adj stem + すぎる",
+      "example": "昨日食べすぎました。",
+      "exampleMeaning": "I ate too much yesterday."
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "Easy to ~",
+      "structure": "Verb stem + やすい",
+      "example": "このペンは書きやすいです。",
+      "exampleMeaning": "This pen is easy to write with."
+    },
+    {
+      "pattern": "〜にくい",
+      "meaning": "Hard to ~",
+      "structure": "Verb stem + にくい",
+      "example": "この漢字は覚えにくいです。",
+      "exampleMeaning": "This kanji is hard to remember."
+    },
+    {
+      "pattern": "〜なる",
+      "meaning": "To become ~",
+      "structure": "Adj く/に + なる",
+      "example": "日本語が上手になりました。",
+      "exampleMeaning": "I became good at Japanese."
+    },
+    {
+      "pattern": "〜する",
+      "meaning": "To make/do ~",
+      "structure": "Adj く/に + する",
+      "example": "部屋をきれいにしました。",
+      "exampleMeaning": "I made the room clean."
+    },
+    {
+      "pattern": "〜て (sequential)",
+      "meaning": "And then ~",
+      "structure": "Verb て-form (connecting)",
+      "example": "手を洗って、ごはんを食べます。",
+      "exampleMeaning": "I wash my hands and then eat."
+    },
+    {
+      "pattern": "〜てから",
+      "meaning": "After doing ~",
+      "structure": "Verb て-form + から",
+      "example": "宿題をしてから遊びます。",
+      "exampleMeaning": "I play after doing homework."
+    },
+    {
+      "pattern": "〜と思う",
+      "meaning": "I think ~",
+      "structure": "Plain form + と思う",
+      "example": "明日は雨だと思います。",
+      "exampleMeaning": "I think it will rain tomorrow."
+    },
+    {
+      "pattern": "〜でしょう",
+      "meaning": "Probably ~",
+      "structure": "Plain form + でしょう",
+      "example": "明日はいい天気でしょう。",
+      "exampleMeaning": "It will probably be nice weather tomorrow."
+    },
+    {
+      "pattern": "〜と言う",
+      "meaning": "To say ~",
+      "structure": "Quoted speech + と言う",
+      "example": "「行きます」と言いました。",
+      "exampleMeaning": "I said, 'I'll go.'"
+    },
+    {
+      "pattern": "〜たことがある",
+      "meaning": "Have experienced ~",
+      "structure": "Verb た-form + ことがある",
+      "example": "富士山に登ったことがあります。",
+      "exampleMeaning": "I have climbed Mt. Fuji."
+    },
+    {
+      "pattern": "〜たり〜たり",
+      "meaning": "Doing things like ~ and ~",
+      "structure": "Verb た-form + り",
+      "example": "週末は本を読んだり映画を見たりします。",
+      "exampleMeaning": "On weekends, I read books and watch movies."
+    },
+    {
+      "pattern": "〜のが好き",
+      "meaning": "Like doing ~",
+      "structure": "Verb dictionary form + のが好き",
+      "example": "歌を歌うのが好きです。",
+      "exampleMeaning": "I like singing songs."
+    },
+    {
+      "pattern": "〜まだ〜ていない",
+      "meaning": "Haven't ~ yet",
+      "structure": "まだ + Verb て-form + いない",
+      "example": "まだ昼ごはんを食べていません。",
+      "exampleMeaning": "I haven't eaten lunch yet."
+    },
+    {
+      "pattern": "〜もう〜た",
+      "meaning": "Already did ~",
+      "structure": "もう + Verb た-form",
+      "example": "もう宿題をしました。",
+      "exampleMeaning": "I already did my homework."
+    }
+  ],
+  "n4": [
+    {
+      "pattern": "〜そうだ (appearance)",
+      "meaning": "Looks like ~; seems ~",
+      "structure": "Verb stem / Adj stem + そうだ",
+      "example": "この料理はおいしそうです。",
+      "exampleMeaning": "This food looks delicious."
+    },
+    {
+      "pattern": "〜そうだ (hearsay)",
+      "meaning": "I heard that ~",
+      "structure": "Plain form + そうだ",
+      "example": "明日は雨だそうです。",
+      "exampleMeaning": "I heard it will rain tomorrow."
+    },
+    {
+      "pattern": "〜ようだ",
+      "meaning": "It seems like ~; it appears that ~",
+      "structure": "Plain form + ようだ",
+      "example": "彼は疲れているようです。",
+      "exampleMeaning": "He seems to be tired."
+    },
+    {
+      "pattern": "〜らしい",
+      "meaning": "Seems like ~; I hear ~",
+      "structure": "Plain form + らしい",
+      "example": "駅の近くに新しいお店ができたらしい。",
+      "exampleMeaning": "I hear a new shop opened near the station."
+    },
+    {
+      "pattern": "〜かもしれない",
+      "meaning": "Might ~; may ~",
+      "structure": "Plain form + かもしれない",
+      "example": "明日は雪かもしれません。",
+      "exampleMeaning": "It might snow tomorrow."
+    },
+    {
+      "pattern": "〜はずだ",
+      "meaning": "Should be ~; expected to ~",
+      "structure": "Plain form + はずだ",
+      "example": "彼はもう来るはずです。",
+      "exampleMeaning": "He should be coming soon."
+    },
+    {
+      "pattern": "〜たら",
+      "meaning": "If ~; when ~",
+      "structure": "Verb た-form + ら",
+      "example": "雨が降ったら行きません。",
+      "exampleMeaning": "If it rains, I won't go."
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "If ~",
+      "structure": "Verb ば-form",
+      "example": "安ければ買います。",
+      "exampleMeaning": "If it's cheap, I'll buy it."
+    },
+    {
+      "pattern": "〜なら",
+      "meaning": "If it's the case that ~",
+      "structure": "Plain form + なら",
+      "example": "日本に行くなら京都がいいです。",
+      "exampleMeaning": "If you're going to Japan, Kyoto is good."
+    },
+    {
+      "pattern": "〜と (conditional)",
+      "meaning": "When ~; if ~ (natural result)",
+      "structure": "Plain form + と",
+      "example": "春になると桜が咲きます。",
+      "exampleMeaning": "When spring comes, cherry blossoms bloom."
+    },
+    {
+      "pattern": "〜ても",
+      "meaning": "Even if ~; even though ~",
+      "structure": "Verb て-form + も",
+      "example": "雨が降っても行きます。",
+      "exampleMeaning": "Even if it rains, I'll go."
+    },
+    {
+      "pattern": "〜のに (contrast)",
+      "meaning": "Although ~; despite ~",
+      "structure": "Plain form + のに",
+      "example": "勉強したのにテストに落ちました。",
+      "exampleMeaning": "Although I studied, I failed the test."
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "Because ~ (softer)",
+      "structure": "Plain form + ので",
+      "example": "体調が悪いので休みます。",
+      "exampleMeaning": "Because I feel unwell, I'll rest."
+    },
+    {
+      "pattern": "〜てあげる",
+      "meaning": "Do ~ for someone (giving)",
+      "structure": "Verb て-form + あげる",
+      "example": "妹に本を読んであげました。",
+      "exampleMeaning": "I read a book for my younger sister."
+    },
+    {
+      "pattern": "〜てくれる",
+      "meaning": "Someone does ~ for me (receiving)",
+      "structure": "Verb て-form + くれる",
+      "example": "友達が手伝ってくれました。",
+      "exampleMeaning": "My friend helped me."
+    },
+    {
+      "pattern": "〜てもらう",
+      "meaning": "Have someone do ~ for me",
+      "structure": "Verb て-form + もらう",
+      "example": "先生に教えてもらいました。",
+      "exampleMeaning": "I had the teacher teach me."
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "End up doing ~; unfortunately did ~",
+      "structure": "Verb て-form + しまう",
+      "example": "鍵をなくしてしまいました。",
+      "exampleMeaning": "I ended up losing my key."
+    },
+    {
+      "pattern": "〜ておく",
+      "meaning": "Do ~ in advance; keep ~ done",
+      "structure": "Verb て-form + おく",
+      "example": "明日のために荷物を準備しておきます。",
+      "exampleMeaning": "I'll prepare luggage in advance for tomorrow."
+    },
+    {
+      "pattern": "〜てみる",
+      "meaning": "Try doing ~",
+      "structure": "Verb て-form + みる",
+      "example": "この料理を作ってみます。",
+      "exampleMeaning": "I'll try making this dish."
+    },
+    {
+      "pattern": "〜ていく",
+      "meaning": "Continue to ~ (going forward)",
+      "structure": "Verb て-form + いく",
+      "example": "これから日本語を勉強していきます。",
+      "exampleMeaning": "I will continue studying Japanese from now on."
+    },
+    {
+      "pattern": "〜てくる",
+      "meaning": "Has been ~ing (up to now)",
+      "structure": "Verb て-form + くる",
+      "example": "最近、暑くなってきました。",
+      "exampleMeaning": "It has been getting hot lately."
+    },
+    {
+      "pattern": "〜ながら",
+      "meaning": "While doing ~",
+      "structure": "Verb stem + ながら",
+      "example": "音楽を聞きながら勉強します。",
+      "exampleMeaning": "I study while listening to music."
+    },
+    {
+      "pattern": "〜なければならない",
+      "meaning": "Must ~; have to ~",
+      "structure": "Verb ない-form (drop い) + ければならない",
+      "example": "宿題をしなければなりません。",
+      "exampleMeaning": "I must do my homework."
+    },
+    {
+      "pattern": "〜なくてもいい",
+      "meaning": "Don't have to ~",
+      "structure": "Verb ない-form (drop い) + くてもいい",
+      "example": "明日は来なくてもいいですよ。",
+      "exampleMeaning": "You don't have to come tomorrow."
+    },
+    {
+      "pattern": "〜させる",
+      "meaning": "Make/let someone do ~",
+      "structure": "Verb causative form",
+      "example": "子供を外で遊ばせます。",
+      "exampleMeaning": "I let the children play outside."
+    },
+    {
+      "pattern": "〜られる (passive)",
+      "meaning": "Is done by ~; was ~ed",
+      "structure": "Verb passive form",
+      "example": "電車の中で足を踏まれました。",
+      "exampleMeaning": "My foot was stepped on in the train."
+    },
+    {
+      "pattern": "〜たらどうですか",
+      "meaning": "How about doing ~?",
+      "structure": "Verb た-form + らどうですか",
+      "example": "医者に行ったらどうですか。",
+      "exampleMeaning": "How about going to the doctor?"
+    },
+    {
+      "pattern": "〜ことにする",
+      "meaning": "Decide to ~",
+      "structure": "Verb dictionary form + ことにする",
+      "example": "毎朝走ることにしました。",
+      "exampleMeaning": "I decided to run every morning."
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "It has been decided that ~",
+      "structure": "Verb dictionary form + ことになる",
+      "example": "来月、転勤することになりました。",
+      "exampleMeaning": "It's been decided I'll transfer next month."
+    },
+    {
+      "pattern": "〜ようにする",
+      "meaning": "Try to ~; make sure to ~",
+      "structure": "Verb dictionary form + ようにする",
+      "example": "毎日野菜を食べるようにしています。",
+      "exampleMeaning": "I try to eat vegetables every day."
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "Come to ~; become able to ~",
+      "structure": "Verb dictionary form + ようになる",
+      "example": "日本語が話せるようになりました。",
+      "exampleMeaning": "I became able to speak Japanese."
+    },
+    {
+      "pattern": "〜ところ",
+      "meaning": "About to ~; in the middle of ~; just finished ~",
+      "structure": "Verb + ところ",
+      "example": "今、出かけるところです。",
+      "exampleMeaning": "I'm about to go out now."
+    },
+    {
+      "pattern": "〜ばかり",
+      "meaning": "Just did ~",
+      "structure": "Verb た-form + ばかり",
+      "example": "日本に来たばかりです。",
+      "exampleMeaning": "I just came to Japan."
+    },
+    {
+      "pattern": "〜はずがない",
+      "meaning": "Cannot be ~; impossible",
+      "structure": "Plain form + はずがない",
+      "example": "彼がうそをつくはずがない。",
+      "exampleMeaning": "It's impossible that he would lie."
+    },
+    {
+      "pattern": "〜みたいだ",
+      "meaning": "Looks like ~; seems like ~",
+      "structure": "Plain form + みたいだ",
+      "example": "彼は怒っているみたいです。",
+      "exampleMeaning": "He seems to be angry."
+    },
+    {
+      "pattern": "〜し〜し",
+      "meaning": "And what's more ~; not only ~",
+      "structure": "Plain form + し",
+      "example": "この店は安いし、おいしいし、最高です。",
+      "exampleMeaning": "This shop is cheap and tasty — it's the best."
+    },
+    {
+      "pattern": "〜てよかった",
+      "meaning": "Glad that ~",
+      "structure": "Verb て-form + よかった",
+      "example": "日本に来てよかったです。",
+      "exampleMeaning": "I'm glad I came to Japan."
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "Whether or not ~",
+      "structure": "Plain form + かどうか",
+      "example": "行くかどうか分かりません。",
+      "exampleMeaning": "I don't know whether I'll go or not."
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "Called ~; named ~",
+      "structure": "Noun + という + Noun",
+      "example": "「さくら」という店を知っていますか。",
+      "exampleMeaning": "Do you know a shop called 'Sakura'?"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "Want someone to do ~",
+      "structure": "Verb て-form + ほしい",
+      "example": "早く来てほしいです。",
+      "exampleMeaning": "I want you to come quickly."
+    }
+  ],
+  "n3": [
+    {
+      "pattern": "〜ことがある",
+      "meaning": "There are times when ~",
+      "structure": "Verb plain form + ことがある",
+      "example": "朝食を食べないことがあります。",
+      "exampleMeaning": "There are times I don't eat breakfast."
+    },
+    {
+      "pattern": "〜ことはない",
+      "meaning": "No need to ~; don't have to ~",
+      "structure": "Verb dictionary form + ことはない",
+      "example": "心配することはありません。",
+      "exampleMeaning": "There's no need to worry."
+    },
+    {
+      "pattern": "〜ことにしている",
+      "meaning": "Make it a rule to ~",
+      "structure": "Verb dictionary form + ことにしている",
+      "example": "毎日6時に起きることにしています。",
+      "exampleMeaning": "I make it a rule to wake up at 6 every day."
+    },
+    {
+      "pattern": "〜ことになっている",
+      "meaning": "It is a rule/expectation that ~",
+      "structure": "Verb dictionary form + ことになっている",
+      "example": "会議は月曜日に行うことになっています。",
+      "exampleMeaning": "Meetings are supposed to be held on Mondays."
+    },
+    {
+      "pattern": "〜わけだ",
+      "meaning": "That's why ~; it means ~",
+      "structure": "Plain form + わけだ",
+      "example": "毎日練習しているから、上手なわけだ。",
+      "exampleMeaning": "He practices every day, so that's why he's good."
+    },
+    {
+      "pattern": "〜わけではない",
+      "meaning": "It's not that ~; doesn't mean ~",
+      "structure": "Plain form + わけではない",
+      "example": "日本語は嫌いなわけではありません。",
+      "exampleMeaning": "It's not that I dislike Japanese."
+    },
+    {
+      "pattern": "〜わけにはいかない",
+      "meaning": "Cannot possibly ~; must not ~",
+      "structure": "Verb dictionary form + わけにはいかない",
+      "example": "約束を破るわけにはいきません。",
+      "exampleMeaning": "I can't possibly break my promise."
+    },
+    {
+      "pattern": "〜ように",
+      "meaning": "So that ~; in order to ~",
+      "structure": "Verb dictionary form + ように",
+      "example": "忘れないようにメモしました。",
+      "exampleMeaning": "I took notes so I wouldn't forget."
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "In order to ~; for the sake of ~",
+      "structure": "Verb dictionary form / Noun の + ために",
+      "example": "日本語を学ぶために日本に来ました。",
+      "exampleMeaning": "I came to Japan to learn Japanese."
+    },
+    {
+      "pattern": "〜ほど",
+      "meaning": "To the extent of ~; the more ~ the more",
+      "structure": "Verb dictionary form + ほど",
+      "example": "勉強すればするほど分かるようになります。",
+      "exampleMeaning": "The more you study, the more you understand."
+    },
+    {
+      "pattern": "〜ばかり (only)",
+      "meaning": "Nothing but ~; only ~",
+      "structure": "Verb て-form + ばかり",
+      "example": "弟はゲームばかりしています。",
+      "exampleMeaning": "My brother does nothing but play games."
+    },
+    {
+      "pattern": "〜くせに",
+      "meaning": "Even though ~; despite ~ (criticism)",
+      "structure": "Plain form + くせに",
+      "example": "知っているくせに教えてくれない。",
+      "exampleMeaning": "Even though he knows, he won't tell me."
+    },
+    {
+      "pattern": "〜つつ",
+      "meaning": "While ~; even though ~",
+      "structure": "Verb stem + つつ",
+      "example": "悪いと思いつつ、食べてしまった。",
+      "exampleMeaning": "Even though I knew it was bad, I ate it."
+    },
+    {
+      "pattern": "〜最中に",
+      "meaning": "In the middle of ~",
+      "structure": "Verb ている / Noun の + 最中に",
+      "example": "食事の最中に電話が来ました。",
+      "exampleMeaning": "A call came in the middle of the meal."
+    },
+    {
+      "pattern": "〜一方で",
+      "meaning": "On the other hand; while ~",
+      "structure": "Plain form + 一方で",
+      "example": "彼は厳しい一方で、優しいところもある。",
+      "exampleMeaning": "While he is strict, he also has a gentle side."
+    },
+    {
+      "pattern": "〜につれて",
+      "meaning": "As ~ (changes together)",
+      "structure": "Verb dictionary form / Noun + につれて",
+      "example": "年を取るにつれて体力が落ちる。",
+      "exampleMeaning": "As you age, your stamina decreases."
+    },
+    {
+      "pattern": "〜にしたがって",
+      "meaning": "As ~; in accordance with ~",
+      "structure": "Verb dictionary form / Noun + にしたがって",
+      "example": "気温が上がるにしたがって花が咲きます。",
+      "exampleMeaning": "As the temperature rises, flowers bloom."
+    },
+    {
+      "pattern": "〜に対して",
+      "meaning": "Towards ~; in contrast to ~",
+      "structure": "Noun + に対して",
+      "example": "先生に対して失礼なことを言いました。",
+      "exampleMeaning": "I said something rude to the teacher."
+    },
+    {
+      "pattern": "〜に関して",
+      "meaning": "Regarding ~; concerning ~",
+      "structure": "Noun + に関して",
+      "example": "この問題に関して意見を聞かせてください。",
+      "exampleMeaning": "Please share your opinion regarding this issue."
+    },
+    {
+      "pattern": "〜について",
+      "meaning": "About ~; concerning ~",
+      "structure": "Noun + について",
+      "example": "日本の文化について調べています。",
+      "exampleMeaning": "I am researching about Japanese culture."
+    },
+    {
+      "pattern": "〜によって",
+      "meaning": "Depending on ~; by means of ~",
+      "structure": "Noun + によって",
+      "example": "国によって文化が違います。",
+      "exampleMeaning": "Culture differs depending on the country."
+    },
+    {
+      "pattern": "〜によると",
+      "meaning": "According to ~",
+      "structure": "Noun + によると",
+      "example": "天気予報によると明日は晴れです。",
+      "exampleMeaning": "According to the forecast, tomorrow will be sunny."
+    },
+    {
+      "pattern": "〜向けに",
+      "meaning": "Aimed at ~; intended for ~",
+      "structure": "Noun + 向けに",
+      "example": "子供向けの本を買いました。",
+      "exampleMeaning": "I bought a book intended for children."
+    },
+    {
+      "pattern": "〜だけでなく",
+      "meaning": "Not only ~ but also",
+      "structure": "Noun / Plain form + だけでなく",
+      "example": "日本語だけでなく英語も話せます。",
+      "exampleMeaning": "I can speak not only Japanese but also English."
+    },
+    {
+      "pattern": "〜ば〜ほど",
+      "meaning": "The more ~, the more ~",
+      "structure": "Verb ば-form + Verb dictionary form + ほど",
+      "example": "食べれば食べるほど太ります。",
+      "exampleMeaning": "The more you eat, the more you gain weight."
+    },
+    {
+      "pattern": "〜以上",
+      "meaning": "Since ~; as long as ~",
+      "structure": "Plain form + 以上",
+      "example": "約束した以上、守らなければならない。",
+      "exampleMeaning": "Since I promised, I must keep it."
+    },
+    {
+      "pattern": "〜うちに",
+      "meaning": "While ~; before ~ ends",
+      "structure": "Verb dictionary form / ない-form + うちに",
+      "example": "忘れないうちにメモしておきます。",
+      "exampleMeaning": "I'll take notes before I forget."
+    },
+    {
+      "pattern": "〜上で",
+      "meaning": "After doing ~; upon ~",
+      "structure": "Verb た-form / Noun の + 上で",
+      "example": "よく考えた上で決めます。",
+      "exampleMeaning": "I'll decide after thinking carefully."
+    },
+    {
+      "pattern": "〜限り",
+      "meaning": "As long as ~",
+      "structure": "Verb dictionary form + 限り",
+      "example": "できる限り手伝います。",
+      "exampleMeaning": "I'll help as much as I can."
+    },
+    {
+      "pattern": "〜とおり",
+      "meaning": "Just as ~; exactly as ~",
+      "structure": "Verb た-form / Noun の + とおり",
+      "example": "先生が言ったとおりにしてください。",
+      "exampleMeaning": "Please do it exactly as the teacher said."
+    },
+    {
+      "pattern": "〜さえ〜ば",
+      "meaning": "If only ~; as long as ~",
+      "structure": "Noun + さえ + Verb ば-form",
+      "example": "時間さえあれば行きます。",
+      "exampleMeaning": "If only I have time, I'll go."
+    },
+    {
+      "pattern": "〜ざるを得ない",
+      "meaning": "Can't help but ~; have no choice but to ~",
+      "structure": "Verb ない-form (drop ない) + ざるを得ない",
+      "example": "仕事だから行かざるを得ない。",
+      "exampleMeaning": "It's work, so I have no choice but to go."
+    },
+    {
+      "pattern": "〜てたまらない",
+      "meaning": "Unbearably ~; can't stand ~",
+      "structure": "Verb て-form / Adj て-form + たまらない",
+      "example": "暑くてたまりません。",
+      "exampleMeaning": "It's unbearably hot."
+    },
+    {
+      "pattern": "〜どころか",
+      "meaning": "Far from ~; let alone ~",
+      "structure": "Noun / Verb + どころか",
+      "example": "漢字どころか平仮名も書けません。",
+      "exampleMeaning": "I can't write hiragana, let alone kanji."
+    },
+    {
+      "pattern": "〜っぽい",
+      "meaning": "~ish; tends to be ~",
+      "structure": "Noun / Verb stem + っぽい",
+      "example": "彼は子供っぽいところがある。",
+      "exampleMeaning": "He has a childish side."
+    },
+    {
+      "pattern": "〜からには",
+      "meaning": "Since ~; now that ~",
+      "structure": "Verb plain form + からには",
+      "example": "参加するからには全力でやります。",
+      "exampleMeaning": "Since I'm participating, I'll give it my all."
+    },
+    {
+      "pattern": "〜てならない",
+      "meaning": "Can't help but feel ~",
+      "structure": "Verb て-form / Adj て-form + ならない",
+      "example": "彼のことが気になってなりません。",
+      "exampleMeaning": "I can't stop thinking about him."
+    },
+    {
+      "pattern": "〜かける",
+      "meaning": "Start to ~ but stop; half-done",
+      "structure": "Verb stem + かける",
+      "example": "言いかけてやめました。",
+      "exampleMeaning": "I started to say something but stopped."
+    },
+    {
+      "pattern": "〜がる",
+      "meaning": "Show signs of ~; act ~",
+      "structure": "Adj stem + がる",
+      "example": "子供が怖がっています。",
+      "exampleMeaning": "The child is scared."
+    },
+    {
+      "pattern": "〜っけ",
+      "meaning": "Was it ~? (trying to remember)",
+      "structure": "Plain form + っけ",
+      "example": "会議は何時だったっけ？",
+      "exampleMeaning": "What time was the meeting again?"
+    }
+  ],
+  "n2": [
+    {
+      "pattern": "〜にもかかわらず",
+      "meaning": "Despite ~; regardless of ~",
+      "structure": "Plain form / Noun + にもかかわらず",
+      "example": "注意したにもかかわらず同じ失敗をした。",
+      "exampleMeaning": "Despite being warned, he made the same mistake."
+    },
+    {
+      "pattern": "〜に違いない",
+      "meaning": "Must be ~; no doubt ~",
+      "structure": "Plain form + に違いない",
+      "example": "彼は怒っているに違いない。",
+      "exampleMeaning": "He must be angry."
+    },
+    {
+      "pattern": "〜ものの",
+      "meaning": "Although ~; despite ~",
+      "structure": "Plain form + ものの",
+      "example": "買ったものの、使っていません。",
+      "exampleMeaning": "Although I bought it, I haven't used it."
+    },
+    {
+      "pattern": "〜ものだ",
+      "meaning": "Used to ~; naturally ~; should ~",
+      "structure": "Verb た-form + ものだ",
+      "example": "子供のころ、よく遊んだものです。",
+      "exampleMeaning": "When I was a child, I used to play a lot."
+    },
+    {
+      "pattern": "〜わけがない",
+      "meaning": "There's no way that ~",
+      "structure": "Plain form + わけがない",
+      "example": "そんなことがあるわけがない。",
+      "exampleMeaning": "There's no way that could happen."
+    },
+    {
+      "pattern": "〜にすぎない",
+      "meaning": "Merely ~; nothing more than ~",
+      "structure": "Noun / Verb plain form + にすぎない",
+      "example": "私は学生にすぎません。",
+      "exampleMeaning": "I am merely a student."
+    },
+    {
+      "pattern": "〜に限らず",
+      "meaning": "Not limited to ~; not only ~",
+      "structure": "Noun + に限らず",
+      "example": "日本に限らず世界中で人気です。",
+      "exampleMeaning": "It's popular not only in Japan but worldwide."
+    },
+    {
+      "pattern": "〜に伴って",
+      "meaning": "Along with ~; as ~ happens",
+      "structure": "Noun / Verb dictionary form + に伴って",
+      "example": "人口の増加に伴って問題も増えた。",
+      "exampleMeaning": "Problems increased along with the population growth."
+    },
+    {
+      "pattern": "〜にかけては",
+      "meaning": "When it comes to ~",
+      "structure": "Noun + にかけては",
+      "example": "料理にかけては誰にも負けません。",
+      "exampleMeaning": "When it comes to cooking, I won't lose to anyone."
+    },
+    {
+      "pattern": "〜にほかならない",
+      "meaning": "Nothing but ~; precisely ~",
+      "structure": "Noun / Plain form + にほかならない",
+      "example": "成功は努力の結果にほかならない。",
+      "exampleMeaning": "Success is nothing but the result of effort."
+    },
+    {
+      "pattern": "〜を通じて",
+      "meaning": "Through ~; throughout ~",
+      "structure": "Noun + を通じて",
+      "example": "インターネットを通じて知り合いました。",
+      "exampleMeaning": "We met through the internet."
+    },
+    {
+      "pattern": "〜を問わず",
+      "meaning": "Regardless of ~",
+      "structure": "Noun + を問わず",
+      "example": "国籍を問わず応募できます。",
+      "exampleMeaning": "You can apply regardless of nationality."
+    },
+    {
+      "pattern": "〜ともなると",
+      "meaning": "When it comes to (a significant level)",
+      "structure": "Noun + ともなると",
+      "example": "社長ともなると責任が大きい。",
+      "exampleMeaning": "When you're the president, the responsibility is great."
+    },
+    {
+      "pattern": "〜ことから",
+      "meaning": "Because of ~; from the fact that ~",
+      "structure": "Plain form + ことから",
+      "example": "この花は形が星に似ていることから「星花」と呼ばれる。",
+      "exampleMeaning": "This flower is called 'star flower' because its shape resembles a star."
+    },
+    {
+      "pattern": "〜次第だ",
+      "meaning": "Depends on ~",
+      "structure": "Noun + 次第だ",
+      "example": "結果は努力次第です。",
+      "exampleMeaning": "The result depends on your effort."
+    },
+    {
+      "pattern": "〜次第",
+      "meaning": "As soon as ~",
+      "structure": "Verb stem + 次第",
+      "example": "届き次第、連絡します。",
+      "exampleMeaning": "I'll contact you as soon as it arrives."
+    },
+    {
+      "pattern": "〜上は",
+      "meaning": "Since ~; now that ~ (formal)",
+      "structure": "Verb た-form + 上は",
+      "example": "引き受けた上は最後までやります。",
+      "exampleMeaning": "Now that I've taken it on, I'll see it through."
+    },
+    {
+      "pattern": "〜末に",
+      "meaning": "After ~ (long process)",
+      "structure": "Verb た-form / Noun の + 末に",
+      "example": "長い話し合いの末に合意しました。",
+      "exampleMeaning": "After long discussions, we reached an agreement."
+    },
+    {
+      "pattern": "〜際に",
+      "meaning": "When ~; on the occasion of ~",
+      "structure": "Verb dictionary form / Noun の + 際に",
+      "example": "お帰りの際にはお気をつけて。",
+      "exampleMeaning": "Please be careful on your way home."
+    },
+    {
+      "pattern": "〜反面",
+      "meaning": "On the other hand; while ~",
+      "structure": "Plain form + 反面",
+      "example": "便利な反面、危険もある。",
+      "exampleMeaning": "While convenient, there are also dangers."
+    },
+    {
+      "pattern": "〜一方だ",
+      "meaning": "Keep ~ing (trend)",
+      "structure": "Verb dictionary form + 一方だ",
+      "example": "物価は上がる一方です。",
+      "exampleMeaning": "Prices just keep going up."
+    },
+    {
+      "pattern": "〜つつある",
+      "meaning": "Is in the process of ~",
+      "structure": "Verb stem + つつある",
+      "example": "環境は少しずつ改善しつつある。",
+      "exampleMeaning": "The environment is gradually improving."
+    },
+    {
+      "pattern": "〜からこそ",
+      "meaning": "Precisely because ~",
+      "structure": "Plain form + からこそ",
+      "example": "好きだからこそ厳しく言うのです。",
+      "exampleMeaning": "Precisely because I like you, I speak strictly."
+    },
+    {
+      "pattern": "〜どころではない",
+      "meaning": "Not the time for ~; can't afford to ~",
+      "structure": "Verb dictionary form / Noun + どころではない",
+      "example": "忙しくて遊ぶどころではない。",
+      "exampleMeaning": "I'm too busy to even think about playing."
+    },
+    {
+      "pattern": "〜ずにはいられない",
+      "meaning": "Can't help but ~",
+      "structure": "Verb ない-form (drop ない) + ずにはいられない",
+      "example": "笑わずにはいられなかった。",
+      "exampleMeaning": "I couldn't help but laugh."
+    },
+    {
+      "pattern": "〜てはじめて",
+      "meaning": "Only after doing ~ (did I realize)",
+      "structure": "Verb て-form + はじめて",
+      "example": "日本に来てはじめて和食のおいしさが分かった。",
+      "exampleMeaning": "Only after coming to Japan did I understand how good Japanese food is."
+    },
+    {
+      "pattern": "〜がたい",
+      "meaning": "Hard to ~; difficult to ~",
+      "structure": "Verb stem + がたい",
+      "example": "信じがたい話です。",
+      "exampleMeaning": "It's a hard-to-believe story."
+    },
+    {
+      "pattern": "〜得る / 〜得ない",
+      "meaning": "Can / cannot possibly ~",
+      "structure": "Verb stem + 得る / 得ない",
+      "example": "そんなことはあり得ません。",
+      "exampleMeaning": "That's impossible."
+    },
+    {
+      "pattern": "〜ぬきで",
+      "meaning": "Without ~; excluding ~",
+      "structure": "Noun + ぬきで",
+      "example": "冗談ぬきで話しましょう。",
+      "exampleMeaning": "Let's talk without joking around."
+    },
+    {
+      "pattern": "〜に基づいて",
+      "meaning": "Based on ~",
+      "structure": "Noun + に基づいて",
+      "example": "データに基づいて判断します。",
+      "exampleMeaning": "I'll judge based on the data."
+    },
+    {
+      "pattern": "〜をはじめ",
+      "meaning": "Starting with ~; including ~",
+      "structure": "Noun + をはじめ",
+      "example": "校長先生をはじめ多くの人が参加した。",
+      "exampleMeaning": "Many people participated, starting with the principal."
+    },
+    {
+      "pattern": "〜にしても",
+      "meaning": "Even if ~; even assuming ~",
+      "structure": "Plain form / Noun + にしても",
+      "example": "冗談にしてもひどい。",
+      "exampleMeaning": "Even as a joke, that's terrible."
+    },
+    {
+      "pattern": "〜としたら",
+      "meaning": "If ~ were the case",
+      "structure": "Plain form + としたら",
+      "example": "もし一億円あるとしたら何をしますか。",
+      "exampleMeaning": "If you had 100 million yen, what would you do?"
+    },
+    {
+      "pattern": "〜ようがない",
+      "meaning": "No way to ~; can't possibly ~",
+      "structure": "Verb stem + ようがない",
+      "example": "電話番号が分からなくて連絡しようがない。",
+      "exampleMeaning": "I don't know the number, so there's no way to contact them."
+    },
+    {
+      "pattern": "〜きり",
+      "meaning": "Only; since ~ (and no change)",
+      "structure": "Verb た-form + きり",
+      "example": "あの日会ったきり連絡がない。",
+      "exampleMeaning": "Since the day we met, there's been no contact."
+    },
+    {
+      "pattern": "〜かねる",
+      "meaning": "Cannot bring oneself to ~; hard to ~",
+      "structure": "Verb stem + かねる",
+      "example": "その提案には賛成しかねます。",
+      "exampleMeaning": "I'm afraid I can't agree with that proposal."
+    },
+    {
+      "pattern": "〜かねない",
+      "meaning": "Might ~; could possibly ~",
+      "structure": "Verb stem + かねない",
+      "example": "この状況は危険になりかねない。",
+      "exampleMeaning": "This situation could become dangerous."
+    },
+    {
+      "pattern": "〜気味",
+      "meaning": "Feeling a bit ~; slightly ~",
+      "structure": "Verb stem / Noun + 気味",
+      "example": "最近少し太り気味です。",
+      "exampleMeaning": "I've been putting on a bit of weight lately."
+    },
+    {
+      "pattern": "〜がち",
+      "meaning": "Tend to ~; prone to ~ (negative)",
+      "structure": "Verb stem / Noun + がち",
+      "example": "彼は最近休みがちです。",
+      "exampleMeaning": "He tends to be absent lately."
+    },
+    {
+      "pattern": "〜に応じて",
+      "meaning": "Depending on ~; in accordance with ~",
+      "structure": "Noun + に応じて",
+      "example": "経験に応じて給料が変わります。",
+      "exampleMeaning": "Salary changes according to experience."
+    }
+  ],
+  "n1": [
+    {
+      "pattern": "〜あげく",
+      "meaning": "In the end after much ~",
+      "structure": "Verb た-form + あげく",
+      "example": "長い間考えたあげく、やめました。",
+      "exampleMeaning": "After thinking for a long time, I quit."
+    },
+    {
+      "pattern": "〜あまり",
+      "meaning": "Because of too much ~",
+      "structure": "Noun の / Verb dictionary form + あまり",
+      "example": "驚きのあまり声が出ませんでした。",
+      "exampleMeaning": "I was so surprised I couldn't speak."
+    },
+    {
+      "pattern": "〜べからず",
+      "meaning": "Must not ~ (written prohibition)",
+      "structure": "Verb dictionary form + べからず",
+      "example": "ここに入るべからず。",
+      "exampleMeaning": "Do not enter here."
+    },
+    {
+      "pattern": "〜べく",
+      "meaning": "In order to ~ (formal)",
+      "structure": "Verb dictionary form + べく",
+      "example": "日本語を学ぶべく留学しました。",
+      "exampleMeaning": "I studied abroad in order to learn Japanese."
+    },
+    {
+      "pattern": "〜であれ",
+      "meaning": "No matter ~; even if ~",
+      "structure": "Noun + であれ",
+      "example": "理由が何であれ許されない。",
+      "exampleMeaning": "Whatever the reason, it's unforgivable."
+    },
+    {
+      "pattern": "〜ではあるまいし",
+      "meaning": "It's not like ~; you're not ~",
+      "structure": "Noun + ではあるまいし",
+      "example": "子供ではあるまいし泣くな。",
+      "exampleMeaning": "You're not a child — stop crying."
+    },
+    {
+      "pattern": "〜如何",
+      "meaning": "Depending on ~",
+      "structure": "Noun + 如何",
+      "example": "結果如何では方針を変える。",
+      "exampleMeaning": "Depending on the results, we'll change our policy."
+    },
+    {
+      "pattern": "〜に即して",
+      "meaning": "In accordance with ~; based on ~",
+      "structure": "Noun + に即して",
+      "example": "現実に即した対策が必要です。",
+      "exampleMeaning": "We need measures based on reality."
+    },
+    {
+      "pattern": "〜極まりない",
+      "meaning": "Extremely ~; utterly ~",
+      "structure": "な-Adj stem + 極まりない",
+      "example": "彼の態度は失礼極まりない。",
+      "exampleMeaning": "His attitude is extremely rude."
+    },
+    {
+      "pattern": "〜まみれ",
+      "meaning": "Covered in ~ (negative)",
+      "structure": "Noun + まみれ",
+      "example": "汗まみれになって働きました。",
+      "exampleMeaning": "I worked covered in sweat."
+    },
+    {
+      "pattern": "〜めく",
+      "meaning": "To seem like ~; to have an air of ~",
+      "structure": "Noun + めく",
+      "example": "春めいてきました。",
+      "exampleMeaning": "It's beginning to feel like spring."
+    },
+    {
+      "pattern": "〜なくして",
+      "meaning": "Without ~; if not for ~",
+      "structure": "Noun + なくして",
+      "example": "努力なくして成功はない。",
+      "exampleMeaning": "Without effort, there is no success."
+    },
+    {
+      "pattern": "〜ならでは",
+      "meaning": "Unique to ~; only possible with ~",
+      "structure": "Noun + ならでは",
+      "example": "京都ならではの景色です。",
+      "exampleMeaning": "This is a view unique to Kyoto."
+    },
+    {
+      "pattern": "〜にあたって",
+      "meaning": "On the occasion of ~",
+      "structure": "Verb dictionary form / Noun + にあたって",
+      "example": "卒業にあたってお礼を言いたいです。",
+      "exampleMeaning": "I want to express my gratitude on the occasion of graduation."
+    },
+    {
+      "pattern": "〜に至る",
+      "meaning": "To reach the point of ~",
+      "structure": "Verb dictionary form / Noun + に至る",
+      "example": "今日に至るまで努力を続けてきた。",
+      "exampleMeaning": "I have continued to make efforts up to this day."
+    },
+    {
+      "pattern": "〜にしたところで",
+      "meaning": "Even for ~; even if ~ (no difference)",
+      "structure": "Noun + にしたところで",
+      "example": "専門家にしたところで分からないでしょう。",
+      "exampleMeaning": "Even an expert probably wouldn't know."
+    },
+    {
+      "pattern": "〜をもって",
+      "meaning": "With ~; by means of ~ (formal)",
+      "structure": "Noun + をもって",
+      "example": "本日をもって閉店いたします。",
+      "exampleMeaning": "We will close our store as of today."
+    },
+    {
+      "pattern": "〜を余儀なくされる",
+      "meaning": "To be forced to ~",
+      "structure": "Noun + を余儀なくされる",
+      "example": "計画の変更を余儀なくされた。",
+      "exampleMeaning": "We were forced to change the plan."
+    },
+    {
+      "pattern": "〜たところで",
+      "meaning": "Even if ~ (won't help)",
+      "structure": "Verb た-form + ところで",
+      "example": "急いだところで間に合わない。",
+      "exampleMeaning": "Even if I hurry, I won't make it in time."
+    },
+    {
+      "pattern": "〜だに",
+      "meaning": "Even just ~; the mere ~",
+      "structure": "Verb dictionary form + だに",
+      "example": "想像するだに恐ろしい。",
+      "exampleMeaning": "It's terrifying even just to imagine."
+    },
+    {
+      "pattern": "〜かたがた",
+      "meaning": "While ~; at the same time as ~ (formal)",
+      "structure": "Noun + かたがた",
+      "example": "お礼かたがた伺いました。",
+      "exampleMeaning": "I visited to express my gratitude at the same time."
+    },
+    {
+      "pattern": "〜をおいて",
+      "meaning": "Other than ~; except for ~",
+      "structure": "Noun + をおいて",
+      "example": "彼をおいて適任者はいない。",
+      "exampleMeaning": "There is no better candidate than him."
+    },
+    {
+      "pattern": "〜てこそ",
+      "meaning": "Only by doing ~; precisely because ~",
+      "structure": "Verb て-form + こそ",
+      "example": "失敗してこそ成長できる。",
+      "exampleMeaning": "Only by failing can you grow."
+    },
+    {
+      "pattern": "〜ないまでも",
+      "meaning": "Even if not ~; at least ~",
+      "structure": "Verb ない-form + までも",
+      "example": "全部でないまでも半分は読んだ。",
+      "exampleMeaning": "Even if not all, I read at least half."
+    },
+    {
+      "pattern": "〜ともなく",
+      "meaning": "Without intending to ~; aimlessly",
+      "structure": "Verb dictionary form + ともなく",
+      "example": "見るともなくテレビを見ていた。",
+      "exampleMeaning": "I was watching TV without really intending to."
+    },
+    {
+      "pattern": "〜手前",
+      "meaning": "Since ~ (social obligation); in front of ~",
+      "structure": "Verb た-form / Noun の + 手前",
+      "example": "約束した手前、行かないわけにはいかない。",
+      "exampleMeaning": "Since I promised, I have to go."
+    },
+    {
+      "pattern": "〜とあって",
+      "meaning": "Because of ~; given that ~",
+      "structure": "Plain form + とあって",
+      "example": "連休とあってどこも混んでいる。",
+      "exampleMeaning": "Because of the holidays, everywhere is crowded."
+    },
+    {
+      "pattern": "〜たるもの",
+      "meaning": "As befitting ~; someone who is ~",
+      "structure": "Noun + たるもの",
+      "example": "指導者たるものは責任を持つべきだ。",
+      "exampleMeaning": "As a leader, one should take responsibility."
+    },
+    {
+      "pattern": "〜に堪えない",
+      "meaning": "Unbearable; can't endure ~; deeply moved",
+      "structure": "Noun + に堪えない",
+      "example": "感謝に堪えません。",
+      "exampleMeaning": "I can't express enough gratitude."
+    },
+    {
+      "pattern": "〜を皮切りに",
+      "meaning": "Starting with ~; beginning from ~",
+      "structure": "Noun + を皮切りに",
+      "example": "東京を皮切りに全国ツアーを行う。",
+      "exampleMeaning": "Starting with Tokyo, we'll do a national tour."
+    },
+    {
+      "pattern": "〜ものを",
+      "meaning": "If only ~ (regret/criticism)",
+      "structure": "Verb ば-form + いいものを",
+      "example": "言ってくれればよかったものを。",
+      "exampleMeaning": "If only you had told me..."
+    },
+    {
+      "pattern": "〜始末だ",
+      "meaning": "End up ~ing (bad result)",
+      "structure": "Verb dictionary form + 始末だ",
+      "example": "遅刻した上に忘れ物をする始末だ。",
+      "exampleMeaning": "Not only was I late, I ended up forgetting things too."
+    },
+    {
+      "pattern": "〜なり",
+      "meaning": "As soon as ~",
+      "structure": "Verb dictionary form + なり",
+      "example": "帰るなりすぐ寝てしまった。",
+      "exampleMeaning": "As soon as I got home, I fell right asleep."
+    },
+    {
+      "pattern": "〜ずじまい",
+      "meaning": "End up not doing ~",
+      "structure": "Verb ない-form (drop ない) + ずじまい",
+      "example": "結局、行かずじまいだった。",
+      "exampleMeaning": "In the end, I never went."
+    },
+    {
+      "pattern": "〜にひきかえ",
+      "meaning": "In contrast to ~",
+      "structure": "Noun + にひきかえ",
+      "example": "兄にひきかえ弟は真面目だ。",
+      "exampleMeaning": "In contrast to the older brother, the younger one is serious."
+    },
+    {
+      "pattern": "〜がてら",
+      "meaning": "While doing ~; on the occasion of ~",
+      "structure": "Verb stem / Noun + がてら",
+      "example": "散歩がてら買い物に行った。",
+      "exampleMeaning": "I went shopping while taking a walk."
+    },
+    {
+      "pattern": "〜ことなしに",
+      "meaning": "Without doing ~",
+      "structure": "Verb dictionary form + ことなしに",
+      "example": "努力することなしに成功はない。",
+      "exampleMeaning": "Without making an effort, there is no success."
+    },
+    {
+      "pattern": "〜ごとき / 〜ごとく",
+      "meaning": "Like ~; as if ~ (literary)",
+      "structure": "Noun の + ごとき / ごとく",
+      "example": "光のごとく速い。",
+      "exampleMeaning": "Fast as light."
+    },
+    {
+      "pattern": "〜いかんによらず",
+      "meaning": "Regardless of ~",
+      "structure": "Noun + いかんによらず",
+      "example": "結果いかんによらず報告してください。",
+      "exampleMeaning": "Please report regardless of the results."
+    },
+    {
+      "pattern": "〜ともあろう",
+      "meaning": "Someone of the caliber of ~",
+      "structure": "Noun + ともあろう + Noun",
+      "example": "先生ともあろう人がそんなことをするとは。",
+      "exampleMeaning": "To think someone of a teacher's caliber would do such a thing."
+    }
+  ]
+}

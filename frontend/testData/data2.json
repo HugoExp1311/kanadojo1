@@ -1,0 +1,401 @@
+[
+{
+  "id": 1,
+  "type": "en",
+  "reading": "Sea",
+  "example": "The sea in Okinawa is very beautiful."
+}
+,
+{
+  "id": 1,
+  "type": "jp",
+  "vocab": "海",
+  "reading": "うみ",
+  "example": "沖縄の海はとても綺麗です。",
+  "example_reading": "おきなわのうみわとてもきれいです。"
+}
+,
+{
+  "id": 2,
+  "type": "en",
+  "reading": "Mountain",
+  "example": "This mountain is high."
+}
+,
+{
+  "id": 2,
+  "type": "jp",
+  "vocab": "山",
+  "reading": "やま",
+  "example": "この山は高いです。",
+  "example_reading": "このやまわたかいです。"
+}
+,
+{
+  "id": 3,
+  "type": "en",
+  "reading": "Postage stamp",
+  "example": "I like old postage stamps."
+}
+,
+{
+  "id": 3,
+  "type": "jp",
+  "vocab": "切手",
+  "reading": "きって",
+  "example": "私は古い切手が好きです。",
+  "example_reading": "わたしわふるいきってがすきです。"
+}
+,
+{
+  "id": 4,
+  "type": "en",
+  "reading": "Ticket",
+  "example": "The airplane ticket was expensive."
+}
+,
+{
+  "id": 4,
+  "type": "jp",
+  "vocab": "切符",
+  "reading": "きっぷ",
+  "example": "飛行機の切符は高かったです。",
+  "example_reading": "ひこうきのきっぷわたかかったです。"
+}
+,
+{
+  "id": 5,
+  "type": "en",
+  "reading": "Homework",
+  "example": "This homework is not difficult."
+}
+,
+{
+  "id": 5,
+  "type": "jp",
+  "vocab": "宿題",
+  "reading": "しゅくだい",
+  "example": "この宿題は難しくないです。",
+  "example_reading": "このしゅくだいわむずかしくないです。"
+}
+,
+{
+  "id": 6,
+  "type": "en",
+  "reading": "Food",
+  "example": "Japanese food is delicious."
+}
+,
+{
+  "id": 6,
+  "type": "jp",
+  "vocab": "食べ物",
+  "reading": "たべもの",
+  "example": "日本の食べ物は美味しいです。",
+  "example_reading": "にほんのたべものわおいしいです。"
+}
+,
+{
+  "id": 7,
+  "type": "en",
+  "reading": "Birthday",
+  "example": "I was not free on my birthday."
+}
+,
+{
+  "id": 7,
+  "type": "jp",
+  "vocab": "誕生日",
+  "reading": "たんじょうび",
+  "example": "誕生日は暇じゃありませんでした。",
+  "example_reading": "たんじょうびわひまじゃありませんでした。"
+}
+,
+{
+  "id": 8,
+  "type": "en",
+  "reading": "Weather",
+  "example": "The weather today is good, is it not?"
+}
+,
+{
+  "id": 8,
+  "type": "jp",
+  "vocab": "天気",
+  "reading": "てんき",
+  "example": "今日の天気は良いですね。",
+  "example_reading": "きょうのてんきわいいですね。"
+}
+,
+{
+  "id": 9,
+  "type": "en",
+  "reading": "Airplane",
+  "example": "Shall we go by airplane?"
+}
+,
+{
+  "id": 9,
+  "type": "jp",
+  "vocab": "飛行機",
+  "reading": "ひこうき",
+  "example": "飛行機で行きましょうか。",
+  "example_reading": "ひこうきでいきましょうか。"
+}
+,
+{
+  "id": 10,
+  "type": "en",
+  "reading": "Room",
+  "example": "My room is quiet."
+}
+,
+{
+  "id": 10,
+  "type": "jp",
+  "vocab": "部屋",
+  "reading": "へや",
+  "example": "私の部屋は静かです。",
+  "example_reading": "わたしのへやわしずかです。"
+}
+,
+{
+  "id": 11,
+  "type": "en",
+  "reading": "Travel",
+  "example": "The trip to Okinawa was fun."
+}
+,
+{
+  "id": 11,
+  "type": "jp",
+  "vocab": "旅行",
+  "reading": "りょこう",
+  "example": "沖縄旅行は楽しかったです。",
+  "example_reading": "おきなわりょこうわたのしかったです。"
+}
+,
+{
+  "id": 12,
+  "type": "en",
+  "reading": "New",
+  "example": "This automobile is new."
+}
+,
+{
+  "id": 12,
+  "type": "jp",
+  "vocab": "新しい",
+  "reading": "あたらしい",
+  "example": "この自動車は新しいです。",
+  "example_reading": "このじどうしゃわあたらしいです。"
+}
+,
+{
+  "id": 13,
+  "type": "en",
+  "reading": "Hot",
+  "example": "It was very hot yesterday."
+}
+,
+{
+  "id": 13,
+  "type": "jp",
+  "vocab": "暑い",
+  "reading": "あつい",
+  "example": "昨日はとても暑かったです。",
+  "example_reading": "きのうわとてもあつかったです。"
+}
+,
+{
+  "id": 14,
+  "type": "en",
+  "reading": "Cold",
+  "example": "It is not very cold today."
+}
+,
+{
+  "id": 14,
+  "type": "jp",
+  "vocab": "寒い",
+  "reading": "さむい",
+  "example": "今日はあまり寒くないです。",
+  "example_reading": "きょうわあまりさむくないです。"
+}
+,
+{
+  "id": 15,
+  "type": "en",
+  "reading": "Busy",
+  "example": "Monday is busy."
+}
+,
+{
+  "id": 15,
+  "type": "jp",
+  "vocab": "忙しい",
+  "reading": "いそがしい",
+  "example": "月曜日は忙しいです。",
+  "example_reading": "げつようびわいそがしいです。"
+}
+,
+{
+  "id": 16,
+  "type": "en",
+  "reading": "Interesting",
+  "example": "This test was interesting."
+}
+,
+{
+  "id": 16,
+  "type": "jp",
+  "vocab": "面白い",
+  "reading": "おもしろい",
+  "example": "このテストは面白かったです。",
+  "example_reading": "このてすとわおもしろかったです。"
+}
+,
+{
+  "id": 17,
+  "type": "en",
+  "reading": "Strict",
+  "example": "That teacher is strict."
+}
+,
+{
+  "id": 17,
+  "type": "jp",
+  "vocab": "厳しい",
+  "reading": "きびしい",
+  "example": "あの先生は厳しいです。",
+  "example_reading": "あのせんせいわきびしいです。"
+}
+,
+{
+  "id": 18,
+  "type": "en",
+  "reading": "Cheap",
+  "example": "This ticket is not cheap."
+}
+,
+{
+  "id": 18,
+  "type": "jp",
+  "vocab": "安い",
+  "reading": "やすい",
+  "example": "このチケットは安くないです。",
+  "example_reading": "このちけっとわやすくないです。"
+}
+,
+{
+  "id": 19,
+  "type": "en",
+  "reading": "Quiet",
+  "example": "That town is a quiet town."
+}
+,
+{
+  "id": 19,
+  "type": "jp",
+  "vocab": "静か",
+  "reading": "しずか",
+  "example": "その町は静かな町です。",
+  "example_reading": "そのまちわしずかなまちです。"
+}
+,
+{
+  "id": 20,
+  "type": "en",
+  "reading": "Lively",
+  "example": "This town was lively."
+}
+,
+{
+  "id": 20,
+  "type": "jp",
+  "vocab": "にぎやか",
+  "reading": "にぎやか",
+  "example": "この町はにぎやかでした。",
+  "example_reading": "このまちわにぎやかでした。"
+}
+,
+{
+  "id": 21,
+  "type": "en",
+  "reading": "Love",
+  "example": "I love surfing."
+}
+,
+{
+  "id": 21,
+  "type": "jp",
+  "vocab": "大好き",
+  "reading": "だいすき",
+  "example": "私はサーフィンが大好きです。",
+  "example_reading": "わたしわさーふぃんがだいすきです。"
+}
+,
+{
+  "id": 22,
+  "type": "en",
+  "reading": "To swim",
+  "example": "Shall we swim together?"
+}
+,
+{
+  "id": 22,
+  "type": "jp",
+  "vocab": "泳ぐ",
+  "reading": "およぐ",
+  "example": "一緒に泳ぎましょうか。",
+  "example_reading": "いっしょにおよぎましょうか。"
+}
+,
+{
+  "id": 23,
+  "type": "en",
+  "reading": "To ride",
+  "example": "Let us ride the bus."
+}
+,
+{
+  "id": 23,
+  "type": "jp",
+  "vocab": "乗る",
+  "reading": "のる",
+  "example": "バスに乗りましょう。",
+  "example_reading": "ばすにのりましょう。"
+}
+,
+{
+  "id": 24,
+  "type": "en",
+  "reading": "To go out",
+  "example": "Shall we go out together?"
+}
+,
+{
+  "id": 24,
+  "type": "jp",
+  "vocab": "出かける",
+  "reading": "でかける",
+  "example": "一緒に出かけましょうか。",
+  "example_reading": "いっしょにでかけましょうか。"
+}
+,
+{
+  "id": 25,
+  "type": "en",
+  "reading": "Okay",
+  "example": "The test was okay."
+}
+,
+{
+  "id": 25,
+  "type": "jp",
+  "vocab": "大丈夫",
+  "reading": "だいじょうぶ",
+  "example": "テストは大丈夫でした。",
+  "example_reading": "てすとわだいじょうぶでした。"
+}
+]

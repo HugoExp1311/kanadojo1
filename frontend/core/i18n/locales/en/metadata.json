@@ -1,0 +1,215 @@
+{
+  "home": {
+    "title": "KanaDojo - Learn Japanese Hiragana, Katakana, Kanji & Vocabulary Online",
+    "titleShort": "KanaDojo - Learn Japanese Online",
+    "description": "Master Japanese with KanaDojo - a fun, aesthetic, minimalist platform for learning Hiragana, Katakana, Kanji, and Vocabulary. Practice with interactive games, track progress, and customize your learning experience with 100+ themes.",
+    "descriptionShort": "Master Japanese Hiragana, Katakana, Kanji & Vocabulary with interactive games, progress tracking, and beautiful customization options.",
+    "keywords": "learn japanese 2025, learn hiragana online, learn katakana free, learn kana fast, learn kanji free, japanese vocabulary builder, hiragana practice online, katakana practice free, kanji practice app, japanese learning app 2025, japanese online lessons free, japanese writing system, JLPT preparation 2025, japanese language learning, kana dojo, japanese study tool, free japanese lessons, how to learn hiragana, how to learn katakana, how to learn kanji, best japanese learning app, japanese for beginners 2025, learn japanese online free, japanese alphabet practice, hiragana katakana chart, japanese flashcards online, interactive japanese lessons, gamified japanese learning, japanese self study, japanese practice games"
+  },
+  "kana": {
+    "title": "Kana Dojo - Learn Japanese Hiragana & Katakana by Level",
+    "titleShort": "Kana Dojo - Learn Hiragana & Katakana",
+    "description": "Master Hiragana and Katakana with interactive games and exercises. Practice Japanese kana characters by difficulty level with instant feedback and progress tracking.",
+    "keywords": "hiragana chart 2025, katakana chart, japanese kana, learn hiragana fast, learn katakana online, kana practice app, japanese alphabet, hiragana and katakana, hiragana vs katakana, learn hiragana in one day, learn katakana quickly, japanese characters, kana flashcards, hiragana chart with pronunciation, katakana pronunciation guide, japanese syllabary, hiragana writing practice, katakana writing practice, complete hiragana chart, complete katakana chart, japanese phonetic alphabet, kana memorization, hiragana quiz, katakana quiz"
+  },
+  "kanaBlitz": {
+    "title": "Kana Blitz - Test Your Hiragana & Katakana Speed",
+    "titleShort": "Kana Blitz - Test Your Speed",
+    "description": "Test your Japanese kana recognition speed with Kana Blitz. Challenge yourself with timed exercises and track your progress.",
+    "keywords": "kana speed test, hiragana speed, katakana speed, japanese kana practice, kana flashcards, speed reading kana, timed kana quiz, rapid recall hiragana, fast katakana recognition, kana drill"
+  },
+  "kanaGauntlet": {
+    "title": "Kana Gauntlet - Master Every Character",
+    "titleShort": "Kana Gauntlet - Master Every Character",
+    "description": "Master every Hiragana and Katakana character with the Kana Gauntlet. Comprehensive practice for all Japanese kana.",
+    "keywords": "kana mastery, hiragana mastery, katakana mastery, comprehensive kana practice"
+  },
+  "kanji": {
+    "title": "Kanji Dojo - Learn Japanese Kanji Characters by JLPT Level",
+    "titleShort": "Kanji Dojo - Learn Japanese Kanji",
+    "description": "Learn Japanese Kanji characters organized by JLPT levels. Practice with interactive exercises, track your progress, and master thousands of kanji.",
+    "keywords": "kanji, learn kanji 2025, japanese kanji characters, JLPT kanji 2025, kanji practice online, kanji by level, JLPT N5 kanji, JLPT N4 kanji, JLPT N3 kanji, JLPT N2 kanji, JLPT N1 kanji, how to learn kanji, kanji meanings, kanji readings, onyomi kunyomi, kanji flashcards online, japanese characters kanji, kanji study app, kanji memorization techniques, kanji writing practice, learn kanji fast, easy kanji learning, jouyou kanji, common kanji, kanji dictionary online, kanji quiz, kanji recognition practice"
+  },
+  "kanjiBlitz": {
+    "title": "Kanji Blitz - Test Your Kanji Recognition Speed",
+    "titleShort": "Kanji Blitz - Test Your Speed",
+    "description": "Test your Japanese kanji recognition speed with Kanji Blitz. Fast-paced exercises to improve your kanji skills.",
+    "keywords": "kanji speed test, kanji recognition, fast kanji practice, kanji flashcards, kanji drill, speed reading kanji, timed kanji quiz, rapid kanji recall, kanji speed reading, JLPT kanji practice"
+  },
+  "kanjiGauntlet": {
+    "title": "Kanji Gauntlet - Master Every Character",
+    "titleShort": "Kanji Gauntlet - Master Every Character",
+    "description": "Master every Kanji character with the Kanji Gauntlet. Comprehensive practice for all JLPT levels.",
+    "keywords": "kanji mastery, comprehensive kanji practice, all JLPT kanji"
+  },
+  "vocabulary": {
+    "title": "Vocabulary Dojo - Learn Japanese Words & Vocabulary by JLPT Level",
+    "titleShort": "Vocabulary Dojo - Learn Japanese Words",
+    "description": "Expand your Japanese vocabulary with words organized by JLPT levels. Interactive exercises, example sentences, and progress tracking.",
+    "keywords": "japanese vocabulary 2025, learn japanese words online, JLPT vocabulary 2025, vocabulary practice app, japanese word list, vocabulary flashcards online, japanese phrases, JLPT word study, vocabulary by level, japanese vocabulary app, common japanese words, essential japanese vocabulary, japanese words for beginners, JLPT N5 vocabulary, JLPT N4 vocabulary, JLPT N3 vocabulary, japanese vocabulary builder, learn japanese vocabulary fast, japanese word meanings, japanese vocabulary quiz, japanese phrases with english, everyday japanese vocabulary, japanese vocabulary with audio"
+  },
+  "vocabularyBlitz": {
+    "title": "Vocabulary Blitz - Test Your Japanese Vocabulary Speed",
+    "titleShort": "Vocabulary Blitz - Test Your Speed",
+    "description": "Test your Japanese vocabulary speed with Vocabulary Blitz. Fast-paced word recognition exercises.",
+    "keywords": "vocabulary speed test, japanese words, fast vocabulary practice, vocabulary flashcards, word drill, speed reading japanese, timed vocabulary quiz, rapid word recall, JLPT vocabulary practice, japanese word recognition"
+  },
+  "vocabularyGauntlet": {
+    "title": "Vocabulary Gauntlet - Master Every Word",
+    "titleShort": "Vocabulary Gauntlet - Master Every Word",
+    "description": "Master comprehensive Japanese vocabulary with the Vocabulary Gauntlet. Practice all JLPT words.",
+    "keywords": "vocabulary mastery, comprehensive vocabulary, all JLPT words"
+  },
+  "academy": {
+    "title": "Academy - Japanese Learning Articles | KanaDojo",
+    "titleShort": "Academy - Japanese Learning Articles",
+    "description": "Read comprehensive guides and articles about learning Japanese. Tips, tricks, and insights for mastering Hiragana, Katakana, Kanji, and Vocabulary.",
+    "keywords": "japanese learning guides, japanese tips, hiragana guide, katakana guide, kanji guide"
+  },
+  "preferences": {
+    "title": "Preferences - Customize Your Learning Experience",
+    "titleShort": "Preferences - Customize KanaDojo",
+    "description": "Customize your KanaDojo learning experience. Choose themes, fonts, and configure your learning preferences.",
+    "keywords": "customize KanaDojo, learning preferences, themes, fonts"
+  },
+  "progress": {
+    "title": "Progress - Track Your Japanese Learning Statistics",
+    "titleShort": "Progress - Your Learning Stats",
+    "description": "Track your Japanese learning progress. View detailed statistics, achievements, and learning milestones.",
+    "keywords": "learning progress, japanese statistics, learning analytics"
+  },
+  "privacy": {
+    "title": "Privacy Policy - Your Data Protection at KanaDojo",
+    "titleShort": "Privacy Policy",
+    "description": "Learn how KanaDojo protects your privacy and handles your data. Our commitment to user privacy and data security.",
+    "keywords": "privacy policy, data protection, user privacy"
+  },
+  "terms": {
+    "title": "Terms of Service - KanaDojo Usage Guidelines",
+    "titleShort": "Terms of Service",
+    "description": "Read the KanaDojo Terms of Service. Guidelines for using our Japanese learning platform.",
+    "keywords": "terms of service, usage guidelines, terms and conditions"
+  },
+  "security": {
+    "title": "Security Policy - How We Keep KanaDojo Safe",
+    "titleShort": "Security Policy",
+    "description": "Learn about KanaDojo's security measures and how we protect our platform and users.",
+    "keywords": "security policy, platform security, data security"
+  },
+  "credits": {
+    "title": "Credits - Contributors & Supporters",
+    "titleShort": "Credits",
+    "description": "Meet the contributors and supporters who make KanaDojo possible. Our community of developers, designers, and supporters.",
+    "keywords": "credits, contributors, supporters, community"
+  },
+  "patchNotes": {
+    "title": "Patch Notes - Latest Updates & Features",
+    "titleShort": "Patch Notes",
+    "description": "Stay updated with the latest KanaDojo features, improvements, and bug fixes. View our changelog and update history.",
+    "keywords": "patch notes, updates, changelog, new features"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions - KanaDojo Help & Support",
+    "titleShort": "FAQ - Help & Support",
+    "description": "KanaDojo FAQ: clear answers about learning Hiragana, Katakana, Kanji, and JLPT vocabulary online. Learn how progress tracking works, which practice modes to use, privacy/data storage details, and the best beginner learning path.",
+    "keywords": "kanadojo faq, japanese learning faq, learn hiragana faq, learn katakana faq, learn kanji faq, kana practice questions, kanji practice questions, JLPT preparation faq, jlpt n5 study plan, japanese vocabulary practice, how to learn japanese online, japanese learning app help, how to use kanadojo, kana flashcard practice, typing kana practice, recognition vs recall, progress tracking japanese study, local browser storage progress, no account japanese learning, free japanese learning website, japanese study troubleshooting"
+  },
+  "experiments": {
+    "title": "Experiments - Explore Alternative Learning Methods",
+    "titleShort": "Experiments",
+    "description": "Explore experimental features and alternative learning methods for Japanese. Try new ways to practice and learn.",
+    "keywords": "experiments, alternative learning, japanese practice methods"
+  },
+  "translate": {
+    "title": "Translate English to Japanese | Free Japanese Translator - KanaDojo",
+    "titleShort": "English to Japanese Translator | Free & Instant",
+    "description": "Translate English to Japanese instantly for free. Get Japanese to English translation with romaji pronunciation. No signup required. Trusted by learners worldwide for accurate hiragana, katakana & kanji translation.",
+    "keywords": "translate english to japanese 2025, english to japanese translator free, japanese translator online, translate japanese to english free, free japanese translator online, japanese to english translator with romaji, online japanese translator free, japanese translation accurate, english japanese translator, romaji translator online, japanese romanization tool, translate japanese text, japanese to english translation free, english to japanese translation instant, japanese text translator, instant japanese translation, accurate japanese translator 2025, japanese english dictionary online, translate japanese online free no signup, japanese to english converter, hiragana to english translator, katakana to english translator, kanji to english meaning, anime subtitle translator, japanese name translator free, japanese menu translator, japanese sentence translator, japanese paragraph translator, best free japanese translator, google translate japanese alternative"
+  },
+  "zen": {
+    "title": "Zen Mode - Distraction-Free Japanese Practice",
+    "titleShort": "Zen Mode",
+    "description": "Practice Japanese in a distraction-free, minimalist environment. Focus on your learning with Zen Mode.",
+    "keywords": "zen mode, focused practice, minimalist learning, distraction-free"
+  },
+  "kanaTrain": {
+    "title": "Kana Training - Practice Hiragana & Katakana",
+    "titleShort": "Kana Training",
+    "description": "Train your Hiragana and Katakana skills with structured practice sessions. Build muscle memory and improve recognition.",
+    "keywords": "kana training, hiragana practice, katakana practice, structured learning"
+  },
+  "kanjiTrain": {
+    "title": "Kanji Training - Practice Japanese Kanji",
+    "titleShort": "Kanji Training",
+    "description": "Train your Kanji recognition and writing with structured practice sessions. Master Japanese characters progressively.",
+    "keywords": "kanji training, kanji practice, structured kanji learning"
+  },
+  "vocabularyTrain": {
+    "title": "Vocabulary Training - Practice Japanese Words",
+    "titleShort": "Vocabulary Training",
+    "description": "Train your Japanese vocabulary with structured practice sessions. Learn and retain new words effectively.",
+    "keywords": "vocabulary training, word practice, structured vocabulary learning, japanese vocabulary drills, word retention, spaced repetition vocabulary, vocabulary exercises, JLPT vocabulary training"
+  },
+  "kanaSubset": {
+    "hiraganaBase": {
+      "title": "Hiragana Base Characters (あ-わ) - Learn Basic Hiragana | KanaDojo",
+      "titleShort": "Hiragana Base Characters",
+      "description": "Master the 46 basic Hiragana characters (あいうえお, かきくけこ, さしすせそ, etc.). Complete reference guide with romanization for all fundamental Japanese hiragana.",
+      "keywords": "hiragana base, basic hiragana, hiragana chart, あいうえお, hiragana reference, learn hiragana basics, japanese alphabet hiragana, hiragana romanization"
+    },
+    "hiraganaDakuon": {
+      "title": "Hiragana Dakuon (が-ぽ) - Voiced Hiragana Characters | KanaDojo",
+      "titleShort": "Hiragana Dakuon Characters",
+      "description": "Learn Hiragana Dakuon and Handakuon voiced characters (がぎぐげご, ざじずぜぞ, だぢづでど, ばびぶべぼ, ぱぴぷぺぽ). Master all 25 voiced hiragana with pronunciation guide.",
+      "keywords": "hiragana dakuon, voiced hiragana, hiragana with dakuten, がぎぐげご, hiragana handakuon, ばびぶべぼ, ぱぴぷぺぽ, hiragana voiced characters"
+    },
+    "hiraganaYoon": {
+      "title": "Hiragana Yoon (きゃ-りょ) - Combined Hiragana Characters | KanaDojo",
+      "titleShort": "Hiragana Yoon Characters",
+      "description": "Master Hiragana Yoon combination characters (きゃきゅきょ, しゃしゅしょ, ちゃちゅちょ, etc.). Learn all 33 combined hiragana sounds with romanization.",
+      "keywords": "hiragana yoon, combined hiragana, hiragana combinations, きゃきゅきょ, しゃしゅしょ, ちゃちゅちょ, hiragana digraphs, yoon hiragana"
+    },
+    "katakanaBase": {
+      "title": "Katakana Base Characters (ア-ワ) - Learn Basic Katakana | KanaDojo",
+      "titleShort": "Katakana Base Characters",
+      "description": "Master the 46 basic Katakana characters (アイウエオ, カキクケコ, サシスセソ, etc.). Complete reference guide with romanization for all fundamental Japanese katakana.",
+      "keywords": "katakana base, basic katakana, katakana chart, アイウエオ, katakana reference, learn katakana basics, japanese alphabet katakana, katakana romanization"
+    },
+    "katakanaDakuon": {
+      "title": "Katakana Dakuon (ガ-ポ) - Voiced Katakana Characters | KanaDojo",
+      "titleShort": "Katakana Dakuon Characters",
+      "description": "Learn Katakana Dakuon and Handakuon voiced characters (ガギグゲゴ, ザジズゼゾ, ダヂヅデド, バビブベボ, パピプペポ). Master all 25 voiced katakana with pronunciation guide.",
+      "keywords": "katakana dakuon, voiced katakana, katakana with dakuten, ガギグゲゴ, katakana handakuon, バビブベボ, パピプペポ, katakana voiced characters"
+    },
+    "katakanaYoon": {
+      "title": "Katakana Yoon (キャ-リョ) - Combined Katakana Characters | KanaDojo",
+      "titleShort": "Katakana Yoon Characters",
+      "description": "Master Katakana Yoon combination characters (キャキュキョ, シャシュショ, チャチュチョ, etc.). Learn all 33 combined katakana sounds with romanization.",
+      "keywords": "katakana yoon, combined katakana, katakana combinations, キャキュキョ, シャシュショ, チャチュチョ, katakana digraphs, yoon katakana"
+    },
+    "katakanaForeign": {
+      "title": "Katakana Foreign Sounds (ファ-ウィ) - Extended Katakana | KanaDojo",
+      "titleShort": "Katakana Foreign Sounds",
+      "description": "Learn extended Katakana characters for foreign loanwords (ファ, フィ, ウィ, ウェ, etc.). Master special katakana combinations used in modern Japanese.",
+      "keywords": "katakana foreign sounds, extended katakana, katakana loanwords, ファフィ, ウィウェ, special katakana, modern katakana, foreign word katakana"
+    }
+  },
+  "hiraganaPractice": {
+    "title": "Hiragana Practice - Learn Hiragana Fast | KanaDojo",
+    "titleShort": "Hiragana Practice",
+    "description": "Practice Japanese Hiragana with interactive drills and games. Learn the hiragana chart, improve reading speed, and build confidence with instant feedback.",
+    "keywords": "hiragana practice, practice hiragana, learn hiragana, hiragana chart, hiragana drills, hiragana quiz, hiragana games, japanese hiragana"
+  },
+  "katakanaPractice": {
+    "title": "Katakana Practice - Learn Katakana Fast | KanaDojo",
+    "titleShort": "Katakana Practice",
+    "description": "Practice Japanese Katakana with interactive drills and games. Master katakana quickly with instant feedback and progress tracking.",
+    "keywords": "katakana practice, practice katakana, learn katakana, katakana chart, katakana drills, katakana quiz, katakana games, japanese katakana"
+  },
+  "kanjiPractice": {
+    "title": "Kanji Practice - Learn Kanji by JLPT Level | KanaDojo",
+    "titleShort": "Kanji Practice",
+    "description": "Practice Japanese Kanji by JLPT level with interactive training. Improve recognition, readings, and retention with fast drills and progress tracking.",
+    "keywords": "kanji practice, practice kanji, learn kanji, jlpt kanji, kanji by level, kanji drills, kanji quiz, japanese kanji"
+  }
+}
